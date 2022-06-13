@@ -24,12 +24,7 @@ TBA
 
 ### Previous Editions 
 
-
 - [Learning with Disagreement, 2021, 1st edition](https://sites.google.com/view/semeval2021-task12) 
-
-### Organisers
-
-TBA
 
 #### Acknowledgements
 
