@@ -2,32 +2,35 @@
 
 Welcome to the page of the SemEval 2023 shared task on Learning with Disagreements, 2nd edition 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Overview
 
-```markdown
-Syntax highlighted code block
+TBA
 
-# Header 1
-## Header 2
-### Header 3
+### Important Dates
 
-- Bulleted
-- List
+- Sample data ready 15 July 2022
+- Training data ready 1 September 2022
+- Evaluation start 10 January 2023
+- Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date)
+- System paper submission due February 2023
+- Task paper submission due February 2023
+- Notification to authors March 2023
+- Camera ready due April 2023
+- SemEval workshop Summer 2023 (co-located with a major NLP conference)
 
-1. Numbered
-2. List
+### Organisers
 
-**Bold** and _Italic_ and `Code` text
+TBA
 
-[Link](url) and ![Image](src)
-```
+### Previous Editions 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+- [Learning with Disagreement, 2021, 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Le-Wi-Di/le-wi-di.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Organisers
 
-### Support or Contact
+TBA
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### Acknowledgements
+
+#### References
