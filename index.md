@@ -20,7 +20,18 @@ TBA
 
 ### Organisers
 
-TBA
+- [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), FKB Trento, Italy
+- [Gavin Abercrombie](https://gavinabercrombie.github.io/), Heriot Watt University Edinburgh, UK
+- [Valerio Basile](https://valeriobasile.github.io/), University of Turin, IT
+- [Tommaso Fornaciari](https://fornaciari.netlify.app/), Italian National Policem IT
+- [Barbara Plank](https://bplank.github.io/), LMU Munich, DE
+- [Massimo Poesio](https://sites.google.com/view/massimo-poesio), Queen Mary University, UK
+- [Verena Rieser](https://sites.google.com/site/verenateresarieser/home), Heriot Watt University Edinburgh, UK
+- [Alexandra N Uma](https://www.semanticscholar.org/author/Alexandra-Uma/51229008), Connex One, UK
+
+### Join our Google group
+
+TBA 
 
 ### Previous Editions 
 
@@ -28,4 +39,8 @@ TBA
 
 #### Acknowledgements
 
+TBA
+
 #### References
+
+TBA
