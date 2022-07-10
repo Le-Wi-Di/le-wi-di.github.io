@@ -4,7 +4,9 @@ Welcome to the page of the SemEval 2023 shared task on Learning with Disagreemen
 
 ### Overview
 
-TBA
+In recent years, the assumption that natural language (NL) expressions have a single and clearly identifiable interpretation in a given context is more and more recognized as just a convenient idealization. The objective of the Learning with Disagreement shared task is to provide a unified testing framework for learning from disagreements, using datasets containing information about disagreements for interpreting language. [Learning with Disagreement (Le-Wi-Di) 2021](https://sites.google.com/view/semeval2021-task12)  created a benchmark consisting of 6 existing and widely used datasets, but focusing primarily on semantic ambiguity and image classification. 
+
+For SemEval 2023, we run a second shared task on the topic of Learning with Disagreement: (i) the focus is entirely on subjective tasks, where training with aggregated labels makes much less sense, and (ii) while relying on the same infrastructure, it will involve completely new datasets. We believe that the shared task thus reformulated is extremely timely, given the current high degree of interest in subjective tasks such as offensive language detection in general, and in particular on the issue of disagreements in such data (Basile et al., 2021; Leonardelli et al., 2021; Akhtar et al., 2021; Davani et al., 2022; Uma et al., 2021) and we hope it attract substantial interest from the community.
 
 ### Important Dates
 
