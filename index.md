@@ -31,9 +31,14 @@ For SemEval 2023, we run a second shared task on the topic of Learning with Disa
 - [Verena Rieser](https://sites.google.com/site/verenateresarieser/home), Heriot Watt University Edinburgh, UK
 - [Alexandra N Uma](https://www.semanticscholar.org/author/Alexandra-Uma/51229008), Connex One, UK
 
-### Join our Google group
+### Communication
 
-TBA 
+
+Join our [google group](le-wi-di-semeval2023_participants@googlegroups.com). We'll keep you updated with the news about the task.
+
+[Contact us directly](le-wi-di-semeval2023_contactus@googlegroups.com), if you have further inquiries.
+
+Follow us on [Twitter](https://twitter.com/LeWiDi_Sem2023), for news about learning with disagreements and more!
 
 ### Previous Editions 
 
