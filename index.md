@@ -1,4 +1,4 @@
-## Welcome to Learning with Disagreements 
+## Welcome to Learning with Disagreements 👎👍 
 
 Welcome to the page of the SemEval 2023 shared task on Learning with Disagreements, 2nd edition 
 
