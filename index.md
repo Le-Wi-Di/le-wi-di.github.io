@@ -34,9 +34,9 @@ For SemEval 2023, we run a second shared task on the topic of Learning with Disa
 ### Communication
 
 
-Join our [google group](le-wi-di-semeval2023_participants@googlegroups.com). We'll keep you updated with the news about the task.
+Join our [google group](mailto:le-wi-di-semeval2023_participants@googlegroups.com). We'll keep you updated with the news about the task.
 
-[Contact us directly](le-wi-di-semeval2023_contactus@googlegroups.com), if you have further inquiries.
+[Contact us directly](mailto:le-wi-di-semeval2023_contactus@googlegroups.com), if you have further inquiries.
 
 Follow us on [Twitter](https://twitter.com/LeWiDi_Sem2023), for news about learning with disagreements and more!
 
