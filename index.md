@@ -1,6 +1,6 @@
-## Welcome to Learning with Disagreements 
+## Welcome to Learning with Disagreements 👎👍
 
-👎👍 Welcome to the page of the SemEval 2023 shared task on Learning with Disagreements, 2nd edition 
+Welcome to the page of the SemEval 2023 shared task on Learning with Disagreements, 2nd edition 
 
 
 ### Overview
@@ -9,8 +9,26 @@ In recent years, the assumption that natural language (NL) expressions have a si
 
 For SemEval 2023, we run a second shared task on the topic of Learning with Disagreement: (i) the focus is entirely on subjective tasks, where training with aggregated labels makes much less sense, and (ii) while relying on the same infrastructure, it will involve completely new datasets. We believe that the shared task thus reformulated is extremely timely, given the current high degree of interest in subjective tasks such as offensive language detection in general, and in particular on the issue of disagreements in such data (Basile et al., 2021; Leonardelli et al., 2021; Akhtar et al., 2021; Davani et al., 2022; Uma et al., 2021) and we hope it attract substantial interest from the community.
 
-### Important Dates
+### The Datasets
+Focus of this task is entirely on subjective tasks, where training with aggregated labels makes much less sense. To this end, we collected a benchmark of four (textual) datasets with different characteristics, in terms of genres (social media and conversations), of languages (English and Arabic), of tasks (misogyny, hate speech, offensivness detection) and of annotations' methods (from experts, to specific groups and AMT). But all datasets providing a multiplicity of labels for each instance. 
+The four datasets presented are:
 
+- The "HS-brexit" dataset ([Ahktar et al., 2021](https://arxiv.org/abs/2106.15896)): an entirely new dataset of tweets on Abusive Language on Brexit and annotated for hate speech (HS), aggressiveness and offensiveness by six annotators belonging to two distinct groups: a target group of three Muslim immigrants in the UK, and a control group of three other individuals.
+- The"ARMIS" dataset ([Uma et al., 2022](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9012579/)): a dataset of Arabic tweets annotated for misogyny detection by annotators with different positions ("Moderate Female", "Liberal Female" and "Conservative Male"). This dataset is new.
+- The "ConvAbuse" dataset ([Cercas Curry et al., 2021](https://aclanthology.org/2021.emnlp-main.587/)): a dataset of 4,185 English dialogues conducted between users and two conversational agents. The user utterances have been annotated by at least three experts in gender studies using a heirarchical labelling scheme (following categories: Abuse binary, Abuse severity; Directedness; Target; Type).
+- The "MultiDomain Agreement" dataset ([Leonardelli et al. 2021](https://aclanthology.org/2021.emnlp-main.822/)): a dataset of around 10k English tweets from three domains (BLM, Election, Covid-19). Each tweet is annotated for offensiveness by 5 annotators via AMT.Particular focus was put on pre-selecting tweets to be annotated that are potentially leading to disagreement. Indeed, almost 1/3 of the dataset has then been annotated with a 2 vs 3 annotators disagreement, and another third of the dataset has an agreement of 1 vs 4.
+
+### The competition
+The shared task is hosted on Codalab, where you can find more information about data format, evaluation, terms and conditions.
+Note that participation will open from the practice phase (01/09/2022). You can download a sample of the data from the Overview ('get_sample_data' section).
+
+### Aim of the task and data format
+We encourage participants in developing methods able to capture agreements/disagreements, rather than focusing on developing the best model. This is why, to distribute the data, we developed an harmonized json format used across all datasets, that emphasizes communalities of datasets, while mantainig their diversities. In this manner, a number of information that is in common to all datasets, is released and presented in a homogenous format, so to facilitate participants in testing their methods across all the datasets.
+Among the information released that is common to all datasets, and of particular relevance for the task, are the disaggregated crowd-annotations labels and the annotators' reference. Moreover, a number of dataset-specific information are also released, and vary for each dataset, from gender and "position" of the annotators (in the Armis dataset), to group of pertinence (in the HS-Brexit dataset), to other annotations made by the same annotators within the same dataset (all datasets) or additional annotations given for for the same item (HS-Brexit and ConvAbuse datasets) by the same annotator. Participants can leverage on this dataset-specific information to improve perfomance for a specific dataset. 
+
+For more details about data format, see the section "data format" hosted on Codalab.
+
+### Important Dates
 - Sample data ready 15 July 2022
 - Training data ready 1 September 2022
 - Evaluation start 10 January 2023
@@ -22,7 +40,6 @@ For SemEval 2023, we run a second shared task on the topic of Learning with Disa
 - SemEval workshop Summer 2023 (co-located with a major NLP conference)
 
 ### Organisers
-
 - [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), FKB Trento, Italy
 - [Gavin Abercrombie](https://gavinabercrombie.github.io/), Heriot Watt University Edinburgh, UK
 - [Valerio Basile](https://valeriobasile.github.io/), University of Turin, IT
@@ -34,21 +51,10 @@ For SemEval 2023, we run a second shared task on the topic of Learning with Disa
 
 ### Communication
 
-
 Join our [google group](https://groups.google.com/g/le-wi-di-semeval2023_participants). We'll keep you updated with the news about the task.
-
 [Contact us directly](mailto:le-wi-di-semeval2023_contactus@googlegroups.com), if you have further inquiries.
-
 Follow us on [Twitter](https://twitter.com/LeWiDi_Sem2023), for news about learning with disagreements and more!
 
 ### Previous Editions 
 
 - [Learning with Disagreement, 2021, 1st edition](https://sites.google.com/view/semeval2021-task12) 
-
-#### Acknowledgements
-
-TBA
-
-#### References
-
-TBA
