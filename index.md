@@ -25,9 +25,9 @@ The four datasets presented are:
 
 
 ### Aim of the task and data format
-We encourage participants in **developing methods able to capture agreements/disagreements**, rather than focusing on developing the best model. To this end, we developed an **harmonized json** format used across all datasets. Features that is in common to all datasets, are released in a homogenous format, so to facilitate participants in testing their methods across all the datasets.
+We encourage participants in **developing methods able to capture agreements/disagreements**, rather than focusing on developing the best model. To this end, we developed an **harmonized json** format used to release all datasets. Thus, features that are common to all datasets, are released in a homogenous format, so to facilitate participants in testing their methods across all the datasets.
 
-Among the information released that is common to all datasets, and of particular relevance for the task, are the **disaggregated crowd-annotations labels** and the **annotators' reference**. Moreover, a number of **dataset-specific information** are also released, and vary for each dataset, from demographics of annotators (ArMIS and HS-Brexit datasets), to the other annotations made by the same annotators within the same dataset (all datasets) or additional annotations given for for the same item (HS-Brexit and ConvAbuse datasets) by the same annotator. Participants can leverage on this dataset-specific information to improve perfomance for a specific dataset. 
+Among the information released that is common to all datasets, and of particular relevance for the task, are the **disaggregated crowd-annotations labels** and the **annotators' reference**. Moreover, **dataset-specific information** are also released, and vary for each dataset, from demographics of annotators (ArMIS and HS-Brexit datasets), to the other annotations made by the same annotators within the same dataset (all datasets) or additional annotations given for for the same item (HS-Brexit and ConvAbuse datasets) by the same annotator. Participants can leverage on this dataset-specific information to improve perfomance for a specific dataset. 
 
 ### The competition
 The shared task is hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/6146). Please refer to Codalab platform for more detailed information. 
