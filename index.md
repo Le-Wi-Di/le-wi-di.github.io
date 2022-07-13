@@ -19,7 +19,7 @@ The four datasets presented are:
 - The "MultiDomain Agreement" dataset ([Leonardelli et al. 2021](https://aclanthology.org/2021.emnlp-main.822/)): a dataset of around 10k English tweets from three domains (BLM, Election, Covid-19). Each tweet is annotated for offensiveness by 5 annotators via AMT.Particular focus was put on pre-selecting tweets to be annotated that are potentially leading to disagreement. Indeed, almost 1/3 of the dataset has then been annotated with a 2 vs 3 annotators disagreement, and another third of the dataset has an agreement of 1 vs 4.
 
 ### The competition
-The shared task is hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/5796?secret_key=4cf31dda-5768-40d5-a47b-b9b2b4d39dab). In Codalab you can find more information. You can download a sample of the data from the Overview ('get_sample_data' section).
+The shared task is hosted on Codalab. In Codalab you can find more information. You can download a sample of the data from the Overview ('get_sample_data' section).
 Note that submissions in Codalab will start from the practice phase (01/09/2022), thus for the moment partecipation in Codalab is closed. 
 
 ### Aim of the task and data format
