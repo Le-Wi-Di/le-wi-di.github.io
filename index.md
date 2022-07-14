@@ -1,6 +1,6 @@
 ## Welcome to Learning with Disagreements 👎👍
 
-# Welcome to the page of the task 11 @SemEval2023 on Learning with Disagreements (Le_Wi-DI), 2nd edition 
+Welcome to the page of the task 11 @SemEval2023 on Learning with Disagreements (Le_Wi-DI), 2nd edition 
 
 
 ### Overview
