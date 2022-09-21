@@ -1,5 +1,5 @@
-## Welcome 👍👍👍👍
-## This is the page of the task 11 @SemEval2023 on Learning with Disagreements 👎👍 Le-Wi-DI, 2nd edition ##
+## Welcome 👍👍👍👍 ##
+# This is the page of the task 11 @SemEval2023 on Learning with Disagreements 👎👍 Le-Wi-DI, 2nd edition #
 
 
 # +++ Practice phase started +++ #
