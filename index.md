@@ -2,7 +2,7 @@
 
 Welcome to the page of the task 11 @SemEval2023 on Learning with Disagreements (Le_Wi-DI), 2nd edition 
 
-!!! Update 9/9: Practice phase starting very soon (beginning of next week)! Thanks for your patience. Stay tuned :)
+!!! Practice phase started!!! Go on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) to get the data and start to prepare your models!!
 
 ### Overview
 
