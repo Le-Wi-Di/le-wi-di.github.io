@@ -2,7 +2,7 @@
 # This is the page of the task 11 @SemEval2023 on Learning with Disagreements 👎👍 Le-Wi-DI, 2nd edition 
 
 
-# +++ 28/11 update: online meeting with organizers scheduled for the 02/12 (find out more [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) +++ 
+# +++ 28/11 update: online meeting with organizers scheduled for the 02/12 (find out more on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146))+++ 
 ## Go on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) to get the data and start preparing your models!! 
 
 ### Overview
