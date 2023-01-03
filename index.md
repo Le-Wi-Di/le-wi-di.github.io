@@ -4,7 +4,7 @@
 
 # Go on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) to get the data and start preparing your models!! 
 
-## +++ See the [video](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23) with the presentation of the task 
+## Watch [here] (https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23) the video with the presentation of the task!!
 
 ### Overview
 
