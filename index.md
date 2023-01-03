@@ -1,9 +1,10 @@
 
 # This is the page of the task 11 @SemEval2023 on Learning with Disagreements 👎👍 Le-Wi-DI, 2nd edition 
 
-# +++ See the [video](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23) with the presentation of the task 
-# 28/11 update: online meeting with organizers scheduled for the 02/12 (find out more on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146))+++ 
-## Go on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) to get the data and start preparing your models!! 
+
+# Go on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) to get the data and start preparing your models!! 
+
+## +++ See the [video](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23) with the presentation of the task 
 
 ### Overview
 
