@@ -2,9 +2,10 @@
 # This is the page of the task 11 @SemEval2023 on Learning with Disagreements 👎👍 
 # Le-Wi-DI, 2nd edition 
 
+# 10/01/23: test released, evaluation phase begins! 
+## Deadline to submit your predictions valid for the competition at Semeval workshop: 31/01/23 23:59 UTC 
 
 ## Go on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) to get the data and start preparing your models!! 
-
 ## Watch [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23) the video with the presentation of the task!!
 
 ### Overview
