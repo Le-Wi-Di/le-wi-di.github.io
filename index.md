@@ -1,11 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<h1>This is the page of the task 11 <a href="https://semeval.github.io/SemEval2023/">@SemEval2023 </a>on Learning with Disagreements Le-Wi-DI, 2nd edition</h1>
+ <h1>👎👍</h1>
+  </head>
+  <body>
+<p>  
 
-# This is the page of the task 11 @SemEval2023 on Learning with Disagreements Le-Wi-DI, 2nd edition 
-# 👎👍
-# 10/01/23: test released, evaluation phase begins! 
-## - Deadline to submit your predictions valid for the competition at Semeval workshop: 31/01/23 23:59 UTC 
-## - Go on our [Codalab page](https://codalab.lisn.upsaclay.fr/competitions/6146) to get the data and start preparing your models!! 
-## - Watch [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23) the video with the presentation of the task!!
+Go on our <a href="https://codalab.lisn.upsaclay.fr/competitions/6146/">Codalab page</a>
 
+Watch <a href="https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23">here</a> the video with the presentation of the task
+</p>
 ### Overview
 
 
@@ -21,11 +26,12 @@ We believe that the shared task thus reformulated is extremely timely, given the
 Our focus is entirely on subjective tasks, where training with aggregated labels makes much less sense. To this end, we collected a benchmark of four (textual) datasets with different characteristics, in terms of genres (social media and conversations), of languages (English and Arabic), of tasks (misogyny, hate-speech, offensiveness detection) and of annotations' methods (experts, specific demographics groups, AMT-crowd). But all datasets providing a multiplicity of labels for each instance. 
 
 The four datasets presented are:
-- The **[HS-brexit dataset](https://arxiv.org/abs/2106.15896)**: an entirely new dataset of tweets on Abusive Language on Brexit and annotated for hate speech (HS), aggressiveness and offensiveness by six annotators belonging to two distinct groups: a target group of three Muslim immigrants in the UK, and a control group of three other individuals.
-- The **[ArMIS dataset](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.244.pdf)**: a dataset of Arabic tweets annotated for misogyny detection by annotators with different demographics characteristics ("Moderate Female", "Liberal Female" and "Conservative Male"). This dataset is new.
-- The **[ConvAbuse dataset](https://aclanthology.org/2021.emnlp-main.587/)**: a dataset of 4,185 English dialogues conducted between users and two conversational agents. The user utterances have been annotated by at least three experts in gender studies using a heirarchical labelling scheme (following categories: Abuse binary, Abuse severity; Directedness; Target; Type).
-- The **[MultiDomain Agreement dataset](https://aclanthology.org/2021.emnlp-main.822/)**: a dataset of around 10k English tweets from three domains (BLM, Election, Covid-19). Each tweet is annotated for offensiveness by 5 annotators via AMT.Particular focus was put on pre-selecting tweets to be annotated that are potentially leading to disagreement. Indeed, almost 1/3 of the dataset has then been annotated with a 2 vs 3 annotators disagreement, and another third of the dataset has an agreement of 1 vs 4.
 
+<li>The **[HS-brexit dataset](https://arxiv.org/abs/2106.15896)**: an entirely new dataset of tweets on Abusive Language on Brexit and annotated for hate speech (HS), aggressiveness and offensiveness by six annotators belonging to two distinct groups: a target group of three Muslim immigrants in the UK, and a control group of three other individuals.</li>
+<li> The **[ArMIS dataset](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.244.pdf)**: a dataset of Arabic tweets annotated for misogyny detection by annotators with different demographics characteristics ("Moderate Female", "Liberal Female" and "Conservative Male"). This dataset is new.</li>
+<li> The **[ConvAbuse dataset](https://aclanthology.org/2021.emnlp-main.587/)**: a dataset of 4,185 English dialogues conducted between users and two conversational agents. The user utterances have been annotated by at least three experts in gender studies using a heirarchical labelling scheme (following categories: Abuse binary, Abuse severity; Directedness; Target; Type).</li>
+<li> The **[MultiDomain Agreement dataset](https://aclanthology.org/2021.emnlp-main.822/)**: a dataset of around 10k English tweets from three domains (BLM, Election, Covid-19). Each tweet is annotated for offensiveness by 5 annotators via AMT.Particular focus was put on pre-selecting tweets to be annotated that are potentially leading to disagreement. Indeed, almost 1/3 of the dataset has then been annotated with a 2 vs 3 annotators disagreement, and another third of the dataset has an agreement of 1 vs 4.</li>
+</ul>
 
 ### Aim of the task and data format
 We encourage participants in **developing methods able to capture agreements/disagreements**, rather than focusing on developing the best model. To this end, we developed an **harmonized json** format used to release all datasets. Thus, features that are common to all datasets, are released in a homogenous format, so to facilitate participants in testing their methods across all the datasets.
@@ -66,3 +72,5 @@ Follow us on [Twitter](https://twitter.com/LeWiDi_Sem2023), for news about learn
 ### Previous Editions 
 
 - [Learning with Disagreement, 2021, 1st edition](https://sites.google.com/view/semeval2021-task12) 
+</body>
+</html>
