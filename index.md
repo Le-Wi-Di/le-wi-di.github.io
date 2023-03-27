@@ -13,12 +13,12 @@ Watch [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semev
 
 
 In recent years, the assumption that natural language (NL) expressions have a single and clearly identifiable interpretation in a given context is more and more recognized as just a *convenient idealization*. The **objective** of the Learning with Disagreement shared task is to provide a unified testing framework for learning from disagreements, using datasets containing information about disagreements for interpreting language. [Learning with Disagreement (Le-Wi-Di) 2021](https://sites.google.com/view/semeval2021-task12) created a benchmark consisting of 6 existing and widely used datasets, but focusing primarily on semantic ambiguity and image classification. 
-We believe that the shared task is extremely timely, given the current high degree of interest in subjective tasks such as offensive language detection in general, and in particular on the issue of disagreements in such data ([Basile et al., 2021](https://aclanthology.org/2021.bppf-1.3/); [Leonardelli et al., 2021](https://aclanthology.org/2021.emnlp-main.822/); [Akhtar et al., 2021](https://arxiv.org/abs/2106.15896); [Davani et al., 2022](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00449/109286/Dealing-with-Disagreements-Looking-Beyond-the); [Uma et al., 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9012579/))
 
 For SemEval 2023, we run a second shared task on the topic of Learning with Disagreements: 
 1. the **focus** is entirely on subjective tasks, where training with aggregated labels makes much less sense, and 
 2. while relying on the same infrastructure, it will involve new datasets. 
 
+We believe that the shared task is extremely timely, given the current high degree of interest in subjective tasks such as offensive language detection in general, and in particular on the issue of disagreements in such data ([Basile et al., 2021](https://aclanthology.org/2021.bppf-1.3/); [Leonardelli et al., 2021](https://aclanthology.org/2021.emnlp-main.822/); [Akhtar et al., 2021](https://arxiv.org/abs/2106.15896); [Davani et al., 2022](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00449/109286/Dealing-with-Disagreements-Looking-Beyond-the); [Uma et al., 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9012579/))
 
 ### The Datasets
 
