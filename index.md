@@ -1,8 +1,8 @@
-###👎👍
+### 👎👍
   
 ### News
 This year’s edition of the Learning-With-Disagreements shared task was a great success, with around 30 submissions valid for the competition. 
-Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
+Results are available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
 
 The complete datasets, comprehending the test set labels, are released and are now available [here](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip)
 
