@@ -5,9 +5,9 @@
 This year’s edition of the Learning-With-Disagreements shared task was a great success, with around 30 submissions valid for the competition. 
 Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
 
-The complete datasets, comprehending the test set labels, are released and are now available [here](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip)
+The complete datasets, comprehending the test set labels, are released and available [here](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip)
 
-Watch [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23) the video with the presentation of the task
+A video with the presentation of the task [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23)
 
 ### Overview
 
@@ -41,11 +41,11 @@ Among the information released that is common to all datasets, and of particular
 The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/6146). Please refer to Codalab platform for more detailed information about the competition. 
 
 ### Important Dates
-~~- Training data ready 1 September 2022 ~~
-~~- Evaluation start 10 January 2023 ~~
-~~- Evaluation end by 31 January 2023 (latest date; task organizers may choose an earlier date) ~~
-~~- System paper submission due February 2023 ~~
-~~- Task paper submission due February 2023 ~~
+- ~~Training data ready 1 September 2022~~
+- ~~Evaluation start 10 January 2023~~
+- ~~Evaluation end by 31 January 2023~~
+- ~~System paper submission due February 2023~~
+- ~~Task paper submission due February 2023~~
 - Notification to authors March 2023
 - Camera ready due April 2023
 - SemEval workshop Summer 2023 (co-located with a NAACL)
