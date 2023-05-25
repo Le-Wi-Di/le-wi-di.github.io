@@ -2,12 +2,14 @@
 ### 👎👍
   
 ### News
+The paper describing the our is now live on ArXiv! [here](https://arxiv.org/abs/2304.14803)
+
 This year’s edition of the Learning-With-Disagreements shared task was a great success, with around 30 submissions valid for the competition. 
 Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
 
-The complete datasets, comprehending the test set labels, are released and available [here](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip)
+The complete datasets, comprehending the test set labels, are released and available [here](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip).
 
-A video with the presentation of the task [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23)
+A video presenting the task available [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23).
 
 ### Overview
 
@@ -46,8 +48,8 @@ The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competi
 - ~~Evaluation end by 31 January 2023~~
 - ~~System paper submission due February 2023~~
 - ~~Task paper submission due February 2023~~
-- Notification to authors March 2023
-- Camera ready due April 2023
+- ~~Notification to authors March 2023~~
+- ~~Camera ready due April 2023~~
 - SemEval workshop Summer 2023 (co-located with a NAACL)
 
 ### Organisers
