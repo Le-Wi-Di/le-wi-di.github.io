@@ -21,7 +21,6 @@ For SemEval 2023, we run a second shared task on the topic of Learning with Disa
 2. while relying on the same infrastructure, it will involve new datasets. 
 
 We believe that the shared task is extremely timely, given the current high degree of interest in subjective tasks such as offensive language detection in general, and in particular on the issue of disagreements in such data ([Basile et al., 2021](https://aclanthology.org/2021.bppf-1.3/); [Leonardelli et al., 2021](https://aclanthology.org/2021.emnlp-main.822/); [Akhtar et al., 2021](https://arxiv.org/abs/2106.15896); [Davani et al., 2022](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00449/109286/Dealing-with-Disagreements-Looking-Beyond-the); [Uma et al., 2021](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9012579/))
-</details>
 
 ---
   
