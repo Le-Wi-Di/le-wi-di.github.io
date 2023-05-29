@@ -3,12 +3,12 @@
 
 # [Download the data](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip)
 
-###  News
+### 👎👍 News
 
 * The paper describing the LeWiDi task is now live on ArXiv! [here](https://arxiv.org/abs/2304.14803)
 
 * This year’s edition of the Learning-With-Disagreements shared task was a great success, with around 30 submissions valid for the competition. Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
-* A video presenting the task available [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23).
+* A video presenting the task is available [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23).
 
 ---
 
@@ -38,7 +38,7 @@ The four datasets presented are:
 
 ---
 
-### Aim of the task and data format 
+### 👎👍  Aim of the task and data format 
   
 
 We encourage participants in **developing methods able to capture agreements/disagreements**, rather than focusing on developing the best model. To this end, we developed an **harmonized json** format used to release all datasets. Thus, features that are common to all datasets, are released in a homogenous format, so to facilitate participants in testing their methods across all the datasets.
@@ -46,7 +46,9 @@ We encourage participants in **developing methods able to capture agreements/dis
 Among the information released that is common to all datasets, and of particular relevance for the task, are the **disaggregated crowd-annotations labels** and the **annotators' reference**. Moreover, **dataset-specific information** are also released, and vary for each dataset, from demographics of annotators (ArMIS and HS-Brexit datasets), to the other annotations made by the same annotators within the same dataset (all datasets) or additional annotations given for for the same item (HS-Brexit and ConvAbuse datasets) by the same annotator. Participants can leverage on this dataset-specific information to improve perfomance for a specific dataset. 
 </details>
 
-### The competition
+---
+
+### 👎👍  The competition
 The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/6146). Please refer to Codalab platform for more detailed information about the competition. 
 
 - ~~Training data ready 1 September 2022~~
@@ -58,7 +60,9 @@ The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competi
 - ~~Camera ready due April 2023~~
 - SemEval workshop Summer 2023 (co-located with a NAACL)
 
-### Organisers
+---
+
+### 👎👍  Organisers
 - [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), FKB Trento, Italy
 - [Gavin Abercrombie](https://gavinabercrombie.github.io/), Heriot Watt University Edinburgh, UK
 - Dina Almanea, Queen Mary University, UK
@@ -69,13 +73,16 @@ The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competi
 - [Verena Rieser](https://sites.google.com/site/verenateresarieser/home), Heriot Watt University Edinburgh, UK
 - [Alexandra N Uma](https://www.semanticscholar.org/author/Alexandra-Uma/51229008), Connex One, UK
 
-### Communication
+---
+
+### 👎👍  Communication
 
 [Contact us directly](mailto:le-wi-di-semeval2023_contactus@googlegroups.com), if you have further inquiries.
 Our [google group](https://groups.google.com/g/le-wi-di-semeval2023_participants) with news about the task.
 Follow us on [Twitter](https://twitter.com/LeWiDi_Sem2023), for news about learning with disagreements and more!
 
+---
 
-### Previous Editions 
+### 👎👍 Previous Editions 
 
 - [Learning with Disagreement, 2021, 1st edition](https://sites.google.com/view/semeval2021-task12) 
