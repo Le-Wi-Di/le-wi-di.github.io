@@ -1,8 +1,8 @@
 
-###  
+
 # [Download the data](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip)
 
-### <sub>👎👍</sup>  News
+###  News
 
 * The paper describing the LeWiDi task is now live on ArXiv! [here](https://arxiv.org/abs/2304.14803)
 
@@ -10,10 +10,8 @@
 * A video presenting the task available [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23).
 
 ---
-<details open>
-<summary> <sub>👎👍</sup>  </summary>
 
-###    Overview
+###  👎👍 Overview
 
 
 In recent years, the assumption that natural language (NL) expressions have a single and clearly identifiable interpretation in a given context is more and more recognized as just a *convenient idealization*. The **objective** of the Learning with Disagreement shared task is to provide a unified testing framework for learning from disagreements, using datasets containing information about disagreements for interpreting language. [Learning with Disagreement (Le-Wi-Di) 2021](https://sites.google.com/view/semeval2021-task12) created a benchmark consisting of 6 existing and widely used datasets, but focusing primarily on semantic ambiguity and image classification. 
