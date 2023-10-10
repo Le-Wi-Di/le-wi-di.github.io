@@ -4,9 +4,7 @@
 # [Download the data](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip)
 
 ### 👎👍 News
-
-* The paper describing the LeWiDi task is now live on ArXiv! [here](https://arxiv.org/abs/2304.14803)
-
+* The overview paper describing the LeWiDi task is available [here](https://aclanthology.org/2023.semeval-1.314/) !
 * This year’s edition of the Learning-With-Disagreements shared task was a great success, with around 30 submissions valid for the competition. Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
 * A video presenting the task is available [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23).
 
