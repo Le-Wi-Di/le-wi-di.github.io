@@ -2,14 +2,14 @@
 # 👎👍 LeWiDi
 
 ### 👎👍 News
-** LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! 
+## LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! 
 
 The third edition of Learning with Disagreement (LeWiDi) will be co-located with the workshop. Positioned within the growing body of research that critically examines label harmonization practices and the reliance on a single ground truth, this year's shared task challenges participants to leverage both instance-level disagreement and annotator-level information in classification. The proposed tasks feature datasets that address disagreement in both interpretation and labeling—with a dataset for Natural Language Inference (NLI) and another for paraphrase detection—as well as subjective tasks, including irony and sarcasm detection. 
 
   
 * The overview paper describing the LeWiDi 2nd edition is available [here](https://aclanthology.org/2023.semeval-1.314/) !
-# [Download](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip) the data of the LeWiDi 2nd edition
-* This year’s edition of the Learning-With-Disagreements shared task was a great success, with around 30 submissions valid for the competition. Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
+* [Download](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip) the data of the LeWiDi 2nd edition
+* The second edition of the LeWiDi shared task was a great success, with around 30 submissions valid for the competition. Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
 * A video presenting the task is available [here](https://www.youtube.com/watch?v=Ca3_eqAJIpo&ab_channel=LeWiDi_semeval23).
 
 ---
