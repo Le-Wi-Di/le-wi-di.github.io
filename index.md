@@ -1,12 +1,11 @@
 
-# 👎👍 LeWiDi
+# 👍👎 LeWiDi
 
-### 👎👍 News
-## LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! 
-
+### 👍👎 News
+## 08/03/2025: LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! Stay tuned! 
 The third edition of Learning with Disagreement (LeWiDi) will be co-located with the workshop. Positioned within the growing body of research that critically examines label harmonization practices and the reliance on a single ground truth, this year's shared task challenges participants to leverage both instance-level disagreement and annotator-level information in classification. The proposed tasks feature datasets that address disagreement in both interpretation and labeling—with a dataset for Natural Language Inference (NLI) and another for paraphrase detection—as well as subjective tasks, including irony and sarcasm detection. 
 
-  
+ ### 👍👎 Updates 
 * The overview paper describing the LeWiDi 2nd edition is available [here](https://aclanthology.org/2023.semeval-1.314/) !
 * [Download](https://github.com/Le-Wi-Di/le-wi-di.github.io/blob/main/data_post-competition.zip) the data of the LeWiDi 2nd edition
 * The second edition of the LeWiDi shared task was a great success, with around 30 submissions valid for the competition. Results available [here](https://docs.google.com/spreadsheets/d/1MLCa-8WKuLnpPWrYns-fnK_Bjt9PreG9nY8WOyiu-xY/edit#gid=84485543).
@@ -14,7 +13,7 @@ The third edition of Learning with Disagreement (LeWiDi) will be co-located with
 
 ---
 
-###  👎👍 Overview
+###  👍👎 Overview
 
 In recent years, the assumption that natural language (NL) expressions have a single and clearly identifiable interpretation in a given context is more and more recognized as just a *convenient idealization*. The **objective** of the Learning with Disagreement shared task is to provide a unified testing framework for learning from disagreements, using datasets containing information about disagreements for interpreting language. [Learning with Disagreement (Le-Wi-Di) 2021](https://sites.google.com/view/semeval2021-task12) created a benchmark consisting of 6 existing and widely used datasets, but focusing primarily on semantic ambiguity and image classification. 
 
@@ -26,7 +25,7 @@ We believe that the shared task is extremely timely, given the current high degr
 
 ---
   
-###  👎👍 The Datasets
+###  👍👎 The Datasets
 
 To this end, we collected a benchmark of four (textual) datasets with different characteristics, in terms of genres (social media and conversations), of languages (English and Arabic), of tasks (misogyny, hate-speech, offensiveness detection) and of annotations' methods (experts, specific demographics groups, AMT-crowd). But all datasets providing a multiplicity of labels for each instance. 
 
@@ -39,7 +38,7 @@ The four datasets presented are:
 
 ---
 
-### 👎👍  Aim of the task and data format 
+### 👍👎  Aim of the task and data format 
   
 
 We encourage participants in **developing methods able to capture agreements/disagreements**, rather than focusing on developing the best model. To this end, we developed an **harmonized json** format used to release all datasets. Thus, features that are common to all datasets, are released in a homogenous format, so to facilitate participants in testing their methods across all the datasets.
@@ -49,7 +48,7 @@ Among the information released that is common to all datasets, and of particular
 
 ---
 
-### 👎👍  The competition
+### 👍👎  The competition
 The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competitions/6146). Please refer to Codalab platform for more detailed information about the competition. 
 
 - ~~Training data ready 1 September 2022~~
@@ -63,7 +62,7 @@ The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competi
 
 ---
 
-### 👎👍  Organisers
+### 👍👎 Organisers
 - [Elisa Leonardelli](https://dh.fbk.eu/author/elisa/), FKB Trento, Italy
 - [Gavin Abercrombie](https://gavinabercrombie.github.io/), Heriot Watt University Edinburgh, UK
 - Dina Almanea, Queen Mary University, UK
@@ -76,7 +75,7 @@ The shared task was hosted on [Codalab](https://codalab.lisn.upsaclay.fr/competi
 
 ---
 
-### 👎👍  Communication
+### 👍👎  Communication
 
 [Contact us directly](mailto:le-wi-di-semeval2023_contactus@googlegroups.com), if you have further inquiries.
 Our [google group](https://groups.google.com/g/le-wi-di-semeval2023_participants) with news about the task.
@@ -84,6 +83,6 @@ Follow us on [Twitter](https://twitter.com/LeWiDi_Sem2023), for news about learn
 
 ---
 
-### 👎👍 Previous Editions 
+### 👍👎 Previous Editions 
 
 - [Learning with Disagreement, 2021, 1st edition](https://sites.google.com/view/semeval2021-task12) 
