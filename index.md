@@ -2,6 +2,8 @@
 layout: default
 title: Home
 ---
+[Home](/) | [Archived 2024](/archived_2024/)
+
 ### 👍👎 LeWiDi
 ### LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! Stay tuned 👍👍
 The third edition of Learning with Disagreements (LeWiDi) will be co-located with the NLPerspectives workshop at EMNLP 2025. 
