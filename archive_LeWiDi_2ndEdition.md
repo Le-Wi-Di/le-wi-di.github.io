@@ -1,7 +1,7 @@
 ---
 layout: default
 title: LeWiDi 2023 - 2nd edition
-permalink: /archived_2024/
+permalink: /LeWiDi2023/
 ---
 [back to LeWiDi 2025 - 3rd edition](/) 
 
