@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Home
+---
 ### 👍👎 LeWiDi
 ### 👍 News
 ## 08/03/2025: LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! Stay tuned 👍👍👍
