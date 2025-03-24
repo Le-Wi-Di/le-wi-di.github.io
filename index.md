@@ -2,7 +2,7 @@
 layout: default
 title: Home
 ---
-[Home](/) | [LeWiDi 2nd edition](/archived_2024/)
+[LeWiDi 2025 (3rd edition)](/) | [LeWiDi 2nd edition](/archived_2024/)
 
 ### 👍👎 LeWiDi
 ### LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! Stay tuned 👍👍
