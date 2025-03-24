@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: LeWiDi 2025 (3rd edition)
 ---
 [LeWiDi 2025 (3rd edition)](/) | [LeWiDi 2nd edition](/archived_2024/)
 
