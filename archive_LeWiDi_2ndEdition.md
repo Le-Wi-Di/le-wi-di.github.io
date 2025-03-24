@@ -3,7 +3,7 @@ layout: default
 title: LeWiDi 2nd ed.
 permalink: /archived_2024/
 ---
-[Home](/) | [Archived 2024](/archived_2024/)
+[LeWiDi 2025 (3rd edition)](/) | [LeWiDi 2nd edition](/archived_2024/)
 
 ### 👍👎 LeWiDi
 ### 👍 News
