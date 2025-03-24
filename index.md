@@ -2,7 +2,7 @@
 layout: default
 title: LeWiDi 2025 (3rd edition)
 ---
-[LeWiDi 2025 (3rd edition)](/) | [LeWiDi 2nd edition](/archived_2024/)
+[LeWiDi 2023 - 2nd edition (archive)](/archived_2024/)
 
 ### 👍👎 LeWiDi
 ### LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! Stay tuned 👍👍
