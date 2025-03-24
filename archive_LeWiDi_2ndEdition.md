@@ -3,6 +3,8 @@ layout: default
 title: LeWiDi 2nd ed.
 permalink: /archived_2024/
 ---
+[Home](/) | [Archived 2024](/archived_2024/)
+
 ### 👍👎 LeWiDi
 ### 👍 News
 ## 08/03/2025: LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) coming very soon! Stay tuned 👍👍👍
