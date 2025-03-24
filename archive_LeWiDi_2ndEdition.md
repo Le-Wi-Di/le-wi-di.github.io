@@ -1,6 +1,6 @@
 ---
 layout: default
-title: LeWiDi 2nd edition
+title: LeWiDi 2023 - 2nd edition
 permalink: /archived_2024/
 ---
 [LeWiDi 2025 - 3rd edition](/) | [LeWiDi 2023 - 2nd edition (archive)](/archived_2024/)
