@@ -87,11 +87,11 @@ While the datasets share a common structure, some fields in the `text` and `othe
 ### 🟢 MP 
 
 - **`text`**
-  - `post`: Original post (e.g., from Twitter).
-  - `reply`: A reply to the post, providing context for classification.
+  - `post`: 
+  - `reply`: 
 - **`other_info`**
   - `source`: Source platform (e.g., `"twitter"`).
-  - `level`: Hate intensity level (e.g., `1.0`).
+  - `level`:  
   - `language_variety`: Language variant (e.g., `"us"`).
 
 ---
@@ -99,10 +99,10 @@ While the datasets share a common structure, some fields in the `text` and `othe
 ### 🟡 CSC 
 
 - **`text`**
-  - `context`: Background dialogue or narrative setup.
-  - `response`: The target utterance to assess for sarcasm.
+  - `context`:
+  - `response`: 
 - **`other_info`**
-  - `context+speaker`: Encodes dialogue context and speaker ID.
+  - `context+speaker`:
 
 ---
 
