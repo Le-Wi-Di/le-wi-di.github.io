@@ -30,18 +30,19 @@ The CSC is a dataset of sarcasm that provides ~7,000 context+response pairs, sar
 The paper describing the dataset is available [here](https://aclanthology.org/2024.naacl-long.238/).
 
 #### MultiPico dataset (MP)
-The MP dataset is a multilingual perspectivist corpus consisting of short exchanges from Twitter and Reddit. Each entry represents a post-reply pair. Crowdsourced workers determined whether the reply was ironic given the post (binary label). The corpus includes 11 languages and contains sociodemographic information about the annotators. Each pair is typically annotated by ~5 workers.
+The MP dataset is a multilingual perspectivist corpus consisting of short exchanges from Twitter and Reddit. Each entry in the corpus represents a post-reply pair. Crowdsourced workers had to determine whether the reply was ironic given the post (binary label). The corpus includes 11 languages: Arabic, Dutch, English, French, German, Hindi, Italian, Portuguese, and Spanish. It also contains sociodemographic information about the annotators, including gender, age, nationality, race, and student or employment status. While the statistics may vary slightly across languages, each post-reply pair is typically annotated by an average of 5 workers.
 
-Note: Some instances may contain potentially offensive content.  
 The paper describing the dataset is available [here](https://aclanthology.org/2024.acl-long.849.pdf).
 
 #### Paraphrase Detection dataset (Par)
-This dataset includes 500 question pairs from the QQP dataset annotated by 4 annotators on a Likert scale from -5 to 5. Each annotator also provided a rationale. It uses scalar labels and limits each annotator to a single score per item.
+The Par dataset is a dataset structurally similar to VariErrNLI. Four annotators independently annotated 500 question pairs from the Quora Question Pairs (QQP) dataset, assigning a Likert scale score from -5 to 5 to indicate how strongly the questions are paraphrases of one another. Each annotator also provided a short explanation for their score. Unlike VariErr NLI, this dataset uses scalar labels and limits each annotator to a single score per item.
 
 Maintained by the [MaiNLP lab](https://mainlp.github.io/) (not yet published).
 
 #### VariErr NLI dataset (VariErrNLI)
-Designed to distinguish annotation errors from genuine variation in NLI tasks. Built using a two-round process, we focus on Round 1, where annotators could assign one or more labels and provide explanations for each pair.
+VariErrNLI was created designed for automatic error detection, distinguishing between annotation errors and legitimate human label variations in Natural Language Inference (NLI) tasks. The dataset was created using a two-round annotation process: initially, annotators provided labels and explanations for each NLI item; subsequently, they assessed the validity of each label-explanation pair. 
+It comprises 1,933 explanations for 500 re-annotated items from the Multi-Genre Natural Language Inference (MNLI) corpus for Round 1 and 7,732 validity judgments for Round 2. 
+The LeWiDi 2025 Shared Task focuses on Round 1, annotators could assign one or more labels from {Entailment, Neutral, Contradiction} to each (Premise, Hypothesis) pair and provide corresponding explanations.
 
 The paper describing the dataset is available [here](https://aclanthology.org/2024.acl-long.123/).
 
