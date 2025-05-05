@@ -1,4 +1,4 @@
-# 👩‍🔬🧑‍💻💆‍♂️ Practice Phase Datasets
+# 👩‍🔬🧑‍💻💆‍♂️ Practice Phase Data
 
 This repository contains four datasets for the LeWiDi shared task third edition. 
 Each dataset includes annotated examples with soft labels generated from multiple annotators and annototators metadata.
