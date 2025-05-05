@@ -1,12 +1,64 @@
+
 ---
 layout: default
 title: LeWiDi 2025 - 3rd edition
 ---
 [LeWiDi 2023 - 2nd edition](/LeWiDi2023/) | [LeWiDi 2021 - 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
-### 👍👎 
+### 👍👎 Updates 
 # LeWiDi third Edition @[NLPerspectives Workshop](https://nlperspectives.di.unito.it/) is online! Please check [our new competition page ](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
 
-The third edition of Learning with Disagreements (LeWiDi) is co-located with the NLPerspectives workshop at EMNLP 2025. 
-Positioned within the growing body of research that critically examines label harmonization practices and the reliance on a single ground truth, this year's shared task challenges participants to leverage both instance-level disagreement and annotator-level information in classification. The proposed tasks feature datasets that address disagreement in both interpretation and labeling—with a dataset for Natural Language Inference (NLI) and another for paraphrase detection—as well as subjective tasks, including irony and sarcasm detection. 
 
+
+### 👍👎 Overview
+The third edition of Learning with Disagreements (LeWiDi) is co-located with the [NLPerspectives](https://nlperspectives.di.unito.it/) workshop at [EMNLP 2025](https://2025.emnlp.org/). 
+The Shared Task aims to highlight the challenges posed by interpretative variation and to encourage the research community to engage with this issue. The main goal of the shared task is to provide a unified testing framework for learning from disagreements and evaluating models on such datasets.
+
+The two previous editions of the shared task were organized as part of SEMEVAL: the first edition, (in 2021, [Uma et al.](https://aclanthology.org/2021.semeval-1.41/)) focused on ambiguity in language and vision, while the second edition (in 2023, [Leonardelli et al.](https://aclanthology.org/2023.semeval-1.314/)) concentrated on disagreement in subjective tasks.
+
+This new edition will be co-located with the NLPerspectives workshop at EMNLP 2025 conference, and will differ from the previous ones in a number of respects:
+
+- It will include new tasks not included in previous editions, such as NLI detection, irony detection and conversational sarcasm detection;
+- We will not use hard evaluation anymore -- but we will test two approaches to soft evaluation. The first is a version of the soft labeling approach used in LeWiDi 1 and 2, but using Manhattan distance instead of cross-entropy, as a result of the post-LeWiDi 2 analysis discussed in ([Rizzi et al, 2024](https://aclanthology.org/2024.nlperspectives-1.9.pdf)). The second is a form of perspectivist evaluation--instead of evaluating a model's ability to predict the distribution of labels over the population, we will test a system's ability to predict an annotator's bias.
+- We will include two datasets in which values are on a Likert scale, raising further issues regarding evaluation with disagreement.
+
+### 👍👎 The datasets
+
+#### Conversational Sarcasm Corpus (CSC)
+The CSC is a dataset of sarcasm that provides ~7,000 context+response pairs, sarcasm ratings from 1 to 6 both by the response generators (speakers), and by multiple external observers per pair (6 in part1, 4 in part2). It is the result of multiple online experiments, in which the first batch of participants (speakers, generators) responded to given contexts (situation descriptions involving an imaginary interlocutor), and provided sarcasm ratings to their own responses from 1 (not at all) to 6 (completely). In the subsequent experiments, a new batch of participants (observers, evaluators) provided sarcasm ratings to the speakers' responses from 1 to 6. Multiple observers evaluated each context+response pair (each row in the dataset), where 6 observers evaluated the same row for part1, and 4 observers for part2.
+
+The paper describing the dataset is available [here](https://aclanthology.org/2024.naacl-long.238/).
+
+#### MultiPico dataset (MP)
+The MP dataset is a multilingual perspectivist corpus consisting of short exchanges from Twitter and Reddit. Each entry represents a post-reply pair. Crowdsourced workers determined whether the reply was ironic given the post (binary label). The corpus includes 11 languages and contains sociodemographic information about the annotators. Each pair is typically annotated by ~5 workers.
+
+Note: Some instances may contain potentially offensive content.  
+The paper describing the dataset is available [here](https://aclanthology.org/2024.acl-long.849.pdf).
+
+#### Paraphrase Detection dataset (Par)
+This dataset includes 500 question pairs from the QQP dataset annotated by 4 annotators on a Likert scale from -5 to 5. Each annotator also provided a rationale. It uses scalar labels and limits each annotator to a single score per item.
+
+Maintained by the [MaiNLP lab](https://mainlp.github.io/) (not yet published).
+
+#### VariErr NLI dataset (VariErrNLI)
+Designed to distinguish annotation errors from genuine variation in NLI tasks. Built using a two-round process, we focus on Round 1, where annotators could assign one or more labels and provide explanations for each pair.
+
+The paper describing the dataset is available [here](https://aclanthology.org/2024.acl-long.123/).
+
+
+### 👍👎 Tasks and Evaluation
+
+Only soft evaluation metrics will be used:
+
+- **TASK A (SOFT LABEL PREDICTION):** Systems must output a probability distribution over labels.  
+  **Evaluation:** Manhattan distance from the soft label distribution from annotators.
+  
+- **TASK B (PERSPECTIVIST PREDICTION):** Systems must predict individual annotators' labels.  
+  **Evaluation:** Measures correctness of predictions per annotator.
+
+Submissions can target one or both tasks. Participants may submit to one or multiple datasets.
+
+
+### 👍👎 Output of the shared task
+
+Participants can submit a system paper to the 4th Workshop on Perspectivist Approaches to NLP. These peer-reviewed papers will be published in the workshop proceedings.
