@@ -5,7 +5,8 @@ title: LeWiDi 2025 - 3rd edition
 [LeWiDi 2023 - 2nd edition](/LeWiDi2023/) | [LeWiDi 2021 - 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
 ### 👍👎 Updates 
-# LeWiDi third Edition at the NLPerspectives Workshop is online! Please check [our new competition page](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
+# LeWiDi 3rd Edition shared task at the NLPerspectives Workshop is online! 
+# Please check [our competition pagee on Codabenc](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
 
 
 
@@ -53,6 +54,11 @@ Only soft evaluation metrics will be used:
   **Evaluation:** Measures correctness of predictions per annotator.
 
 Submissions can target one or both tasks. Participants may submit one or multiple datasets.
+
+
+### 👍👎 Output of the shared task
+
+Participants can submit a system paper to the 4th Workshop on Perspectivist Approaches to NLP. These peer-reviewed papers will be published in the workshop proceedings.
 
 
 ### 👍👎 Output of the shared task
