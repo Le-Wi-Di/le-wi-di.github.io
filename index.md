@@ -8,7 +8,7 @@ title: LeWiDi 2025 - 3rd edition
 
 ### 👍👎 Updates 
 # LeWiDi 3rd Edition shared task at the NLPerspectives Workshop is online! 
-# Please check [our competition pagee on Codabenc](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
+# Please check [our competition pagee on Codabench](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
 
 
 
