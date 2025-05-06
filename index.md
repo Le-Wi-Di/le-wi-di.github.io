@@ -5,7 +5,7 @@ title: LeWiDi 2025 - 3rd edition
 [LeWiDi 2023 - 2nd edition](/LeWiDi2023/) | [LeWiDi 2021 - 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
 ### 👍👎 Updates 
-# LeWiDi third Edition NLPerspectives Workshop is online! Please check [our new competition page](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
+# LeWiDi third Edition at the NLPerspectives Workshop is online! Please check [our new competition page](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
 
 
 
@@ -17,16 +17,16 @@ The two previous editions of the shared task were organized as part of SEMEVAL: 
 
 This new edition will differ from the previous ones in a number of respects:
 
-- It will include new tasks not included in previous editions, such as NLI detection, irony detection and conversational sarcasm detection;
-- We will not use hard evaluation anymore -- but we will test two approaches to soft evaluation. The first is a version of the soft labeling approach used in LeWiDi 1 and 2, but using Manhattan distance instead of cross-entropy, as a result of the post-LeWiDi 2 analysis discussed in ([Rizzi et al, 2024](https://aclanthology.org/2024.nlperspectives-1.9.pdf)). The second is a form of perspectivist evaluation--instead of evaluating a model's ability to predict the distribution of labels over the population, we will test a system's ability to predict an annotator's bias.
-- We will include two datasets in which values are on a Likert scale, raising further issues regarding evaluation with disagreement.
+- It will include **new tasks** not included in previous editions, such as NLI detection, irony detection and conversational sarcasm detection;
+- We will not use hard evaluation anymore -- but we will test **two approaches to soft evaluation**. The first is a version of the soft labeling approach used in LeWiDi 1 and 2, but using Manhattan distance instead of cross-entropy, as a result of the post-LeWiDi 2 analysis discussed in ([Rizzi et al, 2024](https://aclanthology.org/2024.nlperspectives-1.9.pdf)). The second is a form of perspectivist evaluation--instead of evaluating a model's ability to predict the distribution of labels over the population, we will test a system's ability to predict an annotator's bias.
+- We will include two datasets in which values are on a **Likert scale**, raising further issues regarding evaluation with disagreement.
 
 ### 👍👎 The datasets
 Each dataset includes annotated examples with soft labels generated from multiple annotators and corresponding annotator metadata.
 Despite differing objectives, all datasets share a homogeneous JSON format.
 
 #### Conversational Sarcasm Corpus (CSC)
-a dataset of context+response pairs rated for sarcasm , with ratings from 1 to 6.
+The CSC is a dataset of context+response pairs rated for sarcasm, with ratings from 1 to 6.
 The paper describing the dataset is available [here](https://aclanthology.org/2024.naacl-long.238/).
 
 #### MultiPico dataset (MP)
