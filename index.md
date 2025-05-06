@@ -2,6 +2,8 @@
 layout: default
 title: LeWiDi 2025 - 3rd edition
 ---
+<img src="logo.png" alt="Logo" width="100" style="vertical-align: middle; margin-left: 10px;" />
+
 [LeWiDi 2023 - 2nd edition](/LeWiDi2023/) | [LeWiDi 2021 - 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
 ### 👍👎 Updates 
