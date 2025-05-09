@@ -63,6 +63,12 @@ Submissions can target one or both tasks. Participants may submit one or multipl
 Participants can submit a system paper to the 4th Workshop on Perspectivist Approaches to NLP. These peer-reviewed papers will be published in the workshop proceedings.
 
 
-### 👍👎 Output of the shared task
+### 👍👎 Important dates
+- Training data ready         May 1st 2025
+- Evaluation Starts            June 15th 2025
+- Evaluation Ends             July 10th 2025
+- Paper submission due:   August 2025 (exact date coming soon)
+- Notification to authors:   August 2025 (exact date coming soon)
+- Camera ready due:        September 2025 (exact date coming soon)
+NLPerspectives workshop:       November  8, 2025
 
-Participants can submit a system paper to the 4th Workshop on Perspectivist Approaches to NLP. These peer-reviewed papers will be published in the workshop proceedings.
