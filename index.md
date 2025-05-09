@@ -70,5 +70,5 @@ Participants can submit a system paper to the 4th Workshop on Perspectivist Appr
 - Paper submission due:   August 2025 (exact date coming soon)
 - Notification to authors:   August 2025 (exact date coming soon)
 - Camera ready due:        September 2025 (exact date coming soon)
-NLPerspectives workshop:       November  8, 2025
+- NLPerspectives workshop:       November  8, 2025
 
