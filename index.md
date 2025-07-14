@@ -67,7 +67,7 @@ Participants can submit a system paper to the 4th Workshop on Perspectivist Appr
 - Training data ready         May 1st 2025
 - Evaluation Starts            June 15th 2025
 - Evaluation Ends             July 10th 2025 AoE
-- Paper submission due:   August 1st 2025 AoE
+- Paper submission due:   August 8th 2025 AoE (deadline extended!)
 - Notification to authors:   August 25th 2025 AoE
 - Camera ready due:        September 12th 2025 AoE
 - NLPerspectives workshop:       November  8, 2025
