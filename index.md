@@ -7,6 +7,7 @@ title: LeWiDi 2025 - 3rd edition
 [LeWiDi 2023 - 2nd edition](/LeWiDi2023/) | [LeWiDi 2021 - 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
 ### 👍👎 Updates 
+# The official leaderboard of the LeWiDi 2025 Edition is now available at [this link](https://docs.google.com/spreadsheets/d/1mrJLaAIn60YTbYAVtRlwOqJktrxk252igoI2AT8UZuo/edit?gid=1049169550#gid=1049169550) ... see you in Suzhou!
 # LeWiDi 3rd Edition shared task at the NLPerspectives Workshop is online! 
 # Please check [our competition page on Codabench](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
 
