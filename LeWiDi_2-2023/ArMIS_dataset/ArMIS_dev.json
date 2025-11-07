@@ -1,0 +1,2681 @@
+{
+    "1": {
+        "text": "\u0627\u0644\u064a \u064a\u0642\u0631\u0623 \u0627\u0633\u0626\u0644\u0629 \u0627\u0644\u0645\u0639\u0644\u0645\u0627\u062a \u064a\u0633\u062a\u063a\u0631\u0628 \u0627\u0646\u0647\u0645 \u064a\u0639\u0645\u0644\u0648\u0646 \u0645\u0639\u0646\u0627 \u0646\u0641\u0633 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0643\u062b\u064a\u0631 \u0627\u0644\u0642\u064a\u0627\u062f\u0627\u062a \u0627\u0644\u0646\u0633\u0627\u0626\u064a\u0629 \u0645\u062a\u0633\u0644\u0637\u0627\u062a \u0641\u0639\u0644\u0627 \u0639\u0646\u062f\u0647\u0645 \u0633\u0648\u0621 \u0641\u0647\u0645 \u0648\u062a\u0637\u0628\u064a\u0642 \u0644\u0644\u0623\u0646\u0638\u0645\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "2": {
+        "text": " \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a  \u0627\u0644\u0641\u0633\u0648\u064a\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "3": {
+        "text": "\u0633\u0624\u0627\u0644 \u0644\u0644\u0640 \u0628\u0633\u064a\u0637 \u0627\u062a\u0648\u0642\u0639 \u062a\u0643\u0644\u0645\u0646\u0627 \u0627\u0644\u062a\u0648\u064a\u062a\u0631 \u062f\u0648\u0631\u0627\u062a \u0648\u0645\u062d\u0627\u0636\u0631\u0627\u062a \u0648\u0646\u062d\u0630\u0631 \u0645\u0646\u0643\u0645 \u0641\u0647\u0630\u0627 \u0627\u0644\u0634\u064a \u064a\u0636\u0631\u0643\u0645 \u0644\u0623\u0646\u0643\u0645 \u0648\u0627\u0639\u064a\u0627\u062a \u0623\u0644\u062e \u0641\u0644\u064a\u0647 \u0627\u0644\u0647\u062c\u0648\u0645 \u0643\u0644\u0647 \u0627\u0644\u0645\u062d\u0627\u0636\u0631\u0627\u062a \u0644\u0647\u062f\u0631\u062c\u0629 \u062b\u0642\u0629 \u0628\u0623\u0646\u0641\u0633\u0643\u0645 \u0645\u0648\u062a\u0648\u0627 \u0628\u063a\u0638\u064a\u0643\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "4": {
+        "text": "\u0648\u0628\u0643\u0630\u0627 \u0623\u0648\u0643\u062f \u0627\u0633\u062a\u0646\u062a\u0627\u062c\u064a \u0628\u0625\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0642\u0633\u0645\u064a\u0646 \u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u0623\u0648\u0644 \u0639\u0648\u0627\u0646\u0633 \u0648\u0645\u0637\u0644\u0642\u0627\u062a \u0648\u0645\u0634\u0647\u0628\u0627\u062a \u0641\u0627\u062a\u0647\u0645 \u0627\u0644\u0642\u0637\u0627\u0631 \u0627\u0644\u0642\u0633\u0645 \u0627\u0644\u062b\u0627\u0646\u064a \u0627\u0644\u064a\u0627\u0641\u0639\u0627\u062a \u0623\u0631\u0627\u062f\u0648\u0627 \u0627\u0644\u0632\u0648\u0627\u062c \u0648\u0644\u0645 \u064a\u062c\u062f\u0648\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "5": {
+        "text": "\u0627\u0646\u062a \u0642\u0644\u062a\u064a \u0642\u0644\u062a\u064a \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0627\u0645\u0631\u0623\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "6": {
+        "text": "\u0635\u0627\u062f\u0642\u0647 \u062a\u0628\u0639 \u0644\u062c\u064a\u0646 \u0628\u064a\u0646\u062a\u0642\u0645\u0648\u0646 \u0648\u064a\u062e\u0644\u0648\u0646 \u0627\u0644\u0628\u0646\u0627\u062a \u064a\u0637\u0627\u0644\u0628\u0648\u0646 \u0648\u0644\u0647\u0645 \u0642\u0627\u0639\u062f\u0647 \u0643\u0627\u0645\u0644\u0647 \u0628\u0631\u0626\u0627\u0633\u0629 \u0646\u0633\u0627\u0621 \u0648\u0645\u0639\u0647\u0645 \u0631\u062c\u0627\u0644 \u0648\u0643\u0627\u0646\u062a \u0631\u0626\u064a\u0633\u062a\u0647\u0645 \u062d\u0631\u0645\u0647 \u0648\u062a\u0632\u0648\u062c\u062a \u0627\u0644\u0631\u062c\u0627\u0644 \u0627\u0644\u0644\u064a \u0645\u0639\u0647\u0627 \u0637\u064a\u0628 \u0644\u064a\u0647 \u062a\u062d\u0631\u0636\u0643\u0645 \u0627\u0644\u0631\u062c\u0627\u0644 \u0648\u0647\u064a \u062a\u0632\u0648\u062c\u062a \u0631\u062c\u0644 \u0634\u0639\u0627\u0631\u0627\u062a \u0643\u0627\u0630\u0628\u0647 \u0627\u0637\u0627\u0644\u0628 \u0628\u0627\u0633\u0642\u0627\u0637 \u0627\u0644\u0648\u0644\u0627\u064a\u0647 \u0648\u0628\u0627\u0637\u0646\u0647\u0627 \u0627\u0644\u062d\u0631\u064a\u0647 \u0648\u0627\u0644\u0641\u0633\u0627\u062f \u0648\u0627\u0644\u0627 \u0631\u062c\u0627\u0644 \u0628\u062d\u0633\u0627\u0628\u0627\u062a \u0627\u0633\u0645\u0627\u0621 \u0646\u0633\u0627\u0626\u064a\u0647 \u0639\u0644\u0634\u0627\u0646 \u062a\u0635\u062f\u0642\u0648\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "7": {
+        "text": "\u0648\u062c\u0647 \u0627\u0644\u0645\u0631\u0627\u0647 \u0639\u0648\u0631\u0647 \u062a\u0636\u062d\u0643\u0648\u0646 \u0627\u0646\u062a\u0648\u0627 \u062a\u062a\u0643\u0644\u0645\u0648\u0646 \u0628\u0630\u064a \u0627\u0644\u062b\u0642\u0647 \u064a\u0639\u0646\u064a \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0645\u0633\u0644\u0645\u0627\u062a \u0645\u062a\u0628\u0631\u062c\u0627\u062a \u0627\u0644\u0627 \u0627\u0646\u062a\u0648\u0627 \u064a\u0627\u0644\u0639\u0634\u0631\u0647 \u0645\u0644\u064a\u0648\u0646 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0627\u062a \u0643\u0644\u0647\u0645 \u0645\u0646\u0642\u0628\u0627\u062a \u0645\u0633\u0627\u0643\u064a\u0646 \u0648\u0627\u0644\u0644\u0647 \u0643\u062b\u0631 \u0627\u0646\u062d\u0634\u0631\u062a \u0639\u0642\u0648\u0644\u0643\u0645 \u0643\u0644\u0627\u0645 \u0627\u0644\u0645\u0637\u0627\u0648\u0639\u0647 \u0627\u0644\u064a \u0639\u0646\u062f\u0646\u0627 \u0635\u0631\u062a\u0648\u0627 \u062a\u062d\u0633\u0628\u0648\u0646 \u0627\u0646\u062a\u0648\u0627 \u0627\u0644\u0641\u0636\u064a\u0644\u0647 \u0627\u0644\u0635\u062d \u063a\u064a\u0631\u0643\u0645 \u0645\u0630\u0646\u0628",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "8": {
+        "text": "\u0637\u064a\u0628 \u062f\u0648\u0645\u0627 \u064a\u062d\u0628 \u064a\u0627\u0643\u0644 \u0627\u0644\u0646\u0633\u0627\u0621 \u0639\u0627\u062f\u064a \u0646\u062d\u0631\u0642\u0647 \u0647\u0648\u0648\u0648 \u0627\u0644\u0644\u0644\u064a\u064a\u064a \u0642\u062a\u0644\u0644\u0644 \u0634\u064a\u064a\u0646\u0646\u0646\u0648\u0648\u0628\u0648\u0648\u0648 \u0648\u0627\u0644\u0644\u0647 \u0644\u0627\u0635\u064a\u062f\u0647\u0647\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "9": {
+        "text": "\u0627\u0646\u062a\u0645 \u062a\u0646\u0627\u062f\u0648\u0646 \u0628\u0627\u0644\u062d\u0631\u064a\u0629 \u0627\u0644\u062d\u0631\u064a\u0629 \u0628\u0627\u0644\u0639\u0628\u062b \u0628\u0645\u0624\u062e\u0631\u0627\u062a\u0643\u0645 \u0648\u0644\u0643\u0645 \u0627\u0644\u062d\u0631\u064a\u0629 \u0635\u0646\u0639 \u0628\u0646\u0627\u062a\u0643\u0645 \u0633\u0627\u0641\u0631\u0627\u062a \u0645\u062a\u0628\u0631\u062c\u0627\u062a \u064a\u0628\u062d\u062b\u0646 \u0627\u0644\u0635\u062f\u0627\u0642\u0627\u062a \u0648\u0627\u0644\u0639\u0644\u0627\u0642\u0627\u062a \u0627\u0644\u062c\u0646\u0633\u064a\u0629 \u0627\u0644\u0639\u0627\u0628\u0631\u0629 \u0648\u0627\u064a\u0636\u0627 \u0627\u0644\u0634\u0639\u0648\u0628 \u0633\u0643\u062a\u062a \u0644\u0644\u0645\u062c\u0627\u0632\u0631 \u0627\u0644\u0645\u0631\u0648\u0639\u0629 \u062a\u062a\u0641\u0646\u0646\u0648\u0646 \u062a\u0639\u0628\u062b\u0648\u0627 \u0637\u0627\u0642\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "10": {
+        "text": "\u0645\u0639\u0642\u0648\u0644\u0647 \u0647\u0627\u0644\u0643\u0645 \u0627\u0644\u0647\u0627\u0626\u0644 \u0627\u0644\u0646\u0627\u0633 \u0645\u0627\u064a\u062f\u0631\u0648 \u0627\u064a\u0634 \u0647\u062f\u0641 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u062a\u0631\u0627 \u0648\u0627\u0644\u0644\u0647 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0627\u0633\u0645 \u0645\u0633\u0645\u0649 \u062a\u0637\u0644\u0628 \u062d\u0642\u0647\u0627 \u0627\u0644\u0644\u064a \u0627\u0646\u062d\u0631\u0645\u062a \u0645\u0646\u0648 \u0648\u0628\u0633 \u0645\u0627\u062a\u0643\u0631\u0647 \u0630\u0643\u0648\u0631 \u062a\u0643\u0631\u0647 \u0627\u0647\u0644\u0647\u0627 \u062a\u0646\u0634\u0631 \u0641\u0633\u0627\u062f",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "11": {
+        "text": "\u0630\u0643\u0631 \u0635\u0641\u0627\u062a \u0632\u0645\u0646 \u0627\u0644\u062f\u062c\u0627\u0644 \u0628\u0623\u062d\u0627\u062f\u064a\u062b \u0623\u062e\u0631\u0649 \u0637\u0628\u0639\u0627 \u0625\u0646\u062a\u064a \u062d\u062a\u0633\u062a\u0645\u0631\u064a \u062a\u062c\u0627\u062f\u0644\u064a \u0631\u063a\u0645 \u062c\u0647\u0644\u0643 \u0627\u0644\u062f\u064a\u0646 \u0648\u0647\u0630\u0647 \u0643\u0627\u0631\u062b\u0629 \u0633\u0623\u0636\u064a\u0641 \u062c\u0639\u0644 \u0648\u062c\u0648\u0628 \u0637\u0627\u0639\u0629 \u0627\u0644\u0632\u0648\u062c \u0623\u0645\u0631 \u062c\u062f\u0627 \u0645\u0647\u0645 \u0635\u064a\u0627\u063a \u0627\u0644\u062d\u062f\u064a\u062b \u064a\u0641\u0634\u0644 \u0627\u0644\u063a\u0627\u0644\u0628 \u062a\u0646\u0641\u064a\u0630 \u0623\u0648\u0627\u0645\u0631 \u0627\u0644\u0644\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0644\u0630\u0644\u0643 \u0623\u063a\u0644\u0628\u0647\u0646 \u0627\u0644\u0646\u0627\u0631",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "12": {
+        "text": "\u0644\u064a\u0647 \u0627\u0633\u062a\u0627\u0630\u0627\u062a \u0627\u0644\u0645\u0648\u0627\u062f \u0627\u0644\u0639\u0644\u0645\u064a\u0647 \u0648\u0642\u062d\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "13": {
+        "text": "\u0644\u0627\u0628\u0633\u0627\u062a \u0627\u0644\u0628\u0631\u0627\u0642\u0639 ... \u0635\u0627\u064a\u0639\u0627\u062a \u0634\u0627\u0631\u0639 \u0627\u0644\u0631\u062c\u0633",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "14": {
+        "text": "\u0627\u0644\u0645\u0648\u0636\u0648\u0639 \u0645\u0648\u0636\u0648\u0639 \u0645\u062a\u0645\u0631\u062f\u0627\u062a \u0646\u0627\u062c\u062d\u0627\u062a \u0648\u0644\u0627\u062a\u0642\u0644\u064a\u062f\u064a\u0627\u062a \u062d\u0627\u062c\u0647 ... \u0627\u0633\u0645\u0647\u0627 \u062f\u064a\u0627\u062b\u0647 ...",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "15": {
+        "text": "\u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u062f\u064a\u0646 \u062d\u0627\u062c\u0627\u062a \u0643\u062a\u064a\u0631 \u0627\u0644\u0632\u0645\u0646 \u0632\u0645\u0646 \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0645\u062d\u062a\u0631\u0645\u0647 \u0627\u0644\u0639\u0627\u0642\u0644\u0647 \u0648\u0644\u064a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "16": {
+        "text": "\u0647\u0627\u0630\u0627 \u0627\u0644\u062d\u0641\u0644 \u0627\u0644\u0627\u063a\u0646\u0627\u0626\u064a \u0642\u0637\u0631\u0629 \u0628\u062d\u0631 \u0627\u0644\u0645\u0633\u0627\u062c\u062f \u063a\u0644\u0642\u062a \u0648\u0627\u0644\u062d\u0627\u0646\u0627\u062a \u0648\u0627\u0644\u0645\u0631\u0627\u0642\u0635 \u0641\u062a\u062d\u062a \u0634\u0648\u0627\u0631\u0639 \u0645\u0633\u0642\u0637 \u0628\u0646\u0627\u062a \u0627\u0644\u0644\u064a\u0644 \u062d\u062f\u062b \u062d\u0631\u062c \u0648\u0646\u0637\u0644\u0628 \u0627\u0644\u0631\u062d\u0645\u0629 \u0627\u0644\u0644\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "17": {
+        "text": "\u064a\u0631\u062c\u0644 \u0645\u0639\u0644\u064a\u0643 \u0628\u0646\u0627\u062a \u0627\u0644\u0643\u0644\u0628 \u0627\u0644\u0641\u0633\u0648\u064a\u0627\u062a \u064a\u062d\u0628\u0646 \u0634\u0648\u0627\u0630 \u0627\u0644\u0643\u0648\u0631\u064a\u0646 \u0648\u0642\u0628\u0644 \u0641\u062a\u0631\u0629 \u0637\u0644\u0639\u0648 \u0648\u0642\u0627\u0644\u0648 \u062d\u0646\u0627 \u0646\u0639\u0628\u062f \u0647\u0630\u0648\u0644\u0627 \u0627\u0644\u0634\u0648\u0627\u0630 \u0648\u0633\u0645\u0648 \u062f\u064a\u0646\u0647\u0645 \u062f\u064a\u0627\u0646\u0629 \u0627\u0644\u0631\u0648\u062d \u0627\u0644\u0628\u0646\u0641\u0633\u062c\u064a\u0629 \u064a\u0639\u0646\u064a \u0627\u0633\u062d\u0628 \u0639\u0644\u064a\u0647\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "18": {
+        "text": "\u0647\u0627\u062c\u0645 \u0633\u062a\u0627\u0644\u064a\u0646 \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u062a\u062d\u062a \u063a\u0637\u0627\u0621 \u062a\u062d\u0631\u0631 \u0627\u0644\u0645\u0631\u0623\u0629 \u0648\u0643\u0627\u0646 \u062a\u0646\u0627\u0642\u0636 \u0645\u0628\u0627\u0634\u0631 \u0623\u0639\u0645\u0627\u0644 \u0627\u0644\u0628\u0644\u0627\u0634\u06a4\u0629 \u0627\u0644\u0633\u0646\u064a\u0646 \u062a\u0644\u062a \u0627\u0644\u062b\u0648\u0631\u0629 \u0628\u062f\u0623 \u0633\u062a\u0627\u0644\u064a\u0646 \u062d\u0645\u0644\u0629 \u064a\u0648\u0645 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0627\u0644\u062b\u0627\u0645\u0646 \u0645\u0627\u0631\u0633 \u0661\u0669\u0662\u0667 \u0627\u0637\u0644\u0642 \u0639\u0644\u064a\u0647\u0627 \u0627\u0633\u0645 \u062e\u062f\u0632\u0648\u0645 \u0648\u0645\u0639\u0646\u0627\u0647 \u0627\u0642\u062a\u062d\u0627\u0645 \u0647\u062c\u0648\u0645 \u0627\u0644\u062d\u0645\u0644\u0629 \u0623\u0631\u063a\u0645\u062a \u0627\u0644\u0645\u0633\u0644\u0645\u0627\u062a \u0646\u0632\u0639 \u062d\u062c\u0627\u0628\u0647\u0646 \u0645\u0634\u0647\u062f \u0627\u0644\u0646\u0627\u0633",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "19": {
+        "text": "\u0627\u0644\u0644\u064a \u0628\u064a\u062f\u0639\u0645\u0648\u0627 \u062d\u0642\u0648\u0642 \u0627\u0644\u0633\u062a\u0627\u062a \u062d\u0642\u0648\u0642 \u0627\u0644\u0631\u062c\u0627\u0644\u0629 \u0646\u0633\u0648\u064a\u0627\u062a \u0641\u0627\u0647\u0645\u0629 \u0627\u0644\u0647\u0631\u064a \u062c\u0627\u064a \u0645\u0646\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "20": {
+        "text": "\u0627\u0646\u0634\u0647\u062f \u0643\u0644\u0627\u0645\u0643 \u0635\u062d\u064a\u062d ... \u0632\u0645\u0646 \u0627\u0644\u0631\u0633\u0648\u0644 \u0627\u0644\u0632\u0645\u0646 \u0627\u0644\u0627 \u0627\u062a\u0645\u0646\u0649 \u0639\u0634\u062a \u0644\u0627\u0646\u0647 \u0627\u0644\u0632\u0645\u0646 \u0627\u0644\u0648\u062d\u064a\u062f \u0627\u0644\u0627 \u0643\u0627\u0646 \u0627\u0644\u062f\u064a\u0646 \u0645\u062d\u0631\u0641 \u0648\u0645\u0639\u0637\u064a \u0627\u0644\u0646\u0633\u0627\u0621 \u062d\u0642\u0648\u0642\u0647\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "21": {
+        "text": "\u0627\u0628\u064a\u0628 \u0627\u0631\u0636 \u0641\u0644\u0633\u0637\u064a\u0646 \u0627\u0644\u0645\u062d\u062a\u0644\u0629 \u0627\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0627\u062a \u064a\u062a\u0638\u0627\u0647\u0631\u0648\u0646 \u0627\u0644\u0639\u0646\u0641 \u062a\u062a\u0639\u0631\u0636 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0627\u0633\u0631\u0627\u0626\u064a\u0644\u064a\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "22": {
+        "text": "\u064a\u0627\u0639\u0632\u064a\u0632\u062a\u064a \u062d\u0636\u0631\u062a \u0627\u0644\u062f\u0648\u0631\u0629 \u0643\u0627\u0645\u0644\u0647 \u0648\u0623\u0642\u062f\u0631 \u0623\u062c\u0632\u0645 \u064a\u0642\u064a\u0646 \u0627\u0646\u0643 \u0642\u0627\u0639\u062f\u0629 \u062a\u0637\u0628\u0644\u064a\u0646 \u0644\u0634\u064a \u0627\u0646\u062a \u0641\u0627\u0647\u0645\u062a\u0647 \u0628\u0627\u0628 \u0633\u064a\u0627\u0633\u064a\u0629 \u0627\u0644\u0642\u0637\u064a\u0639 \u0648\u062a\u062e\u0644\u0641 \u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0648\u0639\u0642\u0648\u0644 \u0627\u0644\u0628\u0639\u0636 \u064a\u0645\u062b\u0644 \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0648\u0627\u0631\u062c\u0639\u064a \u0644\u0623\u0633\u0633 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0648\u0633\u0628\u0628 \u0638\u0647\u0648\u0631\u0647\u0627 \u0648\u0643\u064a\u0641 \u0643\u0627\u0646\u062a \u0648\u0643\u064a\u0641 \u0635\u0627\u0631\u062a \u0648\u0644\u0639\u0644\u0645\u0643 \u0627\u0646\u0627 \u0636\u062f\u0647\u0627 \u0623\u0645\u062b\u0627\u0644\u0643\u0645 \u064a\u0634\u0648\u0647\u0648\u0646 \u0627\u0644\u0643\u062b\u064a\u0631",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "23": {
+        "text": "\u0627\u062a\u0647\u0645\u062a\u0643 \u0627\u0646\u0643 \u0645\u0644\u062a\u0632\u0645\u0647 \u0639\u0646\u064a\u062a\u0643 \u0628\u0634\u064a \u0634\u063a\u0644\u0643 \u0648\u0648\u0636\u064a\u0641\u062a\u0643 \u062c\u0646\u0633\u064a\u0643 \u062f\u064a\u0627\u0646\u062a\u0643 \u0642\u0644\u062a\u064a \u062a\u0639\u0648\u062f\u0646\u0627 \u0646\u0634\u0648\u0641 \u0646\u0633\u0627\u0621 \u0639\u0645\u0627\u0646\u064a\u0627\u062a \u0645\u062d\u062a\u0634\u0645\u0627\u062a \u0627\u0646\u0627 \u0639\u0645\u0627\u0646\u064a\u0647 \u0648\u0634\u0641\u0646\u0627 \u0639\u0645\u0627\u0646\u064a\u0627\u062a \u0645\u062d\u062a\u0634\u0645\u0627\u062a \u0627\u0630\u0627 \u0627\u0646\u062a\u064a \u062a\u0639\u0648\u062f\u062a\u064a \u0627\u062d\u0646\u0627 \u062a\u0639\u0648\u062f\u0646\u0627 \u0646\u0634\u0648\u0641\u0647\u0646 \u0627\u0644\u0627\u062b\u0646\u0628\u0646 \u0644\u0647\u0630\u0627 \u062a\u0642\u0648\u0644\u064a \u062a\u0639\u0648\u062f\u062a\u064a \u062a\u0634\u0648\u0641\u064a \u0627\u0644\u0639\u0645\u0627\u0646\u064a\u0627\u062a \u062a\u0631\u0627 \u0627\u0644\u0639\u0645\u0627\u0646\u064a\u0627\u062a \u0633\u0627\u0641\u0631\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "24": {
+        "text": "\u062a\u0639\u0631\u0641\u0648 \u0627\u0643\u062b\u0631 \u0639\u0644\u064a\u0647\u0646 \u0645\u0627\u064a\u0641\u0639\u0644\u0646\u0647 \u0648\u0628\u0642\u0644\u0628 \u0628\u0627\u0631\u062f \u0648\u0647\u0646 \u064a\u0646\u0627\u062f\u064a\u0646 \u0628\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0645\u0631\u0623\u0629 \u0648\u063a\u064a\u0631\u0647\u0627 \u0648\u0627\u0644\u0627\u0646 \u0633\u064a\u0628\u062d\u062b\u0646 \u0627\u0644\u0623\u0639\u0630\u0627\u0631 \u0644\u062a\u0635\u064a\u0631 \u0641\u0639\u0644\u062a\u0647\u0627 \u0639\u0646\u062f\u0645\u0627 \u062a\u062a\u0639\u0644\u0642 \u0627\u0644\u0642\u0636\u064a\u0629 \u0628\u0627\u0644\u0631\u062c\u0627\u0644 \u0641\u0643\u0644 \u0627\u0644\u0631\u062c\u0627\u0644 \u0645\u0634\u062a\u0631\u0643\u0648\u0646 \u0627\u0644\u0630\u0646\u0628 \u0648\u0643\u0644 \u0627\u0644\u0631\u062c\u0627\u0644 \u0633\u064a\u0626\u064a\u0646 \u0648\u062c\u0645\u064a\u0639 \u0627\u0644\u0631\u062c\u0627\u0644 \u0645\u062c\u0631\u0645\u0648\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "25": {
+        "text": "\u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u0631\u0627\u062d \u062a\u0643\u0648\u0646 \u0645\u0648\u062c\u0648\u062f\u0629 \u0643\u0627\u0646 \u0639\u062f\u0627\u0644\u0629 \u0645\u062c\u062a\u0645\u0639\u0627\u062a\u0646\u0627 \u0627\u0630\u0627 \u062a\u0642\u0648\u0644\u0648\u0646 \u0627\u0644\u0645\u0633\u0627\u0648\u0627\u0629 \u063a\u0644\u0637 \u0627\u0644\u0627\u0633\u0644\u0627\u0645 \u0627\u0644\u0649 \u0627\u0644\u064a\u0648\u0645 \u062a\u0648\u062c\u062f \u0639\u062f\u0627\u0644\u0629 \u0644\u0644\u0645\u0631\u0623\u0629 \u0645\u0639\u0638\u0645 \u0627\u0644\u062f\u0648\u0644 \u0627\u0644\u0627\u0633\u0644\u0627\u0645\u064a\u0629 \u0644\u0644\u0623\u0633\u0641 \u0646\u0639\u064a\u0634 \u0645\u062c\u062a\u0645\u0639 \u0630\u0643\u0648\u0631\u064a \u064a\u063a\u062a\u0635\u0628 \u0627\u0644\u0643\u062b\u064a\u0631 \u0627\u0644\u0646\u0633\u0627\u0621",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "26": {
+        "text": "\u0641\u0627\u062c\u0631\u0627\u062a \u064a\u0639\u0646\u064a \u064a\u0642\u0648\u0645\u0648\u0646 \u0627\u0644\u0635\u0628\u062d",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "27": {
+        "text": "\u0647\u0647\u0647 \u0639\u0632\u0627\u0644\u0644\u0647 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "28": {
+        "text": "\u0627\u0644\u0628\u0646\u0627\u062a \u0627\u0644\u064a \u064a\u0633\u062a\u0639\u0631\u0636\u0648\u0646 \u0631\u062e\u064a\u0635\u0627\u062a \u0627\u0644\u064a \u064a\u0643\u0644\u0645\u0648\u0646 \u0639\u064a\u0627\u0644 \u0648\u062d\u0628\u064a\u0628\u064a \u0648\u062d\u0628 \u0648\u0630\u0646\u0628 \u0648\u0639\u0644\u0649 \u0627\u0644\u0639\u0644\u0646 \u0648\u0645\u062c\u0627\u0647\u0631\u0647 \u0645\u0627\u0634\u0627\u0621\u0627\u0644\u0644\u0647 \u064a\u062c\u0648\u0632",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "29": {
+        "text": "\u0648\u0627\u0644\u0644\u0647 \u0643\u0644\u0647\u0645 \u0633\u0627\u0641\u0644\u0627\u062a \u0631\u062e\u064a\u0635\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "30": {
+        "text": "\u0648\u0627\u0636\u062d \u0627\u062e\u0644\u0627\u0642 \u0627\u0644\u062d\u0631\u0627\u062a \u0647\u0647\u0647 \u0628\u0646\u0627\u062a \u0627\u0644\u0627\u0635\u0648\u0644 \u0648\u0627\u0644\u0642\u0628\u0627\u064a\u0644 \u062b\u0642\u0627\u0641\u0629 \u0627\u0644\u0637\u064a\u0627\u0632\u0629 \u0645\u0633\u062a\u0648\u064a\u0627\u062a\u0643\u0645 \u062a\u0631\u0628\u064a\u0629 \u0634\u0648\u0627\u0631\u0639 \u0648\u0633\u0642\u0648\u0637",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "31": {
+        "text": "\u0627\u0644\u0641\u0633\u0648\u064a\u0627\u062a \u0645\u0643\u0627\u0646 \u0627\u0644\u0645\u0641\u0631\u0648\u0636 \u0646\u0648\u062f\u064a\u0647\u0645 \u0644\u0644\u0645\u0631\u064a\u062e \u064a\u0631\u062a\u0627\u062d\u0646 \u0627\u0644\u0631\u062c\u0627\u0644 \u0647\u0647\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "32": {
+        "text": "\u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0645\u0631\u0623\u0647 \u0628\u0627\u0644\u0623\u062e\u064a\u0631 \u0627\u0644\u0645\u0647\u0645 \u0639\u0646\u062f\u0643 \u0628\u0646\u0627\u062f\u0648\u0644 \u0646\u0627\u064a\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "33": {
+        "text": "\u062a\u0648\u0627 \u0627\u0646\u062a\u064a \u062a\u062d\u0643\u064a \u0639\u0644\u064a \u0627\u0634\u062e\u0627\u0635 \u0646\u0633\u0628\u0629 \u0641\u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0641\u0627\u0644\u0639\u0627\u0644\u0645 \u0645\u0627\u064a\u0645\u0646\u0639\u0634 \u0646\u0627\u0633 \u0643\u0648\u064a\u0633\u0629 \u0627\u0646\u062a\u0648\u0627 \u0645\u0630\u0643\u0648\u0631\u064a\u0646 \u0643\u062a\u0627\u0628 \u0627\u0644\u0644\u0647 \u0627\u0644\u0639\u0632\u064a\u0632 \u0628\u0635\u0641\u0629 \u0639\u0627\u0645\u0629 \u0643\u064a\u062f\u0647\u0646 \u0639\u0638\u064a\u0645 \u0648\u062d\u062f\u064a\u062b \u0627\u0644\u0646\u0628\u064a \u0635\u0644\u0649 \u0627\u0644\u0644\u0647 \u0648\u0633\u0644\u0645 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u062f\u064a\u0646 \u0641\u0627\u0644\u0634\u0647\u0627\u062f\u0629 \u0641\u0627\u0644\u0645\u062d\u0643\u0645\u0629 \u0634\u0647\u0627\u062f\u0629 \u0627\u0644\u0631\u0627\u062c\u0644 \u064a\u0642\u0627\u0628\u0644\u0647\u0627 \u0634\u0647\u0627\u062f\u0629 \u0648\u0644\u064a\u062a\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "34": {
+        "text": "\u0627\u0630\u0627 \u0644\u0639\u0642\u062a\u064a \u062c\u0632\u0645\u062a\u0647 \u0645\u0645\u0643\u0646 \u064a\u0631\u0636\u0649 \u0644\u0639\u0646\u0628\u0648 \u062c\u0645\u0639\u0643\u0645 \u064a\u0627\u0628\u0646\u0627\u062a \u0627\u0644\u0632\u0642 \u0627\u062d\u064a\u0627\u0646 \u0627\u0645\u062b\u0627\u0644\u0643 \u0627\u062d\u0633\u0647\u0645 \u0628\u0646\u0627\u062a \u0634\u0648\u0627\u0631\u0639 \u0648\u0644\u0642\u064a\u0637\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "35": {
+        "text": "\u0644\u064a\u062a\u0647\u0645 \u064a\u0633\u0646\u062f\u0648\u0646 \u0627\u0644\u0645\u0631\u0627\u062d\u0644 \u0644\u0644\u0645\u0639\u0644\u0645\u0627\u062a \u0648\u0627\u0644\u0645\u0639\u0644\u0645\u064a\u0646 \u0631\u062c\u0644 \u0631\u062c\u0644 \u0647\u0647\u0647 \u0634\u062c\u0639 \u0627\u0644\u0648\u0632\u0627\u0631\u0629 \u0627\u0644\u0642\u0631\u0627\u0631\u0627\u062a \u0627\u0644\u064a \u0645\u0627\u0644\u0647\u0627 \u062f\u0627\u0639\u064a \u0627\u0644\u0627 \u0627\u062c\u062a\u0647\u0627\u062f \u0627\u0644\u0645\u0639\u0644\u0645\u0627\u062a \u0648\u0641\u0648\u0642\u0647\u0627 \u0645\u062f\u064a\u0631\u0627\u062a \u0645\u062a\u0633\u0644\u0637\u0627\u062a \u0639\u0627\u062c\u0628\u0647\u0645 \u0627\u0644\u0639\u062c\u0628",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "36": {
+        "text": "\u0646\u062f\u0639\u0648 \u0639\u0631\u0628 \u0627\u0631\u0648\u0628\u0627 \u0644\u0642\u062a\u0644 \u064a\u0647\u0648\u062f \u0627\u0631\u0648\u0628\u0627 \u0648\u0630\u0628\u062d\u0647\u0645 \u0634\u0648\u0627\u0631\u0639 \u0627\u0631\u0648\u0628\u0627 \u0646\u062f\u0639\u0648 \u0644\u0642\u062a\u0644 \u0628\u0646\u0627\u062a \u0627\u0644\u064a\u0647\u0648\u062f \u0648\u0646\u0633\u0627\u0626\u0647\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "37": {
+        "text": "\u0627\u0644\u0644\u0647 \u064a\u0644\u0639\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0633\u0628\u0628 \u0627\u0646\u062a\u0634\u0627\u0631 \u0627\u0644\u0631\u0630\u064a\u0644\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "38": {
+        "text": "\u0637\u064a\u0628 \u0627\u0646\u0627 \u0639\u0645\u0645\u062a \u062e\u0635\u0635\u062a \u0627\u0642\u0635\u062f \u0643\u0644\u0647\u0645 \u0641\u0627\u0633\u062f\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "39": {
+        "text": "\u0631\u062e\u064a\u0635\u0627\u062a \u0627\u0644\u0648\u0637\u0646 \u0635\u0627\u0631\u0646 \u064a\u062d\u062c\u0646 \u0645\u0627\u0639\u0644\u064a\u0647\u0646 \u0639\u062a\u0628 \u0644\u0627\u0646 \u0627\u0644\u0648\u0637\u0646 \u0627\u0644\u064a\u062d\u0643\u0645\u0629 \u0639\u0645\u064a\u0644 \u0627\u0643\u064a\u062f \u064a\u0637\u0644\u0639 \u0635\u0648\u062a \u0627\u0644\u0639\u0627\u0647\u0631\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "40": {
+        "text": "\u0623\u0633\u0633 \u0627\u0644\u062d\u064a\u0627\u0629 \u0627\u0644\u0635\u062d\u064a\u062d\u0629 \u062a\u0641\u0631\u0642 \u0627\u0644\u0627\u062e\u0648\u0627\u0646 \u0627\u0644\u0645\u0627\u0644 \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u062d\u0633\u062f \u0648\u0627\u0644\u0645\u0648\u062a \u062a\u0641\u0642\u062f \u0642\u064a\u0645\u062a\u0643 \u0627\u0644\u0646\u0627\u0633 \u0643\u062b\u0631\u0629 \u0627\u0644\u0643\u0644\u0627\u0645 \u0648\u0643\u062b\u0631\u0629 \u0627\u0644\u0636\u062d\u0643 \u0627\u0644\u0643\u0630\u0628 \u0648\u0627\u0644\u0646\u0645\u064a\u0645\u0629 \u062a\u062e\u0631\u0628 \u0627\u0644\u0632\u0648\u062c\u0629 \u0628\u064a\u062a\u0647\u0627 \u0627\u0644\u0639\u0646\u0627\u062f \u0648\u0627\u0644\u0639\u0635\u0628\u064a\u0629 \u0648\u0627\u0644\u0634\u0643 \u0648\u0631\u0641\u0639 \u0627\u0644\u0635\u0648\u062a \u064a\u062f\u0645\u0631 \u0627\u0644\u0631\u062c\u0644 \u0628\u064a\u062a\u0647 \u0627\u0644\u0627\u0628\u062a\u0639\u0627\u062f \u0648\u0627\u0644\u0627\u0647\u0645\u0627\u0644 \u0648\u0627\u0644\u0642\u0633\u0648\u0629 \u0648\u0627\u0644\u0628\u062e\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,1,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "41": {
+        "text": "\u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0627\u064a\u0634",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "42": {
+        "text": "\u0648\u062a\u0638\u0644 \u0627\u0631\u0648\u0627\u062d \u0627\u0644\u0646\u0633\u0627\u0621 \u062d\u0645\u0627\u064a\u0629 \u0642\u0627\u0646\u0648\u0646 \u0639\u0627\u062f\u0644 \u064a\u0623\u062e\u0630 \u062d\u0642\u0647\u0645 \u0627\u0633\u062a\u0628\u0627\u062d \u0627\u0631\u0648\u0627\u062d\u0647\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "43": {
+        "text": "\u0643\u0627\u0646\u062a \u0631\u062f\u0629 \u0641\u0639\u0644\u0643 \u0633\u0645\u0639\u062a \u0645\u062c\u0631\u0645\u0629 \u0642\u062a\u0644\u062a \u0627\u0637\u0641\u0627\u0644\u0647\u0627 \u0627\u0644\u062d\u0631\u0643\u0627\u062a \u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u062a\u0628\u0631\u0623\u0647\u0627 \u0648\u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0633\u0628\u0628 \u0641\u0633\u0627\u062f \u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0648\u0628\u0644\u0627 \u0628\u0644\u0627 \u0628\u0644\u0627 then there something deeply wrong about you",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "44": {
+        "text": "\u0647\u0630\u0648\u0627 \u0627\u0644\u0646\u0633\u0627\u0621 \u0622\u062e\u0631 \u0632\u0645\u0646 \u0627\u0644\u0644\u0647\u0645 \u0627\u0628\u0639\u062f\u0647\u0645 \u0639\u0646\u0627 \u0628\u0627\u0639\u062f\u062a \u0627\u0644\u0645\u0634\u0631\u0642 \u0648\u0627\u0644\u0645\u063a\u0631\u0628 \u0648\u062c\u0648\u0647 \u0627\u0644\u0634\u0631",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "45": {
+        "text": "\u0648\u0647\u0644 \u0627\u0644\u0645\u0633\u0644\u0645\u0627\u062a \u0645\u062a\u0628\u0631\u062c\u0627\u062a \u0648\u0647\u0644 \u0627\u0644\u0645\u0633\u0644\u0645\u0627\u062a \u064a\u062c\u0627\u062f\u0644\u0646 \u0628\u063a\u064a\u0631 \u0639\u0644\u0645 \u0627\u062d\u0633\u0646 \u0643\u0644\u0645\u0647 \u0627\u062d\u0646\u0627 \u0645\u0633\u0644\u0645\u0627\u062a \u0644\u0644\u0623\u0633\u0641 \u0646\u0639\u0645\u0644 \u0627\u0644\u0625\u0633\u0644\u0627\u0645 \u0643\u0631\u0645 \u0627\u0644\u0645\u0631\u0627\u0621\u0647 \u0628\u0627\u0644\u0639\u0641\u0647 \u0648\u0627\u0644\u0627\u062d\u062a\u0634\u0627\u0645 \u0648\u0627\u0644\u0623\u062e\u0644\u0627\u0642 \u0648\u0627\u0644\u0623\u062f\u0628 \u0648\u062d\u0642\u0648\u0642\u0647\u0627 \u0633\u062a\u0631\u0647\u0627 \u0632\u0648\u062c\u0647\u0627 \u0634\u0631\u064a\u0643 \u062d\u064a\u0627\u062a\u0647\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "46": {
+        "text": "\u0639\u0644\u064a\u0646\u0627 \u0644\u0627\u0646 \u0627\u062d\u0646\u0627 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0633\u0627\u0641\u0631\u0627\u062a \u0645\u062a\u0628\u0631\u062c\u0627\u062a \u062a\u0642\u064a\u062f\u064a\u0646 \u0646\u0641\u0633\u0643 \u0628\u0647\u0627\u0644\u0642\u0648\u0627\u0644\u0628 \u062e\u0627\u0637\u0631\u0643 \u062a\u0641\u0635\u062e\u064a\u0646\u0647 \u0627\u0641\u0635\u062e\u064a\u0647 \u062e\u0644\u0643 \u0635\u0631\u064a\u062d\u0629 \u0623\u0641\u0636\u0644 \u0627\u0644\u062a\u0630\u0628\u0630\u0628 \u0627\u0644\u0644\u064a \u0627\u0646\u062a\u064a \u0644\u0630\u0627 \u062a\u0628\u063a\u064a\u0646 \u062a\u062d\u0627\u0641\u0638\u064a\u0646 \u0635\u0648\u0631\u0629 \u0627\u0644\u0645\u0646\u0642\u0628\u0629 \u0627\u0644\u0628\u0633\u064a\u0647 \u0628\u0634\u0643\u0644 \u0646\u0642\u0627\u0628 \u0631\u0642\u0635 \u0636\u062d\u0643 \u0635\u0631\u0627\u062e \u0639\u064a\u0628 \u0631\u062c\u0627\u0644 \u0645\u0639\u0643 \u062d\u062f\u0648\u062f \u0627\u0644\u062c\u0646\u0633\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "47": {
+        "text": "\u0636\u062d\u0643\u062a\u0646\u064a \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0627\u0644\u064a \u0645\u0633\u0648\u064a\u064a\u0646 \u0627\u0644\u062d\u064a\u0646 \u0627\u0645\u0631\u0627\u0647 \u0646\u0627\u062c\u062d\u0647 \u0628\u062a\u0644\u0642\u0627\u0647\u0627 \u0646\u0633\u0648\u064a\u0647 \u0627\u0644\u0628\u0627\u0642\u064a \u0627\u064a\u0634 \u0645\u0633\u0648\u064a\u064a\u0646 \u0627\u0646\u0647\u0645 \u064a\u062a\u0632\u0648\u062c\u0648\u0646 \u0648\u064a\u062c\u0644\u0633\u0648\u0646 \u0641\u0627\u0644\u0628\u064a\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "48": {
+        "text": "\u0627\u0644\u0642\u0645\u0627\u0645\u0627\u062a \u0627\u0644\u062c\u064a\u0646\u064a\u0629 \u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u062d\u062f\u0647\u0627 \u0632\u0641\u0627\u0631\u0629 \u0644\u0633\u0627\u0646 \u062e\u0648\u0627\u0621 \u062b\u0642\u0627\u0641\u064a \u0641\u0642\u0631 \u0648\u0627\u0642\u0639\u064a \u062e\u0644\u0643 \u0645\u0627\u062e\u0631\u0648\u0643 \u0627\u0644\u0646\u0633\u0648\u064a \u0644\u064a\u0645\u0646 \u062a\u0639\u0646\u0633\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "49": {
+        "text": "\u0623\u0643\u062b\u0631\u062a \u0627\u0644\u0645\u0642\u0627\u064a\u064a\u0633 \u0627\u0644\u0638\u0644\u0645 \u0648\u0627\u0644\u0627\u0636\u0637\u0647\u0627\u062f \u0627\u0644\u0638\u0644\u0645 \u064a\u0642\u0639 \u0627\u0644\u0645\u0631\u0627\u0629 \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629 \u0645\u062d\u062f\u0648\u062f \u064a\u0645\u062b\u0644 \u0646\u0633\u0628\u0629 \u062a\u0630\u0643\u0631 \u0623\u0645\u0627\u0645 \u0627\u0644\u062a\u0642\u062f\u064a\u0631 \u062a\u062d\u0636\u0649 \u0641\u0627\u0644\u0623\u0645\u0631 \u0644\u0627\u064a\u0633\u062a\u062d\u0642 \u062d\u0645\u0644\u0627\u062a \u062a\u0632\u0639\u0645 \u0638\u0644\u0645 \u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0644\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0631\u0641\u0639\u0646 \u0634\u0639\u0627\u0631 \u0627\u0644\u0633\u0641\u0648\u0631 \u0648\u0628\u0647\u064a\u0645\u064a\u0629 \u0627\u0644\u062c\u0646\u0633 \u0648\u062d\u0631\u0628 \u0627\u0644\u0642\u0648\u0627\u0645\u0629 \u0627\u0644\u0643\u0641\u0631 \u0627\u0644\u0628\u0648\u0627\u062d \u0645\u0642\u0627\u0631\u0646\u0629 \u0648\u0628\u064a\u0646 \u0623\u062e\u0637\u0627\u0621 \u0627\u0644\u0630\u0643\u0648\u0631\u064a\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "50": {
+        "text": "\u0648\u0627\u0644\u0644\u0647 \u0627\u0644\u0644\u0647 \u0627\u0639\u0644\u0645 \u0627\u064a\u0646 \u0643\u0627\u0646\u0648 \u064a\u062c\u0628 \u0646\u062d\u0630\u0631 \u0648\u062d\u062a\u064a \u0628\u0646\u0627\u062a \u0641\u0644\u0627\u0633\u0641 \u0641\u0627\u062c\u0631\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "51": {
+        "text": "\u064a\u062f\u0644 \u0639\u062f\u0645 \u062a\u0631\u0628\u064a\u062a\u0647\u0627 \u0648\u0636\u0639\u064a\u0641\u0629 \u0646\u0641\u0633 \u0644\u0630\u0644\u0643 \u0627\u0631\u0641\u0639 \u0646\u0641\u0633\u064a \u0627\u0634\u0643\u0627\u0644 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0644\u0627\u062a\u0631\u064a\u062f \u0627\u0644\u0627 \u0627\u0644\u062a\u062d\u0631\u0631 \u0648\u0627\u0644\u0627\u0646\u0641\u062a\u0627\u062d \u0648\u0627\u0644\u0639\u064a\u0627\u0630 \u0628\u0627\u0644\u0644\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "52": {
+        "text": "\u0628\u062f\u0627\u0621 \u064a\u0637\u0648\u0631 \u0646\u0641\u0633\u0647 \u0644\u0644\u0627\u0641\u0636\u0644 \u0648\u0628\u062f\u0627\u0621 \u0645\u062d\u0627\u0631\u0628\u0629 \u0627\u0647\u0644 \u0627\u0644\u0641\u0633\u0627\u062f \u0648\u0627\u0644\u0627\u062e\u0644\u0627\u0642 \u0627\u0644\u0631\u0630\u064a\u0644\u0629 \u0648\u0647\u0630\u064a \u0633\u0645\u0629 \u0634\u0628\u0627\u0628 \u0647\u0627\u0644\u0648\u0637\u0646 \u0627\u0644\u063a\u064a\u0648\u0631\u064a\u0646 \u0646\u0633\u0627\u0621 \u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0627\u0644\u0627\u0646\u062c\u0631\u0627\u0641 \u0648\u0631\u0627\u0621",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "53": {
+        "text": "\u0627\u0648\u0644 \u0634\u064a\u0621 \u0627\u0639\u0631\u0641 \u0644\u064a\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u0646\u0627\u0642\u0635\u0627\u062a \u062f\u064a\u0646 \u0628\u0639\u062f\u064a\u0646 \u062a\u0639\u0627\u0644 \u062a\u0643\u0644\u0645 \u064a\u0627\u062c\u0627\u0647\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "54": {
+        "text": "\u062a\u0631\u0627 \u0648\u0647\u064a \u0628\u064a\u0628\u064a \u0648\u0647\u064a \u0648\u0643\u0644\u0645\u0629 \u0641\u0627\u0633\u062f\u0627\u062a \u0644\u0633\u0627\u0646\u0647\u0627 \u0643\u0627\u0646\u062a \u062a\u0647\u0628\u0644 \u062e\u0644\u0627\u0635 \u0642\u0627\u0639\u062f\u0647 \u062a\u0643\u0628\u0631 \u063a\u0644\u0637 \u0643\u0644\u0627\u0645\u0647\u0627 \u0627\u0644\u0646\u0627\u0633 \u0648\u0627\u064a \u0627\u062d\u062f \u0645\u0633\u0648\u064a \u062a\u062d\u0637\u0647 \u063a\u0644\u0637 \u0648\u0641\u0627\u0633\u062f \u0648\u062a\u0639\u0637\u064a\u0647 \u0645\u0642\u0635 \u0627\u0638\u0627\u0641\u064a\u0631 \u0628\u0639\u0632\u064a\u0645\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "55": {
+        "text": "\u0645\u0631\u0629 \u062d\u0631\u0642 \u0639\u0644\u0645 \u0627\u0644\u0639\u0631\u0627\u0642 \u0627\u0631\u0628\u064a\u0644 \u0645\u0631\u0629 \u0627\u0644\u0627\u0639\u062a\u062f\u0627\u0621 \u0627\u0644\u0639\u0631\u0628 \u0648\u062d\u062a\u0649 \u0627\u0644\u0646\u0633\u0627\u0621 \u0648\u0641\u0648\u0642 \u062a\u0623\u062e\u0630\u0648\u0646 \u062e\u064a\u0631\u0627\u062a\u0646\u0627 \u0648\u0628\u0639\u062f\u0647\u0627 \u062a\u0630\u0645\u0648\u0646\u0627 \u062a\u0628\u0627 \u0644\u0644\u062d\u0645\u0629 \u0627\u0644\u0648\u0637\u0646\u064a\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "56": {
+        "text": "\u0628\u062d\u0627\u062c\u0629 \u0628\u0627\u0644\u062a\u0623\u0643\u064a\u062f \u0645\u0642\u0627\u0631\u0628\u0629 \u062e\u0644\u0627\u0644 \u062a\u0639\u0627\u0637\u064a\u0646\u0627 \u0627\u0644\u0623\u0632\u0645\u0629 \u0627\u0644\u062f\u0648\u0644\u0629 \u062a\u0642\u062f \u0627\u0644\u0636\u0631\u0631 \u0627\u0644\u0643\u0628\u064a\u0631 \u062a\u0639\u0627\u0646\u064a \u0627\u0644\u0646\u0633\u0627\u0621 \u0648\u0647\u0646 \u0627\u0644\u0623\u0643\u062b\u0631 \u0647\u0634\u0627\u0634\u0629 \u0627\u0642\u062a\u0635\u0627\u062f\u064a \u0648\u0627\u0644\u0623\u0643\u062b\u0631 \u0625\u0646\u062a\u0627\u062c",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "57": {
+        "text": "\u0632\u0645\u0627\u0646 \u0643\u0646\u062a \u0627\u0634\u0648\u0641 \u0627\u062e\u0648\u0627\u062a\u064a \u0627\u0644\u0643\u0628\u0627\u0631 \u0641\u0627\u0633\u0642\u0627\u062a \u0627\u0630\u0627 \u0646\u0627\u062f\u0648 \u0632\u0648\u062c \u062e\u0627\u0644\u062a\u064a \u0628\u0623\u0633\u0645\u0647 \u0648\u0645\u0627\u0642\u0627\u0644\u0648\u0644\u0647 \u0639\u0645\u0648",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "58": {
+        "text": "\u0645\u0634\u0643\u0644\u062a\u0647\u0645 \u062d\u062c\u0627\u0628 \u0627\u0644\u0645\u0631\u0623\u0629 \u064a\u0631\u064a\u062f\u0648\u0646 \u0627\u0644\u0646\u0633\u0648\u0627\u0646 \u0633\u0627\u0641\u0631\u0627\u062a \u0628\u062f\u0648\u0646 \u062d\u062c\u0627\u0628",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "59": {
+        "text": "\u0635\u062f\u0642\u064a\u0646\u064a \u0627\u0644\u0644\u0647 \u0628\u0631\u064a\u0621 \u0643\u0628\u0631\u0623\u0629 \u0627\u0644\u0630\u0626\u0628 \u064a\u0648\u0633\u0641 \u0633\u064a\u062f\u062a\u064a \u0627\u0646\u062a\u064a \u0642\u062f\u0648\u0629 \u0644\u0643\u0644 \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u0634\u0631\u0642 \u0627\u0644\u0627\u0648\u0633\u0637 \u0627\u062a\u0645\u0646\u0627 \u064a\u0623\u062e\u0630 \u062d\u0642\u0647 \u0627\u062a\u0645\u0646\u0627 \u0627\u0644\u062e\u064a\u0631",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "60": {
+        "text": "\u0643\u0631\u064a\u0645 \u0627\u0646\u0627 \u0645\u0644\u064a\u0634 \u062f\u0639\u0648\u0629 \u0628\u0646\u0633\u0628 \u0627\u0646\u062a \u0648\u0644\u062f \u0647\u062a\u0641\u0647\u0645 \u0627\u0644\u0644\u064a \u0647\u0642\u0648\u0644\u0647 \u064a\u0639\u0646\u064a \u0645\u0638\u0646\u0634 \u064a\u0648\u0645 \u0648\u0643\u0646\u062a \u062e\u0627\u064a\u0641 \u062a\u0645\u0634\u064a \u0627\u0644\u0634\u0627\u0631\u0639 \u0639\u0644\u0634\u0627\u0646 \u0628\u0646\u0627\u062a \u0647\u062a\u0639\u0627\u0643\u0633\u0643 \u0647\u062a\u062a\u0631\u0627\u062e\u0645 \u0647\u062a\u0628\u0642\u064a \u0645\u0627\u0634\u064a \u062e\u0627\u064a\u0641 \u0648\u0627\u0646\u062a \u0634\u0648\u0627\u0631\u0639 \u0628\u0644\u062f \u0648\u0644\u0627\u062f \u0628\u0644\u062f\u0643 \u0627\u0644\u0644\u064a \u0645\u0639\u0638\u0645\u0647\u0645 \u0645\u062a\u0631\u0628\u0648\u0634 \u0648\u0627\u0647\u0627\u0644\u064a\u0647\u0645 \u0628\u062a\u062e\u0644\u0641 \u0648\u062a\u0631\u0645\u064a \u0627\u0646\u062a \u0645\u062a\u062e\u064a\u0644 \u0627\u0644\u0627\u0633\u062a\u0647\u062a\u0627\u0631 \u0648\u0635\u0644 \u0644\u0627\u064a\u0647 \u0648\u0635\u0644 \u0644\u0627\u0646\u0647\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "61": {
+        "text": "\u0627\u0645\u064a \u0627\u0644\u0631\u062c\u0644 \u064a\u062c\u0628 \u064a\u0639\u062f\u062f \u0644\u062a\u062a\u063a\u064a\u0631 \u062d\u064a\u0627\u062a\u0647 \u062a\u0633\u062a\u0648\u0639\u0628\u0648\u0627 \u0627\u0644\u0634\u064a \u0627\u0645\u0648\u0631 \u0645\u0627\u064a\u0642\u062f\u0631 \u064a\u062c\u0631\u062d\u0643 \u0648\u0627\u0644\u062a\u0639\u062f\u062f \u0645\u062a\u0646\u0641\u0633 \u0648\u0639\u0644\u0627\u062c \u0648\u0627\u0644\u0631\u062c\u0644 \u064a\u062c\u062f \u0648\u064a\u0634\u0639\u0631 \u0628\u0627\u0644\u062a\u062d\u0633\u0646 \u0627\u0644\u0632\u0648\u0627\u062c \u0628\u0627\u0644\u062b\u0627\u0646\u064a\u0647 \u0648\u0627\u0630\u0627 \u0645\u0642\u062a\u062f\u0631 \u064a\u0627\u062e\u0630 \u0627\u0644\u062b\u0627\u0644\u062b\u0647 \u0648\u0627\u0644\u0631\u0627\u0628\u0639\u0647 \u062a\u0627\u0643\u062f\u064a \u0627\u0646\u062a\u064a \u0648\u063a\u064a\u0631\u0643 \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0644\u062a\u0639\u062f\u062f \u0644\u0644\u0631\u062c\u0644 \u0648\u0627\u062c\u0628 \u0648\u0627\u0644\u0632\u0627\u0645\u064a \u0648\u0627\u0644\u0646\u0633\u0627\u0621 \u064a\u062e\u062a\u0644\u0641\u0648\u0627 \u0633\u0648\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "62": {
+        "text": "\u0635\u062f\u064a\u0642\u062a\u064a \u064a\u0648\u0645 \u0643\u0627\u0646\u062a \u062a\u0628\u064a \u062a\u062f\u062e\u0644 \u0627\u0644\u062b\u0627\u0646\u0648\u064a \u0623\u0647\u0644\u0647\u0627 \u0643\u0627\u0646\u0648\u0627 \u0631\u0627\u0636\u064a\u064a\u0646 \u0627\u0644\u0627 \u0627\u062e\u0648\u0647\u0627 \u0627\u0644\u0645\u062a\u0632\u0648\u062c \u0642\u0627\u0644\u0647\u0627 \u0644\u0627\u0646 \u0632\u0648\u062c\u0629 \u0627\u062e\u0648\u0647\u0627 \u0645\u0639\u0628\u064a\u0647 \u0631\u0623\u0633\u0647 \u0628\u0646\u0627\u062a \u0627\u0644\u062b\u0627\u0646\u0648\u064a \u0635\u0627\u064a\u0639\u0627\u062a \u0648\u0627\u0644\u0645\u0639\u0644\u0645\u0627\u062a \u064a\u062f\u062e\u0644\u0648\u0646 \u0634\u0628\u0627\u0628 \u0644\u0644\u0645\u062f\u0631\u0633\u0647 \u0648\u0643\u0644 \u0639\u0634\u0627\u0646 \u0627\u0647\u0644\u0647\u0627 \u0632\u0648\u062c\u0648\u0647\u0627 \u0628\u062b\u0627\u0644\u062b \u0645\u062a\u0648\u0633\u0637 \u0648\u0645\u0627\u062e\u0644\u0648\u0647\u0627 \u062a\u0643\u0645\u0644 \u0648\u062a\u0628\u064a \u062a\u062c\u064a \u062a\u062d\u0637 \u062d\u0631\u062a\u0647\u0627 \u0628\u0635\u062f\u064a\u0642\u062a\u064a \u0648\u0627\u0644\u0649 \u0627\u0644\u0622\u0646 \u062c\u0627\u0644\u0633\u0647 \u0628\u0627\u0644\u0628\u064a\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "63": {
+        "text": "\u0637\u064a\u0628 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u064a\u0627\u0644\u063a\u0628\u064a\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "64": {
+        "text": "\u062e\u0637\u0627\u0628\u0647 \u0645\u062a\u062d\u0631\u0631\u0627\u062a \u0644\u0644\u062c\u0627\u062f\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "65": {
+        "text": "\u0641\u0642\u0631\u0629 \u062e\u0637\u064a\u0647 \u0646\u0633\u064a\u062a\u0648\u0627 \u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0645\u0631\u0623\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "66": {
+        "text": "\u0648\u0644\u062f \u064a\u0643\u0631\u0647 \u0627\u0644\u0645\u0631\u0627\u0629 \u064a\u062f\u0639\u0645\u0647\u0645 \u0627\u0644\u062d\u0631\u064a\u0645 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u062f\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "67": {
+        "text": "\u0648\u064a\u062c\u0648\u0646\u0643 \u0646\u0633\u0648\u064a\u0627\u062a \u064a\u0637\u0627\u0644\u0628\u0648\u0646 \u0628\u062d\u0642\u0648\u0642 \u0627\u0644\u0645\u0631\u0627\u0647 \u0645\u0627\u064a\u0634\u0648\u0641\u0648\u0646 \u0627\u0644\u0627\u0633\u0644\u0627\u0645 \u0643\u0631\u0645\u0647\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "68": {
+        "text": "\u062a\u0642\u0648\u0644 \u0627\u0644\u0644\u0647 \u0648\u0645\u062f\u0631\u064a \u0627\u064a\u0634 \u0648\u0647\u0645 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u064a\u062f\u0648\u0631\u0648\u0646 \u0627\u0644\u0648\u0635\u0627\u062e\u0647 \u0648\u0627\u0644\u0627\u0645\u0648\u0631 \u0627\u0644\u062e\u0637\u0627 \u0627\u0635\u0644\u0627 \u0639\u064a\u0628 \u062a\u0630\u0643\u0631\u064a\u0646 \u0627\u0633\u0645 \u0627\u0644\u0644\u0647 \u0628\u0643\u0644\u0627\u0645\u0643 \u0646\u0641\u0627\u0642 \u0648\u0645\u0627\u062a\u0639\u0631\u0641 \u062a\u0631\u062a\u0628 \u0643\u0644\u0627\u0645 \u0645\u0627\u0642\u0648\u0644 \u0627\u0644\u0644\u0647 \u064a\u0644\u0639\u0646 \u0627\u0644\u0644\u064a \u062f\u062e\u0644 \u0647\u0627\u0644\u062a\u0641\u0643\u064a\u0631 \u0628\u0631\u0648\u0633\u0643\u0645 \u064a\u0627\u0646\u0633\u0648\u064a\u0627\u062a \u0648\u062a\u0641\u062a\u062e\u0631 \u0627\u0646\u0647\u0627 \u0646\u0633\u0648\u064a\u0647 \u0648\u0635\u062e\u0647 \u0634\u0641\u0646\u0627 \u0627\u0644\u0639\u062c\u0627\u064a\u0628 \u0647\u0627\u0644\u0648\u0642\u062a \u0627\u0644\u0644\u0647 \u064a\u0633\u062a\u0631 \u0627\u0644\u062c\u0627\u064a \u0627\u0644\u0645\u0647\u0645 \u0644\u0627\u0627\u0634\u0648\u0641\u062a\u0633 \u062a\u0646\u0627\u0628\u062d\u064a\u0646 \u064a\u0644\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "69": {
+        "text": "\u0631\u062e\u064a\u0635\u0627\u062a \u0645\u0627\u0647\u0645 \u0633\u0644\u0639 \u062a\u0631\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "70": {
+        "text": "\u0627\u0644\u0641\u0633\u0648\u064a\u0627\u062a \u0648\u0627\u0644\u0628\u0633 \u0627\u0644\u0639\u0627\u0631\u064a \u062a\u062d\u062a\u0627\u062c \u0648\u0642\u0641\u0647 \u0648\u062d\u0632\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "71": {
+        "text": "\u064a\u0642\u0648\u0644\u0648\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0645\u062a\u0637\u0631\u0641\u0627\u062a \u0648\u064a\u0643\u0631\u0647\u0648\u0646 \u0627\u0644\u0631\u062c\u0627\u0644 \u0627\u0630\u0627 \u062a\u0639\u0644\u064a\u0642\u0627\u062a\u0647\u0645 \u0648\u0635\u064a\u0627\u062d\u0647\u0645 \u0633\u0627\u0644\u0641\u0629 \u0645\u0631\u0623\u0629 \u0627\u0644\u0645\u062a\u0637\u0631\u0641 \u0627\u0644\u062d\u0642\u064a\u0642\u064a \u0627\u0644\u0622\u062e\u0631",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "72": {
+        "text": "\u064a\u0627\u062e\u0630 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0648\u0627\u0644\u0644\u064a\u0628\u0631\u0627\u0644\u064a\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "73": {
+        "text": "\u0631\u064a\u0645\u0627 \u0633\u0623\u0644\u062a \u0627\u0644\u062f\u0643\u062a\u0648\u0631\u0629 \u0648\u0639\u0637\u062a\u0646\u0627 \u062f\u0643\u062a\u0648\u0631\u062a\u0646\u0627 \u0627\u0644\u062c\u0648\u0627\u0628 \u0627\u0644\u0644\u064a \u0637\u0628\u0639\u0627 \u064a\u0628\u0646\u0627\u062a \u0628\u0648\u0642\u062a \u0639\u0642\u062f \u0627\u0644\u0642\u0631\u0627\u0646 \u064a\u0645\u0643\u0646 \u0627\u0644\u0628\u0646\u062a \u0628\u062a\u0633\u062a\u062d\u064a \u0627\u0628\u0648\u0647\u0627 \u0648\u0627\u062e\u0648\u0647\u0627 \u0648\u0645\u0627\u062a\u0643\u062a\u0628\u0648 \u0648\u0628\u0639\u062f \u0633\u0646\u0629 \u0627\u0644\u0632\u0648\u0627\u062c \u062a\u0641\u062a\u0643\u0631 \u0627\u0646\u0647\u0627 \u062a\u0628\u063a\u0627\u0627 \u0627\u0644\u0634\u0631\u0637 \u0647\u0627\u0632\u0627 \u0648\u062a\u0631\u0648\u062d \u0644\u0644\u0623\u062d\u0648\u0627\u0644 \u0627\u0644\u0645\u062f\u0646\u064a\u0629 \u0648\u0637\u0628\u0639\u0627 \u0628\u062a\u0644\u0627\u0642\u064a \u0627\u0644\u0637\u0644\u0627\u0628 \u062e\u0631\u064a\u062c\u064a\u0646 \u0627\u0644\u0634\u0631\u064a\u0639\u0629 \u0627\u0644\u0644\u064a \u0628\u064a\u0633\u062a\u0642\u0628\u0644\u0648\u0647\u0627 \u0648\u0647\u0632\u0627 \u0632\u0645\u0646 \u0627\u0644\u0646\u0633\u0627\u0621 \u0645\u062d\u0646\u0627 \u0639\u0627\u0631\u0641\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "74": {
+        "text": "\u0627\u0644\u0645\u0634\u0643\u0644\u0629 \u0645\u0639\u0631\u0641\u0629 \u0645\u0639\u0646\u064a \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u062f\u064a\u0646 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0644\u0627\u0646 \u0627\u0644\u0627\u063a\u0644\u0628\u064a\u0629 \u0627\u0644\u0639\u0638\u0645\u0629 \u0627\u0644\u0639\u0627\u0637\u0641\u0629 \u062a\u0633\u0628\u0642 \u062a\u0641\u0643\u064a\u0631\u0647\u0646 \u0648\u0646\u0627\u0642\u0635\u0627\u062a \u062f\u064a\u0646 \u0639\u0634\u0627\u0646 \u0627\u0644\u0633\u0645\u0627\u062d\u064a\u0629 \u0627\u0644\u0627\u062d\u0643\u0627\u0645 \u0627\u0644\u0634\u0631\u0639\u064a\u0629 \u062a\u0645\u0646\u0639\u0648\u0647\u0646 \u0627\u0644\u0635\u0644\u0627\u0629 \u0648\u062f\u064a \u062d\u0627\u062c\u0629 \u0645\u062a\u0639\u064a\u0628\u0634 \u0627\u0645\u0631\u0627\u0647 \u0641\u0636\u0644 \u0627\u0644\u0644\u0647 \u0639\u0644\u064a\u0647\u0646 \u0633\u0648\u0631\u0629 \u0641\u0627\u0644\u0642\u0631\u0627\u0646 \u0628\u0627\u0633\u0645\u0647\u0646 \u0644\u062d\u0641\u0638 \u062d\u0642\u0648\u0642\u0647\u0646 \u0648\u0647\u0646\u0627\u0643 \u0646\u0633\u0627\u0621 \u0627\u0644\u0644\u0647 \u0627\u0641\u0636\u0644 \u0627\u0645\u0629 \u0643\u0627\u0645\u0644\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "75": {
+        "text": "\u0648\u0628\u062e\u0635\u0648\u0635 \u0642\u0644\u0629 \u0627\u0644\u0638\u0644\u0645 \u0628\u062c\u0627\u0646\u0628 \u0627\u0644\u062a\u0642\u062f\u064a\u0631 \u064a\u063a\u064a\u0631 \u0627\u0644\u0627\u0645\u0631 \u0634\u064a\u0621 \u0627\u0644\u0645\u0647\u0645 \u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u0646\u0627\u0641\u062d\u062a \u0627\u0644\u0628\u0631\u064a\u0626\u0627\u062a \u0639\u0631\u0636\u0627 \u0641\u0645\u0627 \u0643\u0627\u0646 \u0634\u0641\u064a\u0639\u0627 \u0627\u0644\u0630\u0643\u0648\u0631\u064a\u0629 \u0648\u0642\u0641\u062a \u0633\u062f\u0627 \u0648\u062c\u0647 \u0627\u0644\u062f\u0627\u0634\u0631\u0627\u062a \u0642\u0648\u0644\u0643",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "76": {
+        "text": "\u0633\u0628\u0628 \u062a\u0641\u0634\u064a \u0627\u0644\u0641\u0633\u0627\u062f \u0648\u0627\u0644\u062c\u0648\u0631 \u0628\u0645\u0628\u0631\u0631 \u062d\u0642\u0648\u0642 \u0627\u0644\u0645\u0631\u0623\u0647 \u0648\u0627\u0644\u0646\u062a\u064a\u062c\u0647 \u0639\u0627\u0631\u0636\u0627\u062a \u0627\u0632\u064a\u0627\u0621 \u0643\u0648\u064a\u062a\u064a\u0627\u062a \u064a\u0633\u062a\u062e\u062f\u0645\u0646 \u0627\u0644\u0641\u0627\u0638 \u0628\u0630\u064a\u0626\u0647 \u0628\u0627\u0644\u0633\u0646\u0627\u0628 \u0648\u0635\u0648\u0631 \u0627\u063a\u0631\u0627\u0621\u0627\u062a \u0648\u0645\u064a\u0648\u0639\u0647 \u0627\u0644\u0639\u062c\u064a\u0628 \u064a\u062b\u0642 \u0627\u0644\u0634\u0639\u0628 \u0627\u0644\u0643\u0648\u064a\u062a\u064a \u0628\u0645\u062d\u0627\u0645\u064a\u0627\u062a \u0645\u062a\u0628\u0631\u062c\u0627\u062a \u064a\u062a\u062d\u062f\u062b\u0646 \u0627\u0644\u0644\u0648\u0627\u0637 \u0648\u064a\u062f\u0627\u0641\u0639\u0646 \u0627\u0644\u0645\u062b\u0644\u064a\u064a\u0646 \u0627\u0644\u0645\u062e\u0646\u062b\u064a\u0646 \u0648\u0627\u0644\u062e\u0644\u0627\u0639\u0647 \u0648\u064a\u062e\u0644\u0639\u0646 \u0627\u0644\u0646\u0633\u0627\u0621 \u0627\u0632\u0648\u0627\u062c\u0647\u0646 \u064a\u0637\u0644\u0642\u0648\u0646\u0647\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "77": {
+        "text": "\u0648\u062d\u062f\u0629 \u062c\u0644\u0633\u062a \u062a\u062a\u062e\u0630 \u0646\u0635\u0631 \u0627\u0644\u062d\u0631\u0628\u064a \u0643\u0627\u062b\u0628\u0627\u062a \u0648\u062d\u0634\u064a\u0629 \u0627\u0644\u0631\u062c\u0627\u0644 \u0627\u0645\u0631\u0627\u0629 \u064a\u0624\u062e\u0630 \u0634\u064a\u0626 \u0645\u0641\u064a\u062f \u062a\u062a\u063a\u064a\u0631 \u0648\u062a\u0646\u0636\u0628\u0637 \u0648\u062a\u0631\u0649 \u0645\u0627\u0641\u064a \u0631\u062c\u0627\u0644 \u0642\u0630\u0631\u064a\u0646 \u0646\u0633\u0627\u0621 \u0642\u0630\u0631\u0627\u062a \u0648\u0632\u064a \u0645\u0627\u0641\u064a \u0631\u062c\u0627\u0644 \u0645\u062d\u062a\u0631\u0645\u064a\u0646 \u0646\u0633\u0627\u0621 \u0645\u062d\u062a\u0631\u0645\u0627\u062a \u0627\u0644\u0633\u0644\u0648\u0643\u064a\u0627\u062a \u0648\u0627\u0644\u0634\u062e\u0635\u064a\u0627\u062a \u0648\u0627\u0644\u062d\u0627\u0644\u0627\u062a \u0627\u0644\u0646\u0641\u0633\u064a\u0629 \u0628\u0634\u062a\u0649 \u0627\u0646\u0648\u0627\u0639\u0647\u0627 \u0641\u0642\u0637 \u0627\u0644\u0630\u0643\u0648\u0631 \u062c\u0645\u064a\u0639 \u0627\u0644\u062c\u0646\u0633\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "78": {
+        "text": "\u062a\u062a\u062d\u0631\u0631\u064a\u0646 \u0627\u064a\u0634 \u0645\u062b\u0644\u0627 \u0623\u062a\u0648\u0642\u0639 \u0643\u062b\u064a\u0631 \u0645\u062a\u062d\u0631\u0631\u0627\u062a \u0628\u062f\u0648\u0646 \u0645\u0627\u064a\u0639\u062a\u0645\u062f\u0648\u0646 \u0627\u062d\u062f \u0627\u0646\u062a\u064a \u0634\u0643\u0644\u0643 \u062a\u0628\u064a\u0646 \u0627\u0644\u0643\u0644 \u064a\u062a\u062d\u0631\u0631 \u0639\u0646\u064a \u0627\u0646\u0627 \u0627\u0648\u0644 \u0623\u0645\u0631\u0647 \u0627\u0639\u0631\u0641\u0647\u0627 \u0648\u0627\u0633\u0645\u0639 \u0625\u0642\u0628\u0627\u0644 \u062f\u0631\u0646\u062f\u0631\u064a \u0642\u0627\u0644 \u0627\u064a\u0634 \u0642\u0627\u0644 \u0643\u0627\u0646\u062a \u0627\u0645\u0644\u0647\u0627 \u0627\u0644\u0648\u062d\u064a\u062f \u0627\u0644\u062a\u062d\u0631\u0631 \u0648\u0627\u0644\u062a\u0641\u062a\u062d \u0644\u064a\u0647 \u0648\u0631\u062f\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "79": {
+        "text": "\u0648\u0647\u0630\u0627 \u0634\u064a\u0621 \u0645\u062d\u0632\u0646 \u0648\u0645\u062e\u064a\u0641 \u0648\u0627\u0644\u0646\u0641\u0633 \u062a\u062a\u0639\u0628 \u0644\u0633\u0645\u0627\u0639 \u062e\u0628\u0631 \u0643\u0647\u0630\u0627 \u0646\u0627\u0633 \u0645\u0627\u062e\u0630\u064a\u0646 \u0627\u0644\u0633\u0627\u0644\u0641\u0629 \u0625\u0646\u0643\u0627\u0631 \u0648\u0627\u0633\u062a\u0647\u0632\u0627\u0621 \u0648\u0627\u0642\u062d\u0645\u0648\u0627 \u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u0648\u0627\u0644\u063a\u0631\u064a\u0628 \u0627\u0644\u0645\u0648\u0636\u0648\u0639 \u0646\u0627\u0633 \u064a\u0634\u0648\u0641\u0648\u0627 \u0641\u0639\u0644 \u0627\u0644\u0623\u0647\u0644 \u0635\u062d\u064a\u062d \u0639\u064a\u0628 \u0644\u0647\u062f\u0631\u062c\u0629 \u0623\u0631\u0648\u0627\u062d\u0647\u0646 \u0631\u062e\u064a\u0635\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "80": {
+        "text": "\u0627\u0646\u0627 \u0627\u0646\u0643\u0631\u0647\u0627 \u0643\u0643\u0644 \u0643\u0645\u0646\u0638\u0648\u0645\u0629 \u0627\u0644\u064a\u0633 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0641\u0627\u0633\u062f\u0627\u062a \u0643\u0627\u0641_\u0631\u0627\u062a \u0645\u0646\u062d\u0631\u0641\u0627\u062a \u064a\u0642\u0648\u0644 \u0635\u062f\u064a\u0642\u064a \u0627\u0644\u0630\u0643\u0648\u0631\u064a \u0627\u0633\u0627\u0633 \u062a\u0645\u0633\u0643 \u0628\u0645\u0642\u0648\u0644\u0629 \u0627\u0644\u0630\u0643\u0648\u0631\u064a \u0627\u0644\u0627\u0639\u062c\u0628 \u0627\u0644\u0645\u0624\u0633\u0641 \u0628\u0627\u0644\u0646\u0633\u0628\u0629 \u0637\u0644\u0628\u0629 \u0627\u0644\u0639\u0644\u0645 \u0627\u0644\u0643\u0631\u0627\u0645 \u064a\u0624\u064a\u062f\u0648\u0646\u0647\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "81": {
+        "text": "\u0646\u0633\u0628\u0629 \u0646\u062c\u0627\u062d \u0627\u0644\u0628\u0643\u0627\u0644\u0648\u0631\u064a\u0627 2020 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u062f\u064a\u0646 67,51 \u0642\u0648\u0627\u0645\u0648\u0646 \u0627\u0644\u0646\u0633\u0627\u0621 32,49",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "82": {
+        "text": "\u064a\u0631\u062f\u0646 \u0627\u0644\u062a\u062d\u0631 \u0648\u0644\u064a \u0627\u0644\u0623\u0645\u0631 \u062a\u062d\u062a \u0643\u0630\u0628\u0629 \u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0645\u0631\u0623\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "83": {
+        "text": "\u0627\u062d\u0646\u0627 \u0646\u0637\u0627\u0644\u0628 \u0641\u0642\u0637 \u0628\u0627\u0644\u0639\u0645\u0644 \u0644\u0627\u0646 \u0627\u0644\u0633\u0646\u0647 \u0627\u0633\u062a\u062b\u0646\u0627\u0626\u064a\u0647 \u0645\u0631\u0648\u0646\u0647 \u0628\u0627\u0644\u0639\u0645\u0644 \u062a\u062d\u062a \u0627\u062f\u0627\u0631\u0647 \u0645\u062a\u0633\u0644\u0637\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "84": {
+        "text": "\u0645\u0627\u0634\u064a \u0627\u062a\u0641\u0642 \u0646\u0642\u0637\u0647 \u0627\u0630\u0627 \u0627\u0644\u0632\u0648\u062c \u064a\u0641\u0631 \u0628\u0630\u064a\u0644\u0647 \u064a\u0648\u06af\u0641 \u062d\u062f\u0647 \u0644\u0627\u0646 \u0627\u0644\u0646\u0633\u0627\u0621 \u0634\u0642\u0627\u0626\u0642 \u0627\u0644\u0631\u062c\u0627\u0644 \u0641\u0627\u0644\u0647\u0647 \u062a\u0634\u062a\u063a\u0644 \u0627\u0630\u0627 \u062a\u0631\u064a\u062f \u0648\u0641\u0644\u0648\u0633\u0647\u0647 \u0627\u0644\u0647\u0647 \u0648\u0645\u064a\u062d\u0642\u0644\u0647 \u064a\u0627\u062e\u0630 \u062f\u0631\u0647\u0645 \u0628\u062f\u0648\u0646 \u0631\u0636\u0627\u062a\u0647\u0647 \u0648\u0627\u062c\u0628 \u0627\u0643\u0645\u0627\u0644 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0648\u0627\u0644\u0644\u064a \u064a\u0645\u0646\u0639\u0647\u0647 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u064a\u0624\u062b\u0645 \u0647\u0627\u0644\u0627\u0645\u0648\u0631 \u0648\u063a\u064a\u0631\u0647\u0647 \u0647\u0648\u0627\u064a \u0645\u064a\u0646\u0642\u0644\u0648\u0647\u0647 \u0641\u064a\u0632\u064a\u062f\u0648\u0646 \u0627\u0644\u0638\u0644\u0645 \u0627\u0644\u0645\u0631\u0623\u0629 \u0648\u064a\u0641\u0631\u0639\u0646\u0648\u0646 \u0627\u0644\u0631\u062c\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "85": {
+        "text": "\u064a\u0627\u0632\u064a\u0646\u0647\u0627 \u0648\u0627\u0644\u0644\u0647 \u0641\u0631\u062d\u0647 \u0648\u0646\u0646\u0628\u0633\u0637 \u0627\u0645\u0627 \u0627\u0644\u0627\u0646 \u0635\u0639\u0628\u0647 \u0635\u0627\u0631\u062a \u0627\u0644\u062d\u064a\u0627\u0629 \u0648\u0627\u0644\u0627\u0646\u0641\u0633 \u062a\u063a\u064a\u0631\u062a \u0643\u062b\u064a\u0631 \u0627\u0644\u0644\u0647 \u064a\u0631\u062d\u0645 \u0627\u0645\u0648\u062a\u0646\u0627 \u0627\u0644\u0648\u0627\u0644\u062f\u064a\u0646 \u0648\u0627\u0644\u0627\u062c\u062f\u0627\u062f \u0632\u0645\u0646 \u0644\u064a\u062a\u0647 \u064a\u0639\u0648\u062f \u0627\u0645\u0627 \u0627\u0644\u0627\u0646 \u0632\u0645\u0646 \u0648\u062e\u0627\u0635\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u063a\u064a\u0631\u0647 \u0648\u062e\u0633\u062f \u0648\u062a\u0642\u0647\u0631 \u0641\u0644\u0627\u0646\u0647 \u0648\u0639\u0634\u0627\u0646 \u0641\u0644\u0627\u0646\u0647 \u0648\u0627\u0635\u0628\u062d \u0627\u0647\u062a\u0645\u0627\u0645\u0647\u0645 \u062a\u0635\u0648\u064a\u0631 \u0648\u062a\u0641\u0627\u0647\u0627\u062a \u0627\u0644\u062c\u0648\u0627\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "86": {
+        "text": "\u0627\u0630\u0627 \u0643\u0627\u0646 \u063a\u0631\u0627\u0628\u0647 \u0646\u0633\u0648\u064a\u0629 \u0628\u0644\u0647\u0627\u0621 \u0644\u0627\u062a\u0631\u064a\u062f \u0644\u0644\u0645\u062c\u062a\u0645\u0639 \u062e\u064a\u0631\u0627 \u0641\u0627\u0644\u0645\u0631\u0623\u0629 \u0645\u0643\u0627\u0646\u0647\u0627 \u0628\u064a\u062a\u0647\u0627 \u0648\u0639\u062f\u0645 \u0627\u062e\u062a\u0644\u0627\u0637\u0647\u0627 \u0623\u0645\u0627\u0643\u0646 \u0627\u0644\u0634\u0628\u0647\u0627\u062a \u0627\u062e\u0630\u0647\u0627 \u0644\u0648\u0638\u0627\u0626\u0641 \u0627\u0644\u0631\u062c\u0627\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "87": {
+        "text": "\u0642\u0627\u0644 \u0627\u0646\u0648 \u0627\u0644\u0645\u0644\u0643 \u064a\u0642\u0635\u062f \u0627\u0644\u0645\u0631\u0623\u0647 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0644\u0627\u0646 \u0645\u0645\u0645\u0648\u0648 \u0627\u0645\u0631\u0623\u0647 \u0646\u0633\u0648\u064a\u064a\u064a\u0647 \u064a\u0627\u0645\u062a\u062e\u0644\u0641\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "88": {
+        "text": "\u0648\u064a\u062c\u0648\u0646\u0643 \u0646\u0633\u0648\u064a\u0627\u062a \u064a\u0637\u0627\u0644\u0628\u0648\u0646 \u0628\u0627\u0644\u062d\u0642\u0648\u0642",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "89": {
+        "text": "\u062d\u0633\u0628\u064a \u0627\u0644\u0644\u0647 \u0648\u0646\u0639\u0645 \u0627\u0644\u0648\u0643\u064a\u0644 \u0645\u062b\u0644 \u0627\u0644\u0627\u0634\u0643\u0627\u0644 \u0639\u062f\u064a\u0645\u0629 \u0627\u0644\u0625\u0646\u0633\u0627\u0646\u064a\u0629 \u0648\u0627\u0644\u0631\u062d\u0645\u0629 \u0645\u0639\u0642\u0648\u0644 \u0628\u0646\u0627\u062a\u0647 \u064a\u0642\u0648\u0644 \u0639\u0644\u064a\u0647\u0645 \u0628\u0646\u0627\u062a \u0634\u0648\u0627\u0631\u0639",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "90": {
+        "text": "\u0627\u0644\u0639\u0648\u062f \u0636\u062d\u064a\u0629 \u062a\u0648\u062c\u0647 \u0641\u0643\u0631\u064a \u0633\u0639\u0648\u062f\u064a \u0627\u064a\u0627\u0645 \u0627\u0644\u0637\u0648\u0639 \u0648\u064a\u0648\u0645 \u0627\u0644\u0645\u0642\u0627\u0637\u0639\u0629 \u0648\u064a\u0648\u0645 \u0627\u0644\u0627\u0646\u0641\u062a\u0627\u062d \u0645\u0633\u062a\u0647 \u0627\u0644\u0646\u0633\u0627\u0621",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "91": {
+        "text": "\u064a\u0627\u0628\u0648\u064a \u0627\u0644\u062d\u064a\u0646 \u062a\u0628\u0648\u0648\u0646 \u0643\u0634\u0641\u0646\u0627 \u0642\u0644\u062a\u0648 \u0645\u062a\u0628\u0631\u062c\u0627\u062a \u062a\u063a\u0637\u064a\u0646\u0627 \u062a\u062d\u0633\u0628\u0648\u0646\u0627 \u0634\u064a\u0646\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "92": {
+        "text": "\u062c\u0639\u0644 \u0627\u0637\u0631\u0627\u0641 \u0627\u0644\u0645\u062c\u062a\u0645\u0639 \u0627\u0644\u0646\u0633\u0627\u0626\u064a \u0648\u0627\u0644\u0631\u062c\u0627\u0644\u064a \u0628\u062c\u0639\u0644\u0647\u0645 \u0627\u0636\u062f\u0627\u062f \u0645\u062a\u0646\u0627\u0641\u0631\u0647 \u0648\u062a\u0635\u062f\u064a\u0631 \u0627\u0644\u0641\u0643\u0631 \u0644\u0644\u0645\u062c\u062a\u0645\u0639 \u062a\u062e\u0644\u0641 \u0648\u0631\u062c\u0648\u0639 \u0644\u0644\u062c\u0627\u0647\u0644\u064a\u0647 \u064a\u062c\u0628 \u0632\u0631\u0639 \u0627\u0644\u0641\u0643\u0631 \u0627\u0644\u0645\u062a\u062c\u0627\u0646\u0633 \u0648\u0627\u0644\u0633\u0644\u0648\u0643 \u0627\u0644\u0627\u0633\u0644\u0627\u0645\u064a \u0627\u0644\u0648\u0633\u0637\u064a \u0645\u0645\u0627\u0627\u062a\u0649 \u0627\u0644\u0646\u0628\u064a \u0645\u062d\u0645\u062f \u0648\u0627\u0644\u0644\u0647 \u0648\u062c\u0644 \u0648\u0627\u0644\u0627\u0644\u062a\u0641\u0627\u062a \u0644\u0631\u0642\u064a \u0627\u0644\u0648\u0637\u0646 \u0648\u0627\u0644\u062f\u064a\u0646 \u0648\u0645\u0633\u0627\u0646\u062f\u0629 \u0648\u0648\u0644\u0627\u0629 \u0627\u0644\u0627\u0645\u0631 \u062f\u0639\u0648\u0646\u0627 \u0646\u0631\u062a\u0642\u064a \u0641\u0627\u0644\u0627\u0633\u0644\u0627\u0645 \u0643\u0641\u0644 \u0627\u0644\u0631\u0642\u064a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "93": {
+        "text": "\u0639\u0627\u0645 \u0627\u0644\u062d\u0631 \u0648\u0632\u062d\u0645\u0647 \u0627\u0644\u0633\u064a\u0627\u0631\u0627\u062a \u0628\u0627\u0628 \u0645\u062f\u0631\u0633\u0647 \u0648\u0627\u0644\u0643\u062a\u0628 \u0645\u0643\u062a\u0626\u0628\u0647 \u062e\u0634\u0646\u0647 \u062a\u062c\u0631\u062d \u0627\u0644\u0623\u0635\u0627\u0628\u0639 \u0648\u0645\u0639\u0644\u0645\u0627\u062a \u0645\u062a\u0633\u0644\u0637\u0627\u062a \u0627\u0644\u0627\u0646 \u062f\u0644\u0639 \u0643\u062a\u0628 \u0646\u0627\u0639\u0645\u0647 \u0645\u0644\u0648\u0646\u0647 \u062e\u0641\u064a\u0641\u0647 \u0645\u0639\u0644\u0645\u0627\u062a \u0645\u062a\u0639\u0627\u0648\u0646\u0627\u062a \u0648\u064a\u062a\u0635\u0641\u0648 \u0628\u0627\u0644\u0645\u0631\u0648\u0646\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "94": {
+        "text": "\u0627\u0646\u062a \u0639\u0627\u0631\u0641 \u064a\u0639\u0646\u064a \u0627\u064a\u0647 \u0646\u0627\u0642\u0635\u0627\u062a \u062f\u064a\u0646 \u0627\u0644\u0627\u0648\u0644 \u0631\u0648\u062d \u062b\u0642\u0641 \u0646\u0641\u0633\u0643 \u0627\u0631\u062c\u0648\u0643 \u0628\u062f\u0644 \u0627\u0644\u0627\u0647\u0627\u0646\u0647 \u0627\u0644\u064a \u0627\u0646\u062a \u062c\u0627\u064a\u0628\u0647\u0627 \u0644\u0646\u0641\u0633\u0643",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "95": {
+        "text": "\u0639\u0643\u064a\u0641 \u0627\u0645\u0648 \u0641\u0627\u062c\u0631\u0627\u062a \u062a\u0631\u0627\u0647\u0627 \u062d\u0644\u0627\u0644 \u0634\u0643\u0644\u0647 \u0627\u0645\u0647 \u0641\u0627\u062c\u0631\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "96": {
+        "text": "\u0627\u0644\u0627\u0646\u062d\u0644\u0627\u0644 \u0644\u064a\u0633 \u0633\u0639\u0648\u062f\u064a \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0636\u062f \u0627\u0644\u0648\u0637\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "97": {
+        "text": "\u064a\u0639\u0646\u064a \u062a\u0644\u0627\u062d\u0642\u0648\u0627 \u0648\u0627\u062d\u062f \u0642\u0636\u0627\u0626\u064a\u0627 \u0648\u0633\u0627\u064a\u0628\u064a\u0646 \u0639\u0628\u062f \u0627\u0644\u0644\u0647 \u0631\u0634\u062f\u064a \u0627\u0644\u0644\u064a \u0628\u064a\u0634\u0631\u0639\u0646 \u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0645\u0631\u0623\u0629 \u0637\u0644\u064a\u0642 \u0623\u0646\u062a\u0648\u0627 \u0639\u0628\u0637 \u0643\u0627\u0646 \u0639\u0646\u062f\u0643\u0645 \u062e\u0627\u0644 \u0623\u0647\u0628\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "98": {
+        "text": "\u0628\u0639\u064a\u062f \u0642\u0630\u0627\u0631\u0629 \u0627\u0644\u062c\u0631\u064a\u0645\u0647 \u0647\u062f\u0627\u0647 \u0634\u062f\u062e\u0644 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u062f\u064a\u0646 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u064a\u0639\u0646\u064a \u0634\u0647\u0627\u062f\u0647 \u0627\u0644\u0627\u062b\u0646\u062a\u0627\u0646 \u0634\u0647\u0627\u062f\u0629 \u0631\u062c\u0644 \u0648\u0646\u0627\u0642\u0635\u0629 \u062f\u064a\u0646 \u0639\u0634\u0627\u0646 \u0627\u064a\u0627\u0645 \u0627\u0644\u062d\u064a\u0636",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "99": {
+        "text": "\u0646\u0642\u062f\u0631 \u0646\u0642\u0648\u0644 \u0627\u0644\u062b\u0644\u0627\u062b\u0647 \u062a\u062d\u062a \u0627\u0642\u062f\u0627\u0645\u0646\u0627 \u0646\u062a\u0641\u0642 \u0645\u0639\u0647\u0645 \u062a\u0633\u062a\u0637\u064a\u0639\u0648\u0646 \u0642\u0648\u0644 \u0627\u0644\u0645\u062b\u0644 \u0644\u0644\u0630\u064a \u0642\u0627\u0644 \u0627\u0630\u0627 \u0635\u0644\u0649 \u0627\u062d\u062f\u0643\u0645 \u0641\u0644\u064a\u0633 \u064a\u062f\u064a\u0647 \u0643\u0627\u062e\u0631 \u0627\u0644\u0631\u062d\u0644 \u0642\u0637\u0639 \u0635\u0644\u0627\u062a\u0647 \u0627\u0644\u0643\u0644\u0628 \u0627\u0644\u0623\u0633\u0648\u062f \u0648\u0627\u0644\u062d\u0645\u0627\u0631 \u0648\u0627\u0644\u0645\u0631\u0623\u0647 \u0627\u0644\u0645\u0631\u0623\u0629 \u062a\u0642\u0628\u0644 \u0635\u0648\u0631\u0629 \u0634\u064a\u0637\u0627\u0646 \u0648\u062a\u062f\u0628\u0631 \u0635\u0648\u0631\u0629 \u0634\u064a\u0637\u0627\u0646 \u062a\u0643\u062b\u0631\u0646 \u0627\u0644\u0644\u0639\u0646 \u0648\u062a\u0643\u0641\u0631\u0646 \u0627\u0644\u0639\u0634\u064a\u0631 \u0631\u0623\u064a\u062a \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u062f\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "100": {
+        "text": "\u0627\u0644\u0641\u0633\u0648\u064a\u0627\u062a \u0627\u0644\u0645\u0644\u0639\u0648\u0646\u0627\u062a \u0627\u064a\u0636\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "101": {
+        "text": "\u0627\u0644\u0644\u0647 \u064a\u0643\u0631\u0645 \u0627\u0645\u064a \u0639\u0646\u0643 \u0628\u0646\u062a \u0627\u0643\u0640\u064a\u0627\u0633 \u0627\u0644\u0632\u0628\u0627\u064a\u0644 \u0627\u0646\u062a\u064a \u0645\u0627\u062e\u0644\u064a\u062a\u064a \u0631\u062c\u0644 \u0627\u0644\u0627 \u0648\u062f\u062e\u0644\u062a\u064a\u0647\u0627 \u0645\u0640\u0647\u0628\u0644\u0643 \u0648\u062c\u0627\u064a\u0647 \u062a\u0633\u0648\u064a\u0646 \u0642\u0648\u064a\u0629 \u0647\u0647\u0647 \u0641\u064a\u0643 \u062e\u064a\u0631 \u0642\u0627\u0628\u0644\u064a\u0646\u064a \u0627\u062f\u0639\u0633 \u0628\u0646\u0627\u062a \u0634\u0648\u0627\u0631\u0639",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "102": {
+        "text": "\u0645\u0644\u0632\u0645\u0629 \u0634\u0631\u0639\u0627 \u0644\u0647\u0630\u0627 \u0643\u0631\u0645 \u0627\u0644\u0644\u0647 \u0627\u0644\u0645\u0631\u0623\u0629 \u0648\u0642\u0631\u0647\u0627 \u0627\u0644\u0631\u062c\u0644 \u064a\u0623\u062e\u0630 \u0636\u0639\u0641 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0648\u0631\u062b \u062d\u0627\u0644 \u0627\u0644\u0623\u062e\u0648\u0629 \u0644\u0623\u0646 \u0627\u0644\u0631\u062c\u0644 \u0645\u0644\u0632\u0645 \u0628\u0643\u0627\u0641\u0629 \u0627\u0644\u0645\u0635\u0627\u0631\u064a\u0641 \u0627\u062e\u0648\u0627\u062a\u0647 \u0627\u0645\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0631\u062d\u0645\u0647 \u064a\u0643\u0646 \u0644\u062f\u064a\u0647\u0646 \u064a\u0646\u0641\u0642 \u0639\u0644\u064a\u0647\u0646 \u0627\u0645\u0627 \u0639\u0644\u064a\u0647\u0645 \u0627\u0644\u062a\u0632\u0627\u0645 \u0627\u0644\u0632\u0643\u0627\u0629 \u0648\u062c\u0628 \u0639\u062f\u0627\u0644\u0629 \u0627\u0644\u0627\u0633\u0644\u0627\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "103": {
+        "text": "\u0642\u0631\u0627\u062a \u0627\u0644\u0631\u062f\u0648\u062f \u0627\u0631\u062a\u0642\u0648 \u0631\u062f\u0643\u0645 \u062a\u0641\u0643\u064a\u0631\u0647\u0645 \u0645\u062d\u062f\u0648\u062f \u064a\u0637\u0627\u0644\u0628\u0648\u0646 \u0628\u0627\u0633\u0642\u0627\u0637 \u0627\u0644\u0648\u0644\u0627\u064a\u0647 \u0644\u0636\u0639\u0641 \u0646\u0641\u0648\u0633\u0647\u0645 \u0648\u0627\u0644\u0634\u064a\u0637\u0627\u0646 \u064a\u0632\u064a\u0646 \u0627\u0639\u0645\u0627\u0644\u0647\u0645 \u0627\u0644\u0634\u064a\u0637\u0627\u0646 \u0627\u0639\u0648\u0630 \u0628\u0627\u0644\u0644\u0647 \u064a\u0639\u0632\u0632 \u0627\u0648\u0644 \u0636\u0639\u0641 \u0627\u0644\u0648\u0627\u0632\u0639 \u0627\u0644\u062f\u064a\u0646\u064a \u0648\u0639\u062f\u0645 \u0627\u0644\u062a\u0641\u0643\u064a\u0631 \u0628\u0627\u0644\u0639\u0627\u0642\u0628\u0647 \u062a\u0644\u0645\u064a\u0639 \u0627\u0644\u0645\u0637\u0627\u0644\u0628 \u0627\u0644\u0631\u062e\u064a\u0635\u0647 \u0639\u064a\u0648\u0646\u0647\u0645 \u064a\u062a\u0628\u0639",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "104": {
+        "text": "\u0631\u0627\u062c\u0639\u0646\u0627 \u062d\u0648\u0627\u062f\u062b \u0627\u0644\u062b\u0623\u0631 \u0646\u062c\u062f \u0645\u0639\u0638\u0645\u0647\u0627 \u062a\u0632\u0643\u064a \u0646\u064a\u0631\u0627\u0646\u0647\u0627 \u0627\u0644\u0646\u0633\u0627\u0621 \u0641\u0647\u064a \u062a\u0631\u0635\u0639 \u0648\u0644\u064a\u062f\u0647\u0627 \u0627\u0644\u062b\u0623\u0631 \u0648\u062a\u0644\u0642\u0646\u0647 \u0627\u0633\u0645 \u0627\u0644\u0642\u0627\u062a\u0644 \u0642\u0628\u0644 \u062a\u0644\u0642\u064a\u0646\u0647 \u0627\u0633\u0645\u0647 \u0643\u0627\u0646 \u0645\u0639\u0646\u0627 \u0632\u0645\u064a\u0644 \u0628\u0627\u0644\u0643\u0644\u064a\u0629 \u0627\u062a\u062d\u0627\u062f \u0627\u0644\u0637\u0644\u0628\u0647 \u0641\u0646\u0627\u0646 \u0643\u0644\u064a\u0629 \u0627\u0644\u0639\u0644\u0648\u0645 \u0643\u0627\u0646 \u0631\u0633\u0627\u0645\u0627 \u0648\u0646\u062d\u0627\u062a\u0627 \u0628\u0627\u0631\u0639\u0627 \u0643\u0627\u0646 \u0645\u0637\u0644\u0648\u0628 \u064a\u0623\u062e\u0630 \u0628\u0627\u0644\u062b\u0623\u0631 \u0645\u0633\u062a\u0633\u0644\u0645 \u0637\u064a\u0628 \u0644\u064a\u0647 \u062a\u062c\u062f \u0627\u0644\u062f\u0631\u0627\u0633\u0629 \u062a\u062e\u0631\u062c \u0645\u0635\u0645\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "105": {
+        "text": "\u0648\u0627\u0644\u0644\u0647 \u0627\u0644\u0646\u0633\u0627\u0621 \u0644\u0633\u0627\u0646\u0647\u0627 \u0637\u0648\u064a\u0644 \u064a\u0648\u0642\u0641 \u0648\u062c\u0647\u0647\u0627 \u0627\u0644\u0627 \u0627\u0644\u0644\u0647 \u0641\u0642\u0637 \u0645\u062a\u0633\u0644\u0637\u0627\u062a \u0628\u0639\u0636\u0647\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "106": {
+        "text": "\u0648\u0627\u0644\u0644\u0647 \u0627\u0646\u062a \u0646\u0627\u0642\u0635 \u0639\u0642\u0644 \u0627\u0641\u0647\u0645 \u0627\u0644\u0645\u0639\u0646\u0649 \u0627\u0644\u0645\u0631\u0627\u062f \u0627\u0644\u062d\u062f\u064a\u062b \u0648\u062a\u0639\u0627\u0644 \u062a\u0643\u0644\u0645 \u0646\u0641\u0633\u064a \u0627\u0639\u0631\u0642 \u0634\u062f\u062e\u0644 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u062f\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "107": {
+        "text": "\u0627\u0646\u062a\u0648 \u0628\u0627\u0644\u0645\u0646\u0627\u0633\u0628\u0629 \u0628\u062a\u0633\u0627\u0639\u062f\u0648 \u0627\u0644\u0631\u0630\u064a\u0644\u0647 \u062a\u062d\u0635\u0644 \u0628\u0627\u0644\u062a\u0647\u0627\u0648\u0646 \u0628\u062a\u0627\u0639\u0643\u0645 \u0628\u0639\u062f\u064a\u0646 \u0627\u0646\u062a\u0648 \u0627\u0635\u0644\u0627 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u062f\u064a\u0646 \u0639\u0634\u0627\u0646 \u0643\u062f\u0627 \u0642\u0644\u062a \u0644\u0644\u0642\u0628\u064a\u0644\u0643 \u0627\u0646\u062a\u0648 \u0642\u0637\u064a\u0639 \u0646\u0633\u0648\u064a \u062a\u062a\u0628\u0639\u0648\u0646 \u0633\u064a\u0627\u0633\u0629 \u0627\u0644\u0642\u0637\u064a\u0639 \u062c\u0627\u0646\u0628 \u0627\u0644\u062a\u0641\u0643\u064a\u0631 \u0648\u0627\u0644\u0645\u0646\u0637\u0642 \u0645\u0639\u0637\u0644 \u0639\u0646\u062f\u0643\u0645 \u0639\u0634\u0627\u0646 \u0643\u062f\u0627 \u0627\u0644\u062d\u0648\u0627\u0631 \u0645\u0639\u0627\u0643\u0645 \u0645\u0627\u0645\u0648\u0636\u0648\u0639\u064a \u0647\u0627\u062f\u0641 \u062d\u0646\u0635\u0644 \u0646\u062a\u064a\u062c\u0629 \u0648\u0634\u0643\u0631\u0627 \u0645\u0634\u0627\u0631\u0643\u062a\u0643 \u0627\u0644\u062c\u0645\u064a\u0644\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "108": {
+        "text": "\u0627\u0633\u0623\u0644\u064a\u0647 \u0645\u0639\u0646\u0649 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u062f\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "109": {
+        "text": "\u0633\u0628\u062d\u0627\u0646 \u0627\u0644\u0644\u0647 \u0643\u0631\u0645 \u0641\u062c\u0639\u0644 \u0643\u062a\u0627\u0628\u0647 \u0633\u0648\u0631\u0629 \u0628\u0627\u0633\u0645 \u0648\u0633\u0648\u0631\u0629 \u0623\u062e\u0631\u0649 \u0628\u0627\u0633\u0645 \u0648\u0633\u0648\u0631\u0629 \u0623\u062e\u0631\u0649 \u0628\u0627\u0633\u0645 \u0641\u0623\u064a \u062f\u0633\u062a\u0648\u0631 \u0645\u062b\u0644 \u0627\u0644\u0642\u0631\u0622\u0646 \u062c\u0639\u0644 \u0632\u0648\u0627\u062c\u0647\u0627 \u062a\u062d\u0635\u064a\u0646\u0627 \u0641\u0631\u0627\u0642\u0647\u0627 \u0637\u0644\u0627\u0642\u0627 \u0628\u0625\u062d\u0633\u0627\u0646 \u064a\u062e\u062f\u0639\u0648\u0646\u0643 \u0628\u062d\u0631\u064a\u0629 \u062a\u062c\u0639\u0644 \u062c\u0633\u062f\u0643 \u0633\u0644\u0639\u0629 \u0628\u0645\u0633\u0627\u0648\u0629 \u062a\u062c\u0639\u0644\u0643 \u062a\u062a\u062d\u0645\u0644\u064a\u0646 \u062a\u0637\u064a\u0642\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "110": {
+        "text": "\u0648\u0645\u0627\u0632\u0627\u0644 \u064a\u0638\u0646 \u0627\u0644\u062d\u062c\u0627\u0628 \u0648\u0627\u0644\u062f\u064a\u0646 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a \u064a\u0642\u064a\u062f\u0627\u0646 \u0627\u0644\u0645\u0631\u0623\u0629 \u0648\u064a\u062c\u0639\u0644\u0647\u0627 \u0645\u062a\u062e\u0644\u0641\u0629 \u0631\u062c\u0639\u064a\u0629 \u0648\u0627\u0644\u0633\u064a\u0641\u064a\u0644\u0632\u064a \u0627\u0644\u0645\u062a\u062d\u0631\u0631\u0629 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0645\u062b\u0627\u0644\u064a\u0629 \u0627\u0644\u0646\u0627\u062d\u062d\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "111": {
+        "text": "\u062e\u0627\u0637\u0631\u064a \u0627\u0634\u0648\u0641 \u0627\u0644\u0644\u064a \u0627\u062e\u062a\u0631\u0639 \u064a\u0648\u0645 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0639\u0627\u0644\u0645\u064a \u0627\u062d\u062a\u0627\u062c\u0647 \u0643\u0644\u0645\u0629 \u0631\u0627\u0633",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "112": {
+        "text": "\u0648\u0623\u0645\u062b\u0627\u0644\u0643\u0645 \u0633\u0628\u0628 \u0625\u0646\u062d\u0631\u0627\u0641 \u0627\u0647\u062f\u0627\u0641 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0638\u0647\u0631\u062a \u0648\u0633\u0628\u0628 \u0638\u0647\u0648\u0631\u0647\u0627 \u0627\u0644\u063a\u0631\u0628 \u0637\u0628\u0639 \u0648\u0627\u062c\u0632\u0645 \u064a\u0642\u064a\u0646\u0627 \u0642\u0637\u0639\u064a \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0642\u0627\u0644\u0628 \u0627\u0644\u0625\u0633\u0644\u0627\u0645\u064a \u0648\u0627\u0644\u062f\u064a\u0646\u064a \u0645\u0627\u062e\u0630\u0647 \u062d\u0642\u0648\u0642\u0647\u0627 \u0643\u0627\u0645\u0644\u0629 \u0634\u0631\u0641\u0629 \u0648\u0643\u0631\u064a\u0645\u0629 \u0627\u0644\u062e\u0644\u0644 \u0627\u0644\u0639\u0642\u0648\u0644 \u0627\u0644\u062f\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "113": {
+        "text": "\u0646\u0633\u0648\u064a\u0647 \u062c\u0645\u0627\u0639\u064a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "114": {
+        "text": "\u0627\u0639\u0632\u0627\u0626\u064a \u0627\u0644\u0631\u062c\u0627\u0644 \u0628\u0643\u064a\u0641 \u0645\u0646\u0648 \u0642\u0631\u0631\u062a\u0648 \u0627\u0644\u0628\u0646\u0627\u062a \u0635\u0627\u064a\u0639\u0627\u062a \u0627\u0644\u0628\u0646\u062a \u0627\u0644\u064a \u0627\u062e\u062a\u0627\u0631\u062a\u0647\u0627 \u0627\u0645\u0643",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "115": {
+        "text": "\u0648\u0643\u064a\u0644 \u0631\u0642\u064a\u0628 \u0641\u0646\u064a \u0648\u0644\u0644\u0647 \u0627\u0644\u062d\u0645\u062f \u062a\u062a\u0631\u0643\u064a\u0646 \u0627\u0644\u0639\u062f\u0627\u0648 \u062c\u0646\u0628 \u0627\u0644\u0631\u062f \u0627\u0644\u064a \u064a\u0639\u062f\u0645 \u0627\u0633\u0644\u0648\u0628 \u0627\u0644\u062d\u0648\u0627\u0631 \u0644\u0648\u0635\u0644\u0646\u0627 \u0644\u062a\u0639\u0627\u0648\u0646 \u0627\u0644\u0646\u0633\u0627\u0621 \u064a\u0632\u0639\u0644\u0648\u0646 \u0628\u0633\u0631\u0639\u0647 \u0627\u0644\u0648\u0644\u062f \u064a\u0647\u0627\u062c\u0645 \u0628\u0633\u0631\u0639\u0647 \u062a\u0631\u0643\u0646\u0627 \u0645\u062c\u0627\u0644 \u0644\u0644\u0646\u0642\u0627\u0634 \u064a\u0643\u0648\u0646 \u0627\u0641\u0636\u0644 \u0627\u0644\u0645\u0647\u0645 \u0627\u0645\u0631\u0627\u0647 \u0646\u0633\u0648\u064a\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "116": {
+        "text": "\u0627\u0643\u062f\u0639\u0644\u0645\u0627\u0621 \u0627\u0644\u062f\u064a\u0646 \u0623\u0646\u0647 \u064a\u062d\u0631\u0645 \u0646\u0634\u0631 \u0635\u0648\u0631 \u0627\u0644\u0646\u0633\u0627\u0621 \u0648\u0623\u0646 \u064a\u062f\u062e\u0644 \u0625\u0634\u0627\u0639\u0629 \u0627\u0644\u0645\u0646\u0643\u0631\u0627\u062a \u0627\u0644\u0646\u0627\u0633 \u062a\u0648\u064a\u062a\u0631\u064a\u0639\u062c \u0628\u0635\u0648\u0631 \u0646\u0633\u0627\u0621 \u062a\u062d\u062a \u062a\u063a\u0631\u064a\u062f\u0627\u062a \u0633\u062e\u064a\u0641\u0647 \u0633\u0627\u0630\u062c\u0647 \u0628\u0633\u0630\u0627\u062c\u0647 \u0643\u0627\u062a\u0628\u0647\u0627 \u0628\u0647\u062f\u0641 \u0625\u0633\u062a\u062c\u0644\u0627\u0628 \u0627\u0644\u0645\u062a\u0627\u0628\u0639\u064a\u0646 \u0628\u062a\u0644\u0643 \u0627\u0644\u0648\u0633\u0627\u0626\u0644 \u0627\u0644\u0645\u062d\u0631\u0645\u0647 \u0641\u0644\u0627\u0641\u0631\u0642 \u064a\u0641\u0639\u0644 \u0630\u0627\u0644\u0643 \u0648\u0628\u064a\u0646 \u0627\u0644\u0634\u0631\u0643\u0627\u062a \u062a\u0633\u062a\u062e\u062f\u0645 \u0635\u0648\u0631\u0646\u0633\u0627\u0621 \u0645\u062a\u0628\u0631\u062c\u0627\u062a \u0643\u062f\u0639\u0627\u064a\u0647 \u0644\u062a\u0631\u0648\u064a\u062c \u0628\u0636\u0627\u0639\u062a\u0647\u0645",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "117": {
+        "text": "\u0627\u0644\u0630\u0643\u0648\u0631\u064a\u064a\u0646 \u0627\u0644\u0644\u064a \u064a\u062d\u0627\u0648\u0644\u0648 \u064a\u0634\u0648\u0647\u0648 \u0635\u0648\u0631\u0629 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0648\u064a\u062f\u062e\u0644\u0648\u0647\u0627 \u0628\u0647\u0627\u0644\u0645\u0648\u0636\u0648\u0639 \u0647\u0645\u0647 \u0627\u0642\u0628\u062d \u062e\u0644\u0642 \u0631\u0628\u064a \u0644\u0623\u0646\u0647 \u0628\u0639\u064a\u062f \u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u0627\u0644\u0634\u064a \u0627\u0648\u0644\u0627 \u0627\u0646\u0633\u0627\u0646\u064a \u0648\u0645\u0627\u0641\u064a \u064a\u062e\u0644\u064a\u0643\u0645 \u062a\u0639\u0627\u0631\u0636\u0648\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "118": {
+        "text": "\u0627\u0644\u0638\u0627\u0647\u0631\u0629 \u062a\u0642\u062a\u0635\u0631 \u0628\u0644\u062f\u0646\u0627 \u0641\u0642\u0637 \u0638\u0627\u0647\u0631\u0629 \u062a\u0643\u0627\u062f \u0639\u0627\u0644\u0645\u064a\u0629 \u0627\u0644\u0645\u062a\u0647\u0648\u0631 \u0642\u0628\u0644 \u062a\u0624\u0630\u064a\u0647\u0627 \u0627\u0641\u0647\u0645\u0647\u0627 \u0648\u0627\u0639\u0644\u0645 \u0627\u0644\u0645\u0631\u0623\u0629 \u0627\u0644\u0623\u0645 \u0648\u0627\u0644\u0634\u0642\u064a\u0642\u0629 \u0648\u0627\u0644\u062c\u062f\u0629 \u0648\u0627\u0644\u0623\u062e\u062a \u0648\u0627\u0644\u062d\u0646\u0648\u0646\u0629 \u0648\u0627\u0644\u0645\u0631\u0628\u064a\u0629 \u0648\u0647\u064a \u0627\u0644\u062c\u0630\u0631 \u064a\u0646\u062a\u062c \u0627\u0644\u0628\u0631\u0627\u0639\u0645 \u0648\u0647\u064a \u0627\u0644\u0623\u0633\u0627\u0633 \u064a\u0628\u0646\u0649 \u062a\u0642\u062f\u0631\u0647\u0627 \u0641\u0643\u0641 \u0623\u0630\u0627\u0643 \u0639\u0646\u0647\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "119": {
+        "text": "\u0627\u0644\u0646\u0641\u0627\u0642 \u062a\u062a\u0639\u0627\u0645\u0644 \u0646\u0633\u0627\u0621 \u0627\u0644\u0623\u0631\u0636 \u0623\u0646\u0647\u0645 \u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u0648\u062f\u064a\u0646 \u0648\u0639\u0648\u0631\u0627\u062a \u0648\u062d\u0628\u0627\u0626\u0644 \u0627\u0644\u0634\u064a\u0637\u0627\u0646 \u0648\u062d\u0637\u0628 \u062c\u0647\u0646\u0645 \u062a\u062a\u0639\u0627\u0645\u0644 \u0645\u0639\u0647\u0627 \u0627\u0644\u062c\u0646\u0629 \u062a\u062d\u062a \u0623\u0642\u062f\u0627\u0645\u0647\u0627 \u0633\u0639\u064a\u062f \u0646\u0627\u0634\u064a\u062f",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "120": {
+        "text": "\u0627\u0644\u0644\u064a \u064a\u0637\u0627\u0644\u0628\u0648\u0646 \u0628\u0623\u0633\u0642\u0627\u0637 \u0627\u0644\u0648\u0644\u0627\u064a\u0647 \u0633\u0639\u0648\u062f\u064a\u0627\u062a \u062d\u0633\u0627\u0628\u0627\u062a \u062e\u0627\u0631\u062c\u064a\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "121": {
+        "text": "\u0632\u0648\u062c\u062a\u0647 \u0646\u0633\u0648\u064a\u0647 \u0627\u0643\u064a\u062f \u0628\u062a\u0643\u0648\u0646 \u0627\u0644\u0645\u0633\u064a\u0637\u0631\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "122": {
+        "text": "\u062a\u062c\u062d\u0641\u0644\u0648\u0627 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "123": {
+        "text": "\u0643\u0646\u0627 \u0646\u0631\u0649 \u0627\u0644\u0627\u0639\u062c\u0627\u0628 \u0628\u0627\u0644\u063a\u0631\u0628 \u062e\u0627\u0635 \u0628\u0627\u0644\u0633\u0627\u0630\u062c\u064a\u0646 \u0627\u0644\u0631\u062c\u0627\u0644 \u0627\u062a\u0648\u0642\u0639 \u0627\u0644\u0646\u0633\u0627\u0621 \u0648\u0642\u0639\u0646 \u0628\u0627\u0644\u0641\u062e \u0646\u0641\u0633\u0647 \u0644\u0644\u0627\u0633\u0641 \u0627\u0645\u0647 \u0639\u0638\u064a\u0645\u0647 \u0645\u0635\u0627\u062f\u0631\u0647\u0627 \u0627\u0644\u062a\u0639\u0644\u064a\u0645 \u0648\u0627\u0644\u062a\u0639\u0627\u0644\u064a\u0645 \u0648\u0627\u0644\u0642\u064a\u0645 \u0627\u0644\u0647\u064a\u0629 \u062a\u0641\u062a\u062e\u0631 \u0628\u062a\u0642\u0644\u064a\u062f \u0627\u0644\u063a\u0631\u0628 \u0648\u064a\u0639\u062a\u0628\u0631\u0648\u0646 \u0646\u0648\u0639 \u0627\u0644\u062a\u0645\u062f\u0646 \u0648\u0627\u0644\u062a\u0642\u062f\u0645 \u0627\u0646\u062d\u0637\u0627\u0637 \u0628\u0627\u0644\u0627\u062e\u0644\u0627\u0642 \u0648\u062a\u0628\u0639\u064a\u0647 \u0648\u0627\u0644\u0627\u0645\u0639\u0647 \u0632\u0645\u0646 \u0627\u0645\u0639\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "124": {
+        "text": "\u0627\u0646\u0627 \u0648\u062c\u0629 \u0646\u0638\u0631\u064a \u0627\u0644\u0632\u0648\u0627\u062c \u0627\u0644\u0645\u062e\u062a\u0635\u0631 \u0645\u0627\u0647\u0648 \u0645\u0639\u0644\u0646 \u0644\u0646\u0627\u0633 \u0644\u064a\u0647 \u064a\u0643\u0648\u0646 \u0645\u062e\u062a\u0635\u0631 \u0632\u0648\u0627\u062c \u0634\u0631\u0639\u064a \u0644\u0627\u0632\u0645 \u064a\u0643\u0648\u0646 \u0641\u0631\u062d \u062d\u0642\u0648\u0642 \u0627\u0644\u0645\u0631\u0623\u0647 \u0644\u064a\u0647 \u0627\u0644\u0634\u0628\u0627\u0628 \u064a\u0634\u062a\u0631\u0648\u0646 \u0633\u064a\u0627\u0631\u0627\u062a \u0633\u0639\u0631\u0647\u0627 \u063a\u0627\u0644\u064a \u0644\u0634\u0631\u064a\u0643\u0629 \u062d\u064a\u0627\u062a\u0647 \u064a\u0641\u0631\u0645\u0644",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "125": {
+        "text": "\u062a\u0642\u0648\u0645 \u0627\u0644\u0635\u0628\u062d \u0628\u0627\u0644\u0627\u0633\u062a\u0639\u062f\u0627\u062f \u0644\u0644\u0630\u0647\u0627\u0628 \u0644\u0639\u0645\u0644\u0647\u0627 \u0627\u0644\u064a \u0628\u062f\u0648\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0645\u0627\u0642\u062f\u0631\u062a \u0648\u062a\u0634\u063a\u0644 \u0633\u064a\u0627\u0631\u0627\u062a\u0647\u0627 \u0627\u0644\u064a \u0628\u062f\u0648\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0645\u0627\u0642\u062f\u0631\u062a \u0648\u062a\u0637\u0644\u0639 \u0644\u0648\u062d\u062f\u0647\u0627 \u0627\u0644\u064a \u0628\u062f\u0648\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0645\u0627\u0642\u062f\u0631\u062a \u0648\u062a\u0637\u0644\u0639 \u0628\u062f\u0648\u0646 \u0646\u0642\u0627\u0628 \u062d\u062c\u0627\u0628 \u0627\u0644\u064a \u0628\u062f\u0648\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0645\u0627\u0642\u062f\u0631\u062a \u0648\u062a\u0641\u062a\u062d \u062c\u0648\u0627\u0644\u0647\u0627 \u0648\u062a\u0635\u0648\u0631 \u0633\u0646\u0627\u0628 \u0634\u0627\u062a \u0639\u0627\u0645 \u0627\u0644\u064a \u0628\u062f\u0648\u0646 \u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u0645\u0627\u0642\u062f\u0631\u062a \u0639\u0634\u0627\u0646 \u062a\u0633\u0628 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0648\u0627\u0644\u062d\u0631\u0627\u0643 \u0628\u0627\u0642\u0628\u062d \u0627\u0644\u0623\u0644\u0641\u0627\u0638",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "126": {
+        "text": "\u063a\u0632\u0648 \u0627\u0644\u0639\u0631\u0628 \u0648\u0627\u0644\u0645\u0633\u0644\u0645\u064a\u0646 \u0627\u063a\u0644\u0628 \u0627\u0644\u062f\u0648\u0644 \u0645\u0642\u064a\u062f\u062a\u0647\u0646 \u0648\u0645\u062d\u0627\u0635\u0631\u062a\u0647\u0646 \u0648\u0645\u0631\u0628\u064a\u062a\u0647\u0646 \u0639\u0646\u062f\u0646\u0627 \u0645\u0641\u0644\u0648\u062a\u0627\u062a \u0648\u0645\u062f\u0639\u0648\u0645\u0627\u062a \u0648\u064a\u0639\u062a\u0628\u0631\u0646 \u0627\u0644\u064a \u0639\u0646\u062f\u0646\u0627 \u0627\u0644\u0627\u0643\u062b\u0631 \u0642\u0648\u0647 \u0648\u0634\u0631\u0627\u0633\u0647 \u0628\u0633\u0628\u0628 \u0627\u0644\u062f\u0639\u0645 \u0648\u062a\u0631\u0643 \u0627\u0644\u0645\u062c\u0627\u0644 \u064a\u0639\u0628\u062b\u0646 \u0628\u0627\u0644\u0645\u062c\u062a\u0645\u0639",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "127": {
+        "text": "\u062a\u0627\u0628\u0639 \u0639\u0645\u0631 \u0630\u064a\u0628\u0627\u0646 \u064a\u0648\u0645 \u064a\u062a\u0643\u0644\u0645 \u0646\u0633\u0648\u064a\u0627\u062a \u0648\u0627\u0644\u0644\u0647 \u064a\u0627\u0641\u0636\u062d\u0647\u0645 \u0637\u0628\u0639\u0627 \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a \u0627\u0644\u0644\u064a \u0627\u0644\u063a\u0631\u0628 \u0648\u0627\u0644\u0644\u064a \u0639\u0646\u062f\u0646\u0627 \u0646\u0633\u062e \u0648\u0644\u0635\u0642 \u064a\u0639\u0627\u0631\u0636 \u0627\u0644\u062f\u064a\u0646 \u064a\u0648\u0627\u0641\u0642 \u0627\u0647\u0645 \u064a\u0633\u0648\u0646\u0647",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "128": {
+        "text": "\u0627\u0646\u0627 \u0646\u0633\u0648\u064a\u0647 \u0627\u0637\u0627\u0644\u0628\u0647 \u0628\u0623\u064a \u062d\u0645\u062f \u0644\u0644\u0647 \u0646\u0627\u0642\u0635\u0646\u064a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "129": {
+        "text": "\u0647\u0630\u0648\u0644\u0627 \u0639\u0644\u0645\u0627\u0646\u064a\u0627\u062a \u0641\u0627\u062c\u0631\u0627\u062a \u0628\u062f\u0648\u0646 \u062f\u064a\u0646 \u0645\u0645\u0648\u0644\u0627\u062a \u062c\u0647\u0627\u062a \u062e\u0627\u0631\u062c\u064a\u0647 \u0645\u0627\u0639\u0644\u064a\u0643 \u0645\u0646\u0647\u0645 \u0648\u0627\u0644\u0644\u0647 \u0645\u062a\u0645 \u0646\u0648\u0631\u0647 \u0643\u0631\u0647 \u0627\u0644\u0643\u0627\u0641\u0631\u0648\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "130": {
+        "text": "\u0646\u0639\u0645\u0629 \u063a\u0641\u0644 \u0639\u0646\u0647\u0627 \u0627\u0644\u0643\u062b\u064a\u0631 \u0627\u0644\u0646\u0633\u0627\u0621 \u064a\u0631\u0632\u0642\u0643 \u0627\u0644\u0644\u0647 \u0632\u0648\u062c\u0627 \u0635\u0627\u0644\u062d\u0627 \u064a\u0623\u062e\u0630 \u0628\u064a\u062f\u0643 \u062e\u064a\u0631 \u0648\u0645\u0639\u0631\u0648\u0641 \u064a\u0631\u0632\u0642\u0643 \u0627\u0644\u0644\u0647 \u0632\u0648\u062c\u0627 \u064a\u0642\u0636\u064a \u062d\u0648\u0627\u0626\u062c\u0643 \u064a\u063a\u0646\u064a\u0643 \u0627\u0644\u0633\u0627\u0626\u0642 \u0648\u0642\u064a\u0627\u062f\u0629 \u0627\u0644\u0633\u064a\u0627\u0631\u0629 _\u0647\u0630\u0647 \u0627\u0644\u0646\u0639\u0645\u0629 \u064a\u0633\u062a\u0634\u0639\u0631\u0647\u0627 \u0627\u0644\u0627 \u0641\u0642\u062f\u0647\u0627",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "131": {
+        "text": "\u0639\u0627\u0645 \u0661\u0669\u0668\u0669 \u0635\u062f\u0631\u062a \u0645\u0642\u0627\u0644\u0629 troil moi-\u0625\u062d\u062f\u0649 \u0627\u0644\u0646\u0627\u0642\u062f\u0627\u062a \u0627\u0644\u0623\u062f\u0628\u064a\u0627\u062a \u0627\u0644\u0646\u0633\u0648\u064a\u0627\u062a-\u0639\u0646 \u0627\u0644\u0641\u0631\u0642 \u062b\u0644\u0627\u062b\u0629 \u0645\u0641\u0627\u0647\u064a\u0645 feminist female feminine \u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u0627\u0644\u0623\u0646\u062b\u0649 \u0648\u0627\u0644\u0623\u0646\u0648\u062b\u0629 \u062a\u0639\u062f \u0627\u0644\u0646\u0633\u0648\u064a\u0629 \u0645\u0641\u0647\u0648\u0645 \u0633\u064a\u0627\u0633\u064a \u0627\u0644\u0623\u0646\u062b\u0649 \u0645\u0641\u0647\u0648\u0645 \u0628\u064a\u0648\u0644\u0648\u062c\u064a \u0628\u064a\u0646\u0645\u0627 \u0627\u0644\u0623\u0646\u0648\u062b\u0629 \u0645\u0641\u0647\u0648\u0645 \u062d\u0636\u0627\u0631\u064a \u062d\u062f\u062f \u0628\u062e\u0648\u0627\u0635 \u062b\u0642\u0627\u0641\u064a\u0629 ...",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "132": {
+        "text": "\u0646\u0627\u0642\u0635\u0627\u062a \u0639\u0642\u0644 \u062f\u064a\u0646 \u0631\u0628\u0646\u0627 \u064a\u0648\u0644\u0639 \u0641\u064a\u0643\u0645 \u0627\u0645\u064a\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "133": {
+        "text": "\u0627\u0644\u0644\u064a \u064a\u0639\u062a\u0630\u0631 \u0628\u062f\u0648\u0646 \u063a\u0644\u0637 \u064a\u0633\u062a\u0627\u0647\u0644 \u064a\u062c\u064a\u0647 \u0627\u0634\u0648\u0641 \u064a\u062a\u0634\u0643\u0649 \u0648\u064a\u0642\u0648\u0644 \u0627\u0644\u0627\u0646\u0627\u062b \u0645\u062a\u0633\u0644\u0637\u0627\u062a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "134": {
+        "text": "\u062a\u0642\u0628\u0631\u064a\u0646\u064a \u0627\u0644\u0646\u0633\u0627\u0621 \u0632\u0645\u0646 \u0627\u0644\u0631\u0633\u0648\u0644 \u0627\u0644\u0643\u0631\u064a\u0645 \u064a\u0644\u064a \u0643\u0627\u0646 \u0639\u0645\u0631\u0647\u0627 \u0633\u0646\u0647 \u0628\u062a\u0641\u0647\u0645 \u062d\u062c\u0645 \u062c\u0633\u0645\u0647\u062a \u064a\u0644\u064a \u0639\u0645\u0631\u0647\u0627 \u0647\u0644\u0623 \u0633\u0646\u0647 \u0643\u0644\u0648 \u0645\u0630\u0643\u0648\u0631 \u0627\u0646\u062a\u064a \u062f\u0648\u0631\u064a \u0645\u0646\u064a\u062d \u0628\u062a\u0644\u0627\u0642\u064a \u062c\u0648\u0627\u0628\u0643",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "135": {
+        "text": "\u0631\u062e\u064a\u0635\u0627\u062a \u064a\u0639\u0632\u0632\u0648\u0646 \u0644\u0628\u0639\u0636",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "136": {
+        "text": "\u0639\u0644\u064a\u0646\u0627 \u0627\u0644\u0645\u062d\u0644 \u0639\u0644\u064a\u0646\u0627 \u0627\u0644\u0623\u062c\u0646\u0628\u064a\u0629 \u062c\u0627\u0644\u0633\u0629 \u062a\u062d\u0631\u0636 \u0627\u0644\u0641\u062c\u0648\u0631 \u0648\u062a\u0634\u0648\u0647 \u0633\u0645\u0639\u0629 \u0628\u0644\u062f\u0646\u0627 \u0648\u062a\u0642\u0648\u0644 \u0644\u0644\u0628\u0646\u0627\u062a \u0627\u062e\u0644\u0639\u0648\u0627 \u0627\u062d\u062f \u064a\u062d\u0627\u0633\u0628\u0646\u0627 \u0648\u062a\u0639\u0631\u0641 \u0641\u0627\u0633\u0642\u0627\u062a \u064a\u0646\u062a\u0638\u0631\u0648\u0646 \u0641\u0631\u0635\u0629 \u0627\u0644\u0644\u0647 \u0644\u0627\u064a\u0632\u0639 \u0628\u0627\u0644\u0633\u0644\u0637\u0627\u0646 \u0645\u0627\u0644\u0627\u064a\u0632\u0639 \u0628\u0627\u0644\u0642\u0631\u0622\u0646",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "137": {
+        "text": "\u0627\u0644\u0631\u064a\u0627\u0636\u0627\u062a \u0627\u0644\u0642\u062a\u0627\u0644\u064a\u0629 \u062d\u064a\u0644\u0629 \u0646\u0633\u0627\u0621 \u0644\u0645\u0648\u0627\u062c\u0647\u0629 \u0627\u0644\u0639\u0646\u0641 \u0627\u0644\u0645\u0631\u0623\u0629",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "138": {
+        "text": "\u0627\u062d\u0628 \u0627\u0644\u0646\u0648\u0639 \u0627\u0644\u0641\u0633\u0648\u064a\u0627\u062a \u0644\u0627\u0646\u0647\u0627 \u062a\u062c\u064a\u0628 \u0644\u062d\u0627\u0644\u0647\u0627 \u0627\u0644\u0645\u0633\u0628\u0647 \u062a\u0646\u0633\u062d\u0628",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "139": {
+        "text": "\u0627\u0648\u0644 \u0634\u0648\u0641 \u0627\u062e\u0648\u0627\u062a\u0643 \u0648\u0628\u0639\u062f\u064a\u0646 \u062a\u0643\u0644\u0645 \u0645\u0643\u0627\u0646 \u0635\u0627\u064a\u0639\u0627\u062a ... \u0639\u0646\u062f\u0643\u0645 \u0632\u064a\u0627\u062f\u0647 \u0634\u062a\u064a\u0634 \u0627\u0643\u062b\u0631 \u0627\u0644\u0643\u0644\u0627\u0645 \u0645\u064a\u0639\u062c\u0628\u0646\u064a",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,1,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "140": {
+        "text": "\u0644\u064a\u064a\u064a\u0634 \u0644\u064a\u0634 \u064a\u062d\u0637\u0648\u0646 \u0634\u064a\u0621 \u0628\u0627\u0644\u0646\u0633\u0648\u064a\u0647 \u062e\u064a\u0631 \u0645\u0627\u0644\u0642\u0648\u0627 \u0633\u0628\u0628 \u0642\u0627\u0644\u0648\u0627 \u0646\u0633\u0648\u064a\u0647 \u0627\u0644\u0644\u0647 \u064a\u0623\u062e\u0630 \u0627\u0644\u0623\u0634\u0643\u0627\u0644 \u062a\u0631\u0643\u0648\u0627 \u0642\u0636\u0636\u0627\u064a\u0627 \u0627\u0644\u0646\u0633\u0627\u0621 \u0648\u0642\u0636\u0627\u064a\u0627 \u0627\u0644\u0634\u0631\u0641 \u0648\u0631\u0643\u0632\u0648\u0627 \u0648\u0623\u0635\u0644 \u0646\u0633\u0648\u064a\u0647 \u0647\u0628\u0627\u0644 \u0632\u0627\u0627\u064a\u062f",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "0,0,0",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    },
+    "141": {
+        "text": "\u0644\u064a\u0647 \u0645\u0645\u0643\u0646 \u064a\u0643\u0648\u0646 \u0628\u0639\u0646 \u0641\u0647\u0627 \u0644\u064a\u0647 \u063a\u0628\u064a\u0629 \u0647\u0627\u064a \u0623\u0641\u0643\u0627\u0631\u0647\u0627 \u0645\u062b\u0644 \u0646\u0633\u0627\u0621 \u0628\u062d\u0628\u0648\u0627 \u064a\u0644\u0639\u0628\u0648\u0627 \u0647\u0627\u062f \u0627\u0644\u062f\u0648\u0631 \u0645\u0646\u0647\u0645 \u0628\u0643\u0644 \u0628\u0633\u0627\u0637\u0629 \u0628\u0643\u0631\u0629 \u0627\u0630\u0627 \u0627\u0646\u0641\u0635\u0644\u0648\u0627 \u0628\u062a\u0635\u064a\u0631 \u0646\u0633\u0648\u064a\u0629 \u0628\u062a\u062f\u0639\u0645 \u0627\u0644\u0645\u0631\u0623\u0629 \u062d\u0642\u0648\u0642\u0647\u0627 \u0627\u0644\u0645\u0633\u0627\u0648\u0627\u0629 \u062d\u0627\u0644\u064a \u0628\u062a\u062d\u0627\u0648\u0644 \u062a\u0646\u0627\u0644 \u0625\u0639\u062c\u0627\u0628\u0647 \u0648\u0627\u0636\u062d \u0627\u0646\u0647\u0627 \u0645\u0637\u0648\u0644\u0629 \u0628\u0627\u0644\u0645\u0648\u0636\u0648\u0639",
+        "annotation task": "misogyny and sexism detection in Arabic tweets",
+        "number of annotations": 3,
+        "annotations": "1,0,1",
+        "annotators": "Ann1,Ann2,Ann3",
+        "lang": "ar",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "dev",
+        "other_info": {
+            "Ann1": "Moderate_Female",
+            "Ann2": "Liberal_Female",
+            "Ann3": "Conservative_Male"
+        }
+    }
+}
