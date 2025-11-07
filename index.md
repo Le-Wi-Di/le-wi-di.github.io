@@ -7,8 +7,8 @@ title: LeWiDi 2025 - 3rd edition
 [LeWiDi 2023 - 2nd edition](/LeWiDi2023/) | [LeWiDi 2021 - 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
 ### 👍👎 Updates 
-# The manuscript of the LeWiDi 2025 is out! [link](https://aclanthology.org/2025.nlperspectives-1.16.pdf)
-# Final [program schedule]((https://nlperspectives.di.unito.it/w/4th-workshop-on-perspectivist-approaches-to-nlp/programme/) of the NLPerspectives Workshop. Join us! The Workshop will be held at EMNLP, on November 8 in room A305 (hybrid format)
+# The manuscript of the LeWiDi 2025 is out [link](https://aclanthology.org/2025.nlperspectives-1.16.pdf)
+# Final [program schedule](https://nlperspectives.di.unito.it/w/4th-workshop-on-perspectivist-approaches-to-nlp/programme/) of the NLPerspectives Workshop. The Workshop will be held at EMNLP, on November 8 in room A305 (hybrid format). Join us 👍👍
 
 
 ### 👍👎 Past Updates 
