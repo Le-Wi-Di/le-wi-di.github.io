@@ -1,0 +1,3866 @@
+{
+    "1": {
+        "text": "The UK has decided to leave the European Union. What does this mean for foreign property investors? <url> #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "2": {
+        "text": "Good for you BRITS...You saved your country. Now seal yourselves from the Muslim invasian. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,1,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,1,0,1,1",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "3": {
+        "text": "I'm voting OUT! Nowt to do with immigration or identity all about controlling our own interests. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "4": {
+        "text": "RT <user>: <user> <user> <user> <user> I support #Brexit...I don't support the scapegoating of muslim immig\u2026",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "5": {
+        "text": "<user> u said 8 years earlier. 18 really means 9.. Deport him... Oh wait, we can't vote #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,1,1,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "6": {
+        "text": "OMG if #BREXIT vote = 52:49% win by old Conservatives fears of Immigration and Taxes = \n#Trump could win IF Slackers &lt; 30 seldom VOTE in #US",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "7": {
+        "text": "Following disastrous immigration figures, Kent illegals and scaping Channel surveillance, Theresa May hides from media. #Brexit for security",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "8": {
+        "text": "Since this trend is going on #RExit #BrExit.\nI want #PExit all the Pakis Exit singers, floppy actors, cricketers frm our country",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,1,0,0,0,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,0,0,1",
+                "offensive language detection": "0,No,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "9": {
+        "text": "<user> you're a jackass.. they know EXACTLY what they voted against.. namely: muslim extremists, globalist shitbags and tyranny #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,1,1,1",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "10": {
+        "text": "Think of these pigs as the EU's primary foreign policy achievement. No wonder #brexit <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,1,0",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "11": {
+        "text": "thats great they can always go and fuck goats with there muslim terrorist friends <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,1,1,1",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "12": {
+        "text": "World Against Islam  <url> Thanks: <user> <user> #brexit #immigration",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,0,1,1",
+                "offensive language detection": "0,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "13": {
+        "text": "In Fr&amp; Be terrorist acts are that of  \"lone wolves\" &amp; \"madmen\" . But in  UK racist acts are ALL from ALL Brexiters?? Seriously?? #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "0,0,0,1,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "14": {
+        "text": "What is the \u201ceconomic integrity\u201d of having foreigners run your government? #Brexit  <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,1,0,0,0",
+                "offensive language detection": "1,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "15": {
+        "text": "A white working-class man and a North African Muslim worked in tandem to make sporting history for #LCFC.\nBritain, let's #BeMoreFox. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "16": {
+        "text": "<user> Rubber bullets ppl counted 50 THRU THE GAS he be Muslim of course &amp; uve all been distracted from #Brexit &amp; Obongo's loss &amp; +++",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "17": {
+        "text": "5 Migration depresses wages for low skilled but UK workers mostly high skilled thus itll reduce prices and increase competitiveness #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "18": {
+        "text": "<user> hey Ireland, any chance I can claim refugee status? My country and just imploded #EUref #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "19": {
+        "text": "<user> today's the day we the write off the UK and they submit to the Muslim invasion or the UK comes back even stronger. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,0,1,1,1,0",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "20": {
+        "text": "#eureferendum #Brexit #EUref Thought #1\u2026#DavidCameron failed on immigration compromise with #EU. That cost him big.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "21": {
+        "text": "#Britain needs fair &amp; positive migration policy thats why we must #VoteLeave\n\n#iVoted #Brexit #remain #WeWantOut <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "22": {
+        "text": "<user> to categorize #Brexit as pure racism is misleading. Tho immigration was a big part u need to see who voted to stay in/out n why",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "23": {
+        "text": "C'mon Lymies, if you don't #Brexit now then no one will be left to team up with America when Europe falls to Islam <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,1,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,1,1,0,0",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "24": {
+        "text": ".<user> If only some leader would take up idea could avert #brexit - especially as migration the actual concern not #EU",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "25": {
+        "text": "I reject it. islam and its followers are the real racists, thats resale indisputable. If your willing to be honest <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,0,1,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.17,
+            "1": 0.83
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,1,0",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "26": {
+        "text": "#remain has a new tack called immigration reform which they know is disingenuous .cant be done #Brexit <user>  <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "27": {
+        "text": "Expats are immigrants to another country. Think about that before spouting anti-immigrant crap.  <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,1,1",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "28": {
+        "text": "<user> I'm confused. We've a discriminatory immigration policy now against non Europeans. After #Brexit all will be treated equally",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,1,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "29": {
+        "text": "Around Wales, the most Googled #Brexit issues were immigration and the NHS <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "30": {
+        "text": "After the #brexit well be banning foreign characters from Tweets. HashtagBrexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "31": {
+        "text": "Theater terrorist shot dead is what I heard. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "32": {
+        "text": "If we lose on #BREXIT, so far it's all Scotland &amp; greater London. 70% Remain. I note latter has 20% \"white other.\" Muslim you mean? :/",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,1,0,0,0",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "33": {
+        "text": "The racism &amp; xenophobia that inspired #Brexit caused by refugees fleeing ME. This is a victory for #ISIL",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "34": {
+        "text": "Well the minority of #brexit #leavers are already showing just how disgraceful they are by calling my mate a paki in #bhm uk",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,1,0,1",
+                "offensive language detection": "0,0,1,1,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "35": {
+        "text": "No mystery why London went mostly #remain. It's got the highest Muslim population. No way they're voting #brexit, just ask Anjem Choudary.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "36": {
+        "text": "illuminati own EU, provide for, and apply, muslim insurgency, as mean to global genocide; so muslims for EU, for now <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,1,1,0",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "37": {
+        "text": "Indians criticizing Trump and #Brexit anti immigrant rhetoric seem to be fine with cursing Bangladeshi immigrants back home",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,1,0",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "38": {
+        "text": "From someone who has seen what mass migration can do to your country\ud83d\udc4f <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,1,0,0",
+                "offensive language detection": "0,0,0,1,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "39": {
+        "text": "Cameron: UK wants single market and action on immigration #brexit <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "40": {
+        "text": "#Moslems in Srinagar displaying books Gazwa-e-Hind \n<url>\n\u2605#MyJihad Islam #Brexit Handwara Shaktikanta Das BJP RSS VHP",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,1,0",
+                "offensive language detection": "1,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "41": {
+        "text": "<user> With #Brexit and the rejection of globalism and with terrorist attacks around the world we need a strong leader. #Trump2016",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "42": {
+        "text": "Tory party has been anti immigration for decades. \"I like curry, but now we have the recipe...\" #Brexit #EUref <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "43": {
+        "text": "Obama accepting illegals and busing them all over the country brought us Trump. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,1,0,0",
+                "offensive language detection": "0,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "44": {
+        "text": "Sad IRONY. Dave's benefit cap deal is up in smoke, if people had given it a chance, may have reduced immigration numbers peacefully #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "45": {
+        "text": "#Brexit Migration Madness Exposed: Suicide Bombers Strike Istanbul Airport, Dozens Killed <url> <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,1,1,0",
+                "offensive language detection": "0,0,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "46": {
+        "text": "I keep waiting for <user> to use the word \"Mexit\" in an immigration speech.\n\nI know it's coming!\n\n#Trump2016 #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "47": {
+        "text": "SOS for NI:\n\u2022mentioned repealing HRA 1998 to decrease immigration post #Brexit despite HRA 1998 having constitutional significance in NI.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "48": {
+        "text": "So in the way criticizing Jihad causes Jihad, Marxist Globalists hold divisive rallies to prove opposing #Brexit has caused divisiveness",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "49": {
+        "text": "<user> In fact I think Remain wins against any specified #Brexit deal, as cannot have immigration controls AND Single Market access",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "50": {
+        "text": "God knows WT happens2Future foreign policy of UK after #Brexit in relation to #Iran &amp;Appeasement Policy 2ard IRAN! <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "51": {
+        "text": "That petition thing is winding me up, personally we should deport every tosser that signed it. Bitter bitter remainers. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,1,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,1,0,1,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "52": {
+        "text": "Dutch coast to expect a lot of economic refugees from #ENG, the number will increase after today by #ENG football fans #BREXIT #EURO2016",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "53": {
+        "text": "Polish Foreign Minister Waszczykowski tells <user> that UK remains an ally for Poland in many areas including security #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "54": {
+        "text": "Coworker earlier: restricting immigration is xenophobia &amp; markets suffer from #brexit \n\nAfternoon news: DOW up 260+ &amp; explosion in Turkey.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "55": {
+        "text": "#Brexit the Brits are sick and tired of pos Islam running their country!",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,1,1,0",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "56": {
+        "text": "#TakeBackControl for #Brexit fools apparently means crashing the economy, finding out they can't stop migration &amp; UK breaking apart.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,1,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "57": {
+        "text": "Dominic Raab: Failure to deport convict shows 'skewed moral compass' of EU <url> \n #Brexit to re-gain our Sovereignty",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,1,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "58": {
+        "text": "I fear it's going to closely resemble how we feel as they &amp; other illegals vote for Hillary! Just Unbelievable! <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "59": {
+        "text": "#Soros: #Brexit \u2018Calamity\u2019 May Be Worse for #Europe Than Refugee Crisis <url> via <user>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "60": {
+        "text": "To understand elder #Brexit desire to be free of foreign influence &amp; distant elites, see the Bengal Famine Of 1943 <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "61": {
+        "text": "#Brexit voted for reduced immigration and trade. They will not get what they thought as not realistic in real world. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "62": {
+        "text": "Cameron tells EU leaders Brexit was about migration but Boris and his cheerleaders claim was about sovereignty.  <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "63": {
+        "text": "saw you on the deport list.good luck. muzzies love jews so pick country. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,0,0,1",
+                "offensive language detection": "0,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "64": {
+        "text": "London migration crisis? #brexit #london #uk #protest <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "65": {
+        "text": "#Brexit is the first chest piece needed to defeat Islam &amp; Globalism. #VoteLeave #Bluehand  <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,1,1,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,1,0,1,0",
+                "offensive language detection": "0,0,1,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "66": {
+        "text": "Hope so. Obama has 'arranged' so illegals can vote over Internet. This will be completely fraudulent. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "1,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "67": {
+        "text": "First chance to celebrate leaving EU! Time out for dancing &amp; fun.. ;) Best time in ages. Hope someone gets those Paki Landlords. x\n#Brexit x",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,1,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,1",
+                "offensive language detection": "1,0,1,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "68": {
+        "text": "Bloody Foreigner coming over here wanting to know  what love is...!             #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,1,0",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "69": {
+        "text": "the migrants have stole my jobs, services and my nationality!!!!!!! Vote leave!!!! We can deport them back to their country!!! #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,1,1,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.0,
+            "1": 1.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,0,0,0",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "70": {
+        "text": "That awful sense that only a terrorist attack will replace EU#Brexit as first news item, and then it happens.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,1,0",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "71": {
+        "text": "Would a ban on foreign players post #Brexit improve English players? No! We tried it in Turkey already.. believe me it's a false promise",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "72": {
+        "text": "I'm wealthy, child of a European Immigrant and voted #Brexit. Biased tit Matthew Wright #wrightstuff",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,1,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "73": {
+        "text": "Sadiq claimed apocalypse if #Brexit happened. What changed? Did he realise enough Londoners are Muslim for Sharia?   <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,1,0,0,0",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "74": {
+        "text": "And Mexico is so pissed at our immigration \"laws\" because....#NoMigrants #Brexit <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "75": {
+        "text": "Watching the Dutch coast for English refugees arriving in rubber boats.\n #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "76": {
+        "text": "RT <user>: ((( the elite ))) support closed borders for Israel but mass immigration for the USA &amp; Europe.\n#pegida #brexit <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "77": {
+        "text": "Hopefully once UK votes2 #Brexit then #TheQueen can boot that Jihadi Muslim POS Mayor of London back2the God Damned ME, along w/#rapefugees",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,0,1,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.17,
+            "1": 0.83
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,1,1,1",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "78": {
+        "text": "<user> <user> <user> immigration is a good thing as long as it helps our country a points system is best way  #Brexit now",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "79": {
+        "text": "David Cameron has told EU leaders people chose #Brexit as they feel there's no control over immigration from Europe <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,1,0,0,1",
+                "offensive language detection": "0,0,1,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "80": {
+        "text": "see also American anti immigration and  some Canadians too. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "81": {
+        "text": "#BREXIT <user> \n\nWe all know how the London Muslim Mayor voted yesterday !",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "82": {
+        "text": "Looks like Obama's foreign policy 'parthian shot' will be #BREXIT. US more to gain than Britain, if latter chooses to exit EU.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "83": {
+        "text": "Exploding UK immigration helped drive #Brexit vote. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,1,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "84": {
+        "text": "All non-EU countries w tariff-free unrestricted trade w EU pay into EU budget, permit unlimited EU migration <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "85": {
+        "text": "One of the first actions after the anti-immigration #Brexit : refugee camps will be moved from France to England. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "86": {
+        "text": "All white genocide people seem to dye their hair blonde <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,1,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "87": {
+        "text": "More on how some migrant men, posing as children, behave i public schools in Canada <url> <user> <user> #CCOT #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,1,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "88": {
+        "text": "RT <user>: Anti-immigration poster that demonises refugees <url> <user> gets some expert takes #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,1,0",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "89": {
+        "text": "Today, Britain may leave the EU - driven by a white supremacists, anti-immigrant minority is driving it #Brexit  <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,1,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "90": {
+        "text": "Wed <user> - Cameron blames #Brexit defeat on EU failure to tackle immigration <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "91": {
+        "text": "London\u2019s Muslim Mayor Slams #Brexit Vote At Gay Pride Event: (AP) \u2013 Britain\u2019s vote to leave\u2026 <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "92": {
+        "text": "<user> why's he saying that now, and its never been a problem anyway, immigration has benefited us. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "93": {
+        "text": "Islamic mayoral win in London probably startled lot of folks to get out and vote. Islam finance capitol of the WORLD. #brexit #TheyUsedPens",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "0,0,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "94": {
+        "text": "Woman attacked by peaceful muslim #refugees in #paris.#Brexit #VoteLeave #MAGA #Trump #Orlando #PulseShooting #Pulse <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,1,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,1,0,1,1",
+                "offensive language detection": "1,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "95": {
+        "text": "An #EU #Brexit solution for #UK and #Europe: make #Scotland #NorthernIreland #EUzone of UK. Move UK immigration border to Scottish border?",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "96": {
+        "text": "Hey <user> SHUT THE HELL UP about your damn money concerns. The Muslim invasion just hit a brick wall and Britain has been saved! #BREXIT",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,1,0,0",
+                "offensive language detection": "1,0,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "97": {
+        "text": "HMm. <user> halting of retail customer foreign exchange because of #brexit  -- very unhappy customers <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "98": {
+        "text": "<user> wait and see... GB is so dependant from foreign investments. 1st year will be Ok. Wait for the following years #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,1,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "99": {
+        "text": "Just had to castigate my mum's female Muslim co-worker for voting Leave. Harsh I know, but something had to be said.\n#Progressive\n#Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "100": {
+        "text": "RT <user>: This doesn't seem like a #Lexit to me. Just tapping into the same anti-immigrant sentiments that #Brexit play on... <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "101": {
+        "text": "My wife just saw a cashier at  Clerkenwell <user> be racially abused: \"fucking pakis are the worst\". Apparently racism's ok now. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,1,1",
+                "offensive language detection": "0,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "102": {
+        "text": "Thing is, foreign policy had pretty much moved to #EU under Lisbon Treaty. Thats why we wanted #brexit #voteleave <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "103": {
+        "text": "Racism anti immigration in action ugh. Let call these the Trump crew. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "104": {
+        "text": "#Brexit: proof that silly 'nationalism' &amp; racist, anti-immigration fluff can trump logic even w/ the electorate of an entire modern nation.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,1,0",
+                "offensive language detection": "0,0,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "105": {
+        "text": "People citing immigration as the primary reason for #Brexit have blinders on and lack ambition",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "106": {
+        "text": "No anti-immigration / xenophobic / racist rhetoric permitted #YoungPeoplesParty #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "107": {
+        "text": "RT <user>: Islam is not a Race...Now let's make Islam Prove it is a Religion! <user> #ImWithYou #MAGA <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "1,1,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "108": {
+        "text": "#BREXIT is a great 1st step. Next step is for GB to kick Sharia courts and Muslim sleepers &amp; terrorists out of their country.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,0,1,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.17,
+            "1": 0.83
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,0,1,1,1,0",
+                "offensive language detection": "1,0,1,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "109": {
+        "text": "'this is not a time to overreact'\n\nYOU JUST VOTED US OUT OF OUR BIGGEST TRADE PARTNERSHIP BECAUSE OF AN IMAGINARY MUSLIM HORDE\n#brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "110": {
+        "text": "RT <user>: #ItWasTimeToLetGoWhen the political union they were in wanted to cozy up to people where terrorism is a lifestyle choice\u2026",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,1,0",
+                "offensive language detection": "1,1,1,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "111": {
+        "text": "UK Muslim stabs girlfriend: mother disapproved of his relationship with nonMuslim #Brexit #maga David Cameron The UK <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,1,1,0",
+                "offensive language detection": "1,1,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "112": {
+        "text": "Just of Numerous attacks on foreign owned business's since Friday!! #Brexit #RacistBritain \n\n<url> <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,1,1,1",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "113": {
+        "text": "Has Madrid City Hall banner welcoming Syrian refugees been given a post #Brexit update? <url> #spain",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "114": {
+        "text": "<user>  Yep it is all about sovereignity and not anti immigrant or racism <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "115": {
+        "text": "RT After BREXIT I Feel Like A Foreigner In My Own Country. Is #BREXIT Xenophobia? \n<url> <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "116": {
+        "text": "<user> what will happen the minorities in UK (black, hindu, Muslim , gypsy, Latinos, etc) with this #Brexit ! A bad day for the world",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "117": {
+        "text": "<user> #OreillyFactor. Will the Brits be able to make the foreigners leave? #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "118": {
+        "text": "#Brexit: Hate crimes surge as racist abuse of foreigners in UK condemned - <url> <url> via <user>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,1,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "119": {
+        "text": "Let me guess - James chooses Islam over the free world too?! <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,1,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "120": {
+        "text": "Interesting session on #Brexit and the future: Foreign Affairs Committee 28th June <url> <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,1",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "121": {
+        "text": "There is a big difference between freedom of movement of people to and fro and the mass migration of entire villages as with Romania#Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "122": {
+        "text": "A few British friends explained to me that EU embrace of Islam was their #1 issue. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "123": {
+        "text": "Hehehehe. Mophead Boris is gonna throw the anti immigration book at that one <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "124": {
+        "text": "The #NeverTrump faction IS the establishment - largely the foreign policy establishment &amp; conservative purists. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "125": {
+        "text": "England playing shit football... Better blame the foreigners #EURO2016 #ENGISL #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "126": {
+        "text": "<user> I'll vote UKIP till I get my independence. Sovereignty &amp; equal migration policy. When I voted leave I voted OUT OUT. #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "127": {
+        "text": "A Muzzie in UK raped a girl thinking #Brexit would be defeated.\n\nThis is your Country ENGLAND. FIX IT\n\n#DeportHalal <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "1,1,1,0,0,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.33,
+            "1": 0.67
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,1,0,0,1",
+                "offensive language detection": "1,1,1,1,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "128": {
+        "text": "Voted Leave, I didnt erect a boarder fence, I didnt deport a migrant and I even managed to avoid threatening an MP. #Brexit  (1 of 2)",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,1,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "129": {
+        "text": "This will be a factor in `Norway` option &gt;&gt;EU and Swiss still at odds on migrant quotas #brexit <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "130": {
+        "text": "Great idea. #SafetyPin #Brexit\n\nThe simple way you can show solidarity with the UK's immigrant population <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,1",
+                "offensive language detection": "0,0,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "131": {
+        "text": "When #England must take millions of refugees and this happens\ud83d\udc49It doesn't take a politician to tell me why #Brexit <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,0,0,0",
+                "offensive language detection": "0,0,0,0,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "132": {
+        "text": "To sums it up, They are leaving the EU because of the refugees they helped created by starting and fueling wars around the world #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "133": {
+        "text": "Non-English Scotland and London vote in large numbers for England to be ruled by foreign power #referendum #brexit #euref #ukip #voteleave",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "134": {
+        "text": "5 to 1 <user> has more outrage over UK leaving the EU than Radical Islamic Terrorism <user> <user> <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "135": {
+        "text": "<user> Your muslim faith? WTF? You mean Christian don't you, that's what you've been saying all along O_O #BREXIT <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,1",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "136": {
+        "text": "RT <user>: Obama sent back the Churchill bust, plus multitudes of Muslim refugees ... what could go wrong? <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "137": {
+        "text": "Want to know how stupid &amp; futile #Brexit is? Watch impressive Radek Sikorski, ex #Polish foreign minister #HARDtalk <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "138": {
+        "text": "<user> Sign more foreign talent before the pound drops through the basement floor! #chexit #wrexit #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "139": {
+        "text": "#Dollar far too strong now &amp; for no good reason. We may enjoy some nice foreign vacations, but this *will* clobber US exports.\n#Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "140": {
+        "text": ".<user> virtual wastelands or war zones, yet after doing all of that, they cry when refugees &amp; immigrants are at their doors #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "141": {
+        "text": "A tweet says, White man arrived at a school having 78% muslim kid, making victory signs at families walking past. Is this the real #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "142": {
+        "text": "David Cameron says immigration was a key issue in #Brexit \n<url> <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "143": {
+        "text": "#Brexit\n\nDutch anti-immigration leader calls for Dutch referendum on eu membership <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "144": {
+        "text": "RT <user>: Right now the Muslim Brotherhood is freaking out for not being able to keep it in their pants long enough to take over t\u2026",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,0,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,1,0",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "145": {
+        "text": "Using immigration to gain referendum votes was a Pandora's box. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "146": {
+        "text": "Remember how #Brexit was going to keep undesirable foreigners out? That fail didn't take long...  <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "147": {
+        "text": "<user> Well, main argument of the #Brexit campaign was the take over by UK of its immigration legislation.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "148": {
+        "text": "Labour is out of touch on immigration. How do you sustain such an muslim influx on svc's on the back of British workers!? #Brexit #VoteLeave",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "149": {
+        "text": "After  #Brexit need to ensure human rights are upheld &amp; we have a voice. Migrant communities need to stay together. <user>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "150": {
+        "text": "We will be treated differently, says UK foreign secretary by EU after #Brexit vote #Peston",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "151": {
+        "text": "<user> refugees ain't the problem. It's illegals and unskilled legals! #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,1,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "152": {
+        "text": "The ppl of the U.K. are cleary fed up with Muslim Immigration that refuse to assimulate. How many more #refugees? <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,0,0,0,0",
+                "offensive language detection": "1,0,0,0,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "153": {
+        "text": "<user> <user> It seems our Govt + of the Nom for POTUS has gotten major funding from terrorist countries. Wonder not on #Brexit GB",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,0,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.67,
+            "1": 0.33
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,1,0",
+                "offensive language detection": "0,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "154": {
+        "text": "How will this move affect OFWs in the UK, given that a relatively anti-immigration stance was a huge part of the Leave campaign? #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "155": {
+        "text": "Tim Harford on how #Brexit could hammer foreign investment into UK (inc. car industry) <url> <user> <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "156": {
+        "text": "RT <user>: #Brexit\n\nPOWER TO THE PEOPLE\n\nTime to defeat this Corrput Globalist and Muslim Boot-licker <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,1,1,0,1,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "1,1,1,1,0,0",
+                "offensive language detection": "1,1,1,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "157": {
+        "text": "#brexit Once again the holier than thou brigade are confusing concern about immigration with racism.",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,1,1,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "158": {
+        "text": "#Brexit so funny when #UK citizen says on TV that they voted out because there are too many people here, &amp; they have a heavy foreign accent",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 0.83,
+            "1": 0.17
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,1,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "159": {
+        "text": "<user> <user> Yesterday, refugees in France were attacking British motorists. #EU = failed state. Face facts #Brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,1,0,0",
+                "offensive language detection": "0,0,0,1,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "160": {
+        "text": "Facts voters should have considered before opting for #Brexit: Immigration had boosted UK's gross domestic product \u2026 <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "161": {
+        "text": "Will be on <user> at 9:20pm tonight to talk #Brexit and Canadian foreign policy with <user> Hope you'll tune in! #cdnpoli",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "162": {
+        "text": "<user> I don't know what racists will do but the uk public will probably vote ukip in 2020 , who WILL limit immigration  #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,1,0,0,0",
+                "offensive language detection": "0,0,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "163": {
+        "text": "Anti foreigner agenda and then TD Eamon Scanlon's question about how many Muslims applied for Irish citizenship? <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,0,0,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "164": {
+        "text": "<user> Hmm... for #Brexit they can't really change immigration policy without angering some big countries, right? Also, for the healthcare",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,1,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "165": {
+        "text": "Sadiq, Isis Muslim mayor is a total lunatic and will explode as Britain moves forward to independence. <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,1,0,1,1,1",
+                "offensive language detection": "1,1,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "166": {
+        "text": "Fusilier Lee Rigby&lt;----Not Forgotten During The #Brexit Vote Contemplations ( Murdered by Muslim Converts Outside His London Barracks ! )",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,1,1,1",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "1",
+        "soft_label": {
+            "0": 0.5,
+            "1": 0.5
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,1,1,0",
+                "offensive language detection": "0,0,0,1,1,1"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "167": {
+        "text": "Because the world Knows #Trump is the only one worthy to run USA! unless your Muslim then you are Hillary friend <url>",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "1,1,0,0,0,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    },
+    "168": {
+        "text": "Props to Putin, I guess...?\n\nHow Russia is 'weaponizing' migration to destabilize Europe <url> via <user> #brexit",
+        "annotation task": "hate speech detection",
+        "number of annotations": 6,
+        "annotations": "0,0,0,0,0,0",
+        "annotators": "Ann1,Ann2,Ann3,Ann4,Ann5,Ann6",
+        "lang": "en",
+        "hard_label": "0",
+        "soft_label": {
+            "0": 1.0,
+            "1": 0.0
+        },
+        "split": "test",
+        "other_info": {
+            "other annotations": {
+                "aggressive language detection": "0,0,0,0,0,0",
+                "offensive language detection": "0,0,0,1,1,0"
+            },
+            "annotators group": "group1,group1,group1,group2,group2,group2",
+            "group1": "target group",
+            "group2": "control group"
+        }
+    }
+}
