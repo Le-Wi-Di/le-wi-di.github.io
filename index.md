@@ -7,9 +7,14 @@ title: LeWiDi 2025 - 3rd edition
 [LeWiDi 2023 - 2nd edition](/LeWiDi2023/) | [LeWiDi 2021 - 1st edition](https://sites.google.com/view/semeval2021-task12) 
 
 ### 👍👎 Updates 
-# The official leaderboard of the LeWiDi 2025 Edition is now available at [this link](https://docs.google.com/spreadsheets/d/1mrJLaAIn60YTbYAVtRlwOqJktrxk252igoI2AT8UZuo/edit?gid=1049169550#gid=1049169550) ... see you in Suzhou!
-# LeWiDi 3rd Edition shared task at the NLPerspectives Workshop is online! 
-# Please check [our competition page on Codabench](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
+# The manuscript of the LeWiDi 2025 is out! [link](https://aclanthology.org/2025.nlperspectives-1.16.pdf)
+# Final [program schedule]((https://nlperspectives.di.unito.it/w/4th-workshop-on-perspectivist-approaches-to-nlp/programme/) of the NLPerspectives Workshop. Join us! The Workshop will be held at EMNLP, on November 8 in room A305 (hybrid format)
+
+
+### 👍👎 Past Updates 
+## The official leaderboard of the LeWiDi 2025 Edition is now available at [this link](https://docs.google.com/spreadsheets/d/1mrJLaAIn60YTbYAVtRlwOqJktrxk252igoI2AT8UZuo/edit?gid=1049169550#gid=1049169550) ... see you in Suzhou!
+## LeWiDi 3rd Edition shared task at the NLPerspectives Workshop is online! 
+## Please check [our competition page on Codabench](https://www.codabench.org/competitions/7192/) for data and more information! 👍👍
 
 
 
