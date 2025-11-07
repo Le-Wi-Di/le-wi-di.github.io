@@ -9,8 +9,8 @@ title: LeWiDi 2025 - 3rd edition
 Download the data of all the LeWiDi editions from our [github repository](https://github.com/Le-Wi-Di/le-wi-di.github.io)
 
 ### 👍👎 Updates 
-# The manuscript of the LeWiDi 2025 is out [link](https://aclanthology.org/2025.nlperspectives-1.16.pdf)
-# Final [program schedule](https://nlperspectives.di.unito.it/w/4th-workshop-on-perspectivist-approaches-to-nlp/programme/) of the NLPerspectives Workshop. The Workshop will be held at EMNLP, on November 8 in room A305 (hybrid format). Join us 👍👍
+## The manuscript of the LeWiDi 2025 is out [link](https://aclanthology.org/2025.nlperspectives-1.16.pdf)
+## Final [program schedule](https://nlperspectives.di.unito.it/w/4th-workshop-on-perspectivist-approaches-to-nlp/programme/) of the NLPerspectives Workshop. The Workshop will be held at EMNLP, on November 8 in room A305 (hybrid format). Join us 👍👍
 
 
 ### 👍👎 Past Updates 
