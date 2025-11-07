@@ -1,0 +1,1952 @@
+{
+  "248283": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What are the best Lucid Dreaming techniques?",
+      "Question2": "What is the best lucid dream technique?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "5",
+      "Ann3": "5",
+      "Ann4": "4"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "They are only different in numerus, which is trivial.",
+        " They both inquire about the most effective techniques for achieving lucid dreaming",
+        "slight notation difference (L - l), object is shared. Differences in singular (technique) vs. Plural (techniques) can be neglected",
+        "Although there is a difference between the singular and plural forms of the word 'technology,' this has little bearing on the answer to this question."
+      ]
+    }
+  },
+  "95686": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What does the red seal on US dollar bills mean?",
+      "Question2": "Can I use US dollars in Canada?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-4",
+      "Ann2": "-5",
+      "Ann3": "-2",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.5,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.25,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 is about the meaning of the red seal; Q2 is about whether one can use US dollar in Canada",
+        " different topics",
+        "Q2 Query related to the use of a currency given a country, Q1 inquires the material properties of a currency",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "149358": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "question answered thanks :)",
+      "Question2": "What does it mean to have RETROGRADE Jupiter in LAGNA virgo & Exhalted in Cancer in the navamsa (3rd house)? (Virgo Lagna and Taurus Navamsa)"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-5",
+      "Ann3": "-5",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 1.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two questions are not related.",
+        " different topics",
+        "Q1: reply ; Q2: open domain specific and refers to multiple named entities, verbatim: Q1 isn't a question.",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "64902": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How much time it takes to die by hanging?",
+      "Question2": "Can you die by forcing yourself to stay awake for too long?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-4",
+      "Ann2": "-3",
+      "Ann3": "2",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.25,
+      "-4": 0.25,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.25,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The death reasons are different. The first is hanging. The second is sleep deprivation",
+        " similar topics, that is the way of suicide, but refer to different ways and ask from different perspectives.",
+        "Both Q deal with reasons for death and are domain specific; syntax differ.",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "266559": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Is losing weight possible without hitting the gym like a maniac?",
+      "Question2": "How can I lose weight without going to the gym?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "3",
+      "Ann2": "-2",
+      "Ann3": "3",
+      "Ann4": "3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.25,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.75,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "In Q1, 'like a maniac' means going to gym very often. But in Q2, it would mean without going to gym at all.",
+        " The two sentences have similar topics, but to different degrees",
+        "Both Q share the same domain and inquire properties associated with \"weight loss\", Q1 contains the colloquial phrase \"like a maniac\" which can be dimissed",
+        "They mean almost the same thing, but the first sentence emphasises \"like a maniac\"."
+      ]
+    }
+  },
+  "129887": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What is it like for a Muslim woman to be married to a Christian man?",
+      "Question2": "What is it like being a Muslim woman married to a Hindu man?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-1",
+      "Ann2": "3",
+      "Ann3": "2",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.25,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The married man is different. Christian vs. Hindu",
+        " both involve interfaith marriages, although they emphasize different religions.",
+        "instruction-style lookup queries with identical format. Object and Subject differ across Qs, common_phrase: muslim woman marry (...) man; Determining_phrase: Christian - Hindu ",
+        "Different keywords, \"Christian man\" and \"Hindu man\", that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "139845": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How can I self prepare for cat 2016?",
+      "Question2": "How can I prepare for the CAT 2016?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "5",
+      "Ann3": "5",
+      "Ann4": "3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.0,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "When there is no object for 'prepare', then it means self-prepare",
+        " the same topic",
+        "common_phrase: prepare cat; Determining_phrase: Omission of self and notation differences. ",
+        "‘cat’ was written in lower case in the first sentence, depending on the context it can have different meanings."
+      ]
+    }
+  },
+  "305740": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Is drinking apple cider vinegar good for you and why?",
+      "Question2": "Is apple cider good for you?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "4",
+      "Ann2": "4",
+      "Ann3": "5",
+      "Ann4": "3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.5,
+      "5": 0.25
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "To answer Q1 you need to give reasons also, which you do not need to  do for Q2.",
+        " they cover the same topics, although s2 can cover more ways of using apple cider.",
+        "the omission of the specifier \"drinking\" related to the key words \"apple cider\" can be inferred (is implied for Q2). The query modifier (and why) can be neglected",
+        "\"apple cider vinegar\" and \"apple cider\" are not exactly the same thing."
+      ]
+    }
+  },
+  "359552": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What are angels?",
+      "Question2": "What are angels like in person?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-2",
+      "Ann2": "4",
+      "Ann3": "4",
+      "Ann4": "4"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.25,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.75,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 asks for definitions of angels. Q2 asks about the characteristics of an angel in person.",
+        " similar topic, although s2 is more specific",
+        "Both Q are dictionary- lookup queries; The modifier (in person) added to to the key (angels) alters similarity slightly",
+        "They have almost the same meaning."
+      ]
+    }
+  },
+  "360928": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How are chatbots created?",
+      "Question2": "How can I create a chatbot from scratch?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "4",
+      "Ann2": "-5",
+      "Ann3": "4",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.25,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.5,
+      "5": 0.25
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The answers to both questions will be the process of creating a chatbot",
+        " different topics",
+        "Either Q expect a list for a domain-specific process,  the specifier \"from scratch\" can be neglected",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "386874": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What is your review of I Do (2006 movie)?",
+      "Question2": "What is your review of Like Minds (2006 movie)?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-3",
+      "Ann2": "-4",
+      "Ann3": "4",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.25,
+      "-3": 0.5,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two different movies",
+        " similar topic, but refer to different objects of discussion",
+        "Identically phrased request for a recommendation; the object in question is dissimilar, named entities",
+        "Different keywords, \"I Do\" and \"Like Minds\", that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "234307": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How do you create marketing materials if you are given inaccurate/incomplete buyer personas?",
+      "Question2": "How do you create marketing materials if you are given inaccurate personas?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "5",
+      "Ann3": "5",
+      "Ann4": "4"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "/' means 'inaccurate' is equivalent to 'incomplete' in the given context",
+        " the same topic, subject and object...",
+        "Q2 omits the specifier \"incomplete buyers\" present in Q1, otherwise identical",
+        "They have almost the same meaning."
+      ]
+    }
+  },
+  "270918": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How is fordham finance program?(MSGF)",
+      "Question2": "Is there Disney theme park in London?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-5",
+      "Ann3": "0",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.75,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The asked subjects are different: MSGF vs. Disney theme park",
+        " different topics",
+        "Overlap: straightforward lookup with different named entities, domains also differ.",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "92379": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Can hamsters eat apples?",
+      "Question2": "Can hamsters eat carrot? Why or why not?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-4",
+      "Ann2": "-4",
+      "Ann3": "4",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.5,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The food is different: apples vs. carrot.",
+        " different topics, although both sentences refer to the same thing, that is feeding a hamster",
+        "common_phrase and Overlap: hamster eat; Determining_phrase: semantic difference between apple and carrot. verbatim: different objects",
+        "Different keywords, \"apples\" and \"carrot\", that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "328335": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How much true it is that you should say \"Good Morning\" in your first meeting even if it is evening or noon?",
+      "Question2": "What are good morning get-motivated routines?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-4",
+      "Ann3": "-3",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.5,
+      "-4": 0.25,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 is about how true it is to say good morning regardless of time; Q2 is asking for morning routines to get motivations.",
+        " different topics, although refer to the same thing",
+        "only overlap in the keyword \"good morning\", the object inquired (Q1: social setting) (Q2: private setting) differ",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "362791": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What part of the cow does steak come from?",
+      "Question2": "What part of the cow is 'tomahawk steak'?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "3",
+      "Ann2": "3",
+      "Ann3": "4",
+      "Ann4": "2"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.25,
+      "3": 0.5,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "tomahawk steak' is a specific kind of steak in Q2. In Q1, it asks about a normal steak.",
+        " the similar topic, although s2 is exacter",
+        "Overlap: Cow - steak ",
+        "Steak comes from several parts of the cow, but the second question emphasises 'tomahawk steak'."
+      ]
+    }
+  },
+  "366659": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What are good startups in Chennai that are hiring (September 2016)?",
+      "Question2": "What are good startups in Chennai that are hiring (August 2014)?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "2",
+      "Ann2": "3",
+      "Ann3": "4",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.25,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Time is different.",
+        " the sme topic, although in different time",
+        "Similar expression. The penality depends on considering the temporal specifiers in parenthethis",
+        "Different time keywords that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "381985": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How can I use reliance Jio 4g sim in my 3g Samsung Galaxy Core 2?",
+      "Question2": "Can a 3G Jio SIM phone be used to give 4G speed in other devices?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-2",
+      "Ann2": "-4",
+      "Ann3": "4",
+      "Ann4": "0"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.25,
+      "-1": 0.0,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "They are two different phones.",
+        " similar topics, but talk about different in subject and object",
+        "domain specific. The Qs differ in the acutal objects specified. ",
+        "The two questions seem unrelated."
+      ]
+    }
+  },
+  "379822": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Is it safe to drink tap water in Tokyo?",
+      "Question2": "Is it safe to drink tap water in the US?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-2",
+      "Ann2": "-3",
+      "Ann3": "5",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.5,
+      "-2": 0.25,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.25
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Countries are different.",
+        " similar topics, but in different conditions",
+        "Identical queries, possible penalties for dissimilar ENITITIES and domain specific lookup",
+        "Different keywords, \"in Tokyo\" and \"in the US\", that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "55318": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Do escorts ever fall in love with a client?",
+      "Question2": "Why do we fall out of love?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-4",
+      "Ann2": "-5",
+      "Ann3": "2",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.5,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.25,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Questions have different subjects.",
+        " different topics",
+        "Overlap: fall love; Determining_clause verbatim: KEY WORDS in QUERY are too DISTANT and NOT RELEVANT",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "399051": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What is the easiest way to earn money using internet?",
+      "Question2": "How can I earn money online from home only?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "4",
+      "Ann2": "-4",
+      "Ann3": "4",
+      "Ann4": "3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.5,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Using internet means to be online. But Q1 limits the possibilities to be easiest.",
+        " the same subject and object, but different topics",
+        "Conversational style and shallow, the expected output is unclear (EASY). Both are domain specific; ",
+        "The second question emphasises \"from home only\"."
+      ]
+    }
+  },
+  "25439": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "At what point could CRISPR be applied to living people and what are the limitations of applying that to adults vs. at conception?",
+      "Question2": "What is the meaning of life?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-5",
+      "Ann3": "-1",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.75,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.25,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two different questions.",
+        " different topics",
+        "Q2 is sparse compared to Q1 offering no context in addition to the single-phrase query. Although related conceptually Qs are semantically dissimilar. ",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "283084": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Could the recent incidents between the USA and Russia lead to war?",
+      "Question2": "Will Russia and U.S. go to war?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "4",
+      "Ann2": "4",
+      "Ann3": "4",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.75,
+      "5": 0.25
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 limits the potential cause of wars to be recent.",
+        " the same topic and object of discussion",
+        "Conversational Queries requiring more context. The keys are similar, notation differs slightly across Qs",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "290399": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What do you think the purpose of life is?",
+      "Question2": "What is the purpose of life?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "5",
+      "Ann3": "5",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 1.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Both questions ask about the meaning of life",
+        " the same topic, subject and object...",
+        "Overlap: purpose life; Appearance_difference: THINK - IS; Determining_phrase: NON-KEY WORD in QUERY alternative",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "246102": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What are some good research topics in data mining?",
+      "Question2": "What is a good bachelor's thesis topic in data mining?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "4",
+      "Ann2": "3",
+      "Ann3": "4",
+      "Ann4": "3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.5,
+      "4": 0.5,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q2 limits the research topics to be a bachelor thesis topic.",
+        " the same topics, although different in condition",
+        "Overlap: good(...) topic data mining; High overview and concept of \"research\" are shared.",
+        "The second sentence puts particular emphasis on \"bachelor's thesis topic\"."
+      ]
+    }
+  },
+  "125679": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What does it mean to study?",
+      "Question2": "What is the meaning of \"study your lessons\"?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-1",
+      "Ann2": "5",
+      "Ann3": "4",
+      "Ann4": "3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.25,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "In Q1, 'studying' is more general. In Q2, the context is to study lessons.",
+        " the same topic and object of discussion",
+        "Shallow conversational queries prompting a definition; penality for KEY punctuation in Q2 and dissimilar morphology; Overlap: MEAN(ING) STUDY",
+        "These seem to mean the same."
+      ]
+    }
+  },
+  "298218": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What are the best universities/colleges to do short term course in western vocal in India?",
+      "Question2": "Which is the best short term course which will add to my earnings?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-3",
+      "Ann2": "-4",
+      "Ann3": "-2",
+      "Ann4": "-4"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.5,
+      "-3": 0.25,
+      "-2": 0.25,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 adds restrictions about where to do the course, the countries. Also the purposes of the courses are different.",
+        " different topics, although refer to the same thing",
+        "The terms \"short term course\" overlap but the additional modifiers cannot be substituted. ",
+        "Although they all mention \"short term course\", these two sentences express different things."
+      ]
+    }
+  },
+  "69456": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Why don't we pray and offer pooja for Lord Brahma?",
+      "Question2": "Why don't we pray and offer pooja for Lord Bramha?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "5",
+      "Ann3": "5",
+      "Ann4": "4"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "These are two same sentences.",
+        " totally the same sentence",
+        "idenical queries",
+        "They mean the same, only \"Bramha\" is spelt wrong in the second sentence."
+      ]
+    }
+  },
+  "252446": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Is it possible to ask a question and also answer to the same in Quora?",
+      "Question2": "Can anyone ask and answer a same question in Quora?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "5",
+      "Ann3": "4",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "If it is possible to do an action, then someone can do this action.",
+        " the same topic and object of discussion",
+        "Similar QUERIES; Q1 contains higher redundancies due to morp.syn. structure, common KEYS: ask answer question quora",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "1336": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Why is the spine is seen as the axis of the universe in spirituality? How do you get mastery over the spine?",
+      "Question2": "How can you treat pain in the middle of your spine?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-4",
+      "Ann3": "3",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.5,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 is about spirituality. Q2 is a medical question.",
+        " different topics, although refer to the same thing",
+        "Q1: Ambigously phrased Query with two phrases: LOOKUP and LOOKUP + INFERENCE; Q2: domain is domain specific, main penality for possible misinterpretation of KEY: spine. If guardrails for straightforward medical lookup (-5) could be considered, in order to ensure high dissimilarity ",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "153310": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How can one improve his writing skills?",
+      "Question2": "How should I improve my writing skill for blogging?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "3",
+      "Ann2": "-3",
+      "Ann3": "4",
+      "Ann4": "4"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.5,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q2 specifies the writing skills to be for blogging.",
+        " similar topics, but in different conditions",
+        "key inquiry: \"writing skills\", appearance difference \"can\" vs. \"Should\". Q2 omits the specifier \"for blogging\"",
+        "They have a similar meaning."
+      ]
+    }
+  },
+  "153789": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Will Salesforce be named a defendant in the lawsuit regarding Raghavendra Indugula death during a company team building event?",
+      "Question2": "What are some cool names for my business team and software team in my company?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-5",
+      "Ann3": "0",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.75,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two totally different questions.",
+        " different topics",
+        "unrelated queries, the term overlap \"company\" can be neglected",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "247412": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What's your New Year's resolution for 2017?",
+      "Question2": "What's your New Year 2017 resolution?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "4",
+      "Ann3": "5",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "New Year's resolution for 2017 means the new year is 2017",
+        " the same topic and object of discussion",
+        "identical queries with different word oder",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "49993": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How legit is goherenext.com?",
+      "Question2": "How legit is thedartmouth.com?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-1",
+      "Ann2": "-3",
+      "Ann3": "5",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.5,
+      "-2": 0.0,
+      "-1": 0.25,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.25
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two different websites in the questions.",
+        " although have similar topics, but refers to different objects",
+        "Boilerplate and low signal due \"legit\"; the named entities differ but can be substitutes",
+        "Different keywords, \"goherenext.com\" and \"thedartmouth.com\", that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "188727": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Which is the most beautiful country to visit in Asia these summers?",
+      "Question2": "Which is the most beautiful country to visit?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "1",
+      "Ann2": "-4",
+      "Ann3": "4",
+      "Ann4": "1"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.5,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 limits the countries to be in asia and time to be in summer.",
+        " different topics, although both sentences have the commen semantic field, that is a country to visit",
+        "Although Q1 is more specific, specifying time and place, both Qs share the same domain. Phrasing similar",
+        "The first question focuses on \"in Asia\"."
+      ]
+    }
+  },
+  "361706": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Why can't I use Valid parameter along with RequestParam in Spring MVC?",
+      "Question2": "What is MVC? Is ColdFusion also using MVC?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-4",
+      "Ann2": "-4",
+      "Ann3": "-1",
+      "Ann4": "0"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.5,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.25,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two questions are asking different aspect of MVC.",
+        " different topics",
+        "Although the context is not directly apparent, both Qs inquire domain specific information. Syntax differs and \"MVC\" is the only term overlapping",
+        "Both questions are related to \"MVC\", but they have a different focus."
+      ]
+    }
+  },
+  "170609": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What is the meaning of the Joker's question \"Did you ever dance with the devil in the pale moonlight?\"?",
+      "Question2": "Would the Batman light work in real life?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-4",
+      "Ann3": "0",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.5,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The two questions are in the same movie context but ask about different things.",
+        " different topics, although both sentences have the commen semantic field",
+        "Joker and Batman are (literary) figures related to the same concept, the Qs differ in expression and Q2 is semantically ambiguous",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "141108": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How can I create a dynamic array in the programming language C?",
+      "Question2": "How do we allocate memory for a structure and array in C?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-4",
+      "Ann2": "-4",
+      "Ann3": "4",
+      "Ann4": "0"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.5,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Creating a dynamic array is not same as allocating memory in C.",
+        " different topics, although both sentences have the commen semantic field",
+        "Related concepts, same named entities, redundancy in Q1 \"programming language\"",
+        "Both questions are related to \"programming language C\", but they have a different focus."
+      ]
+    }
+  },
+  "341267": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What is your most embarrassing moment during your childhood life?",
+      "Question2": "What is the most embarrassing moment of your childhood?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "4",
+      "Ann3": "4",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.5,
+      "5": 0.5
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The childhood life has the same meaning as chldhood.",
+        " the same topic and object of discussion",
+        "Q1: \"during\" is gramatically vague and \"of\" is better substitution. Both Qs inquire the same information",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "251947": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Do Jack Russell terriers ever slow down?",
+      "Question2": "Do girls masturbate?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-5",
+      "Ann3": "0",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.75,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two completely different questions.",
+        " different topics and objects of discussion",
+        "The domains and objects inquired are unrelated",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "273010": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What are the safety precautions on handling shotguns proposed by the NRA in Rhode Island?",
+      "Question2": "What are the safety precautions on handling shotguns proposed by the NRA in Pennsylvania?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "2",
+      "Ann2": "-3",
+      "Ann3": "4",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.5,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.25,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The locations are different.",
+        " have similar topics, but in different conditions",
+        "the concepts are related and phrasing is identical. The named entites associated differ",
+        "Different keywords, \"in Rhode Island\" and \"in Pennsylvania\", that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "46760": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Is Investment Banking now a sunset industry?",
+      "Question2": "How do I position myself in the investment banking industry?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-3",
+      "Ann2": "-4",
+      "Ann3": "-3",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.25,
+      "-3": 0.75,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 is questioning that Investment Banking to be a sunset industry, so the person has doubt and would probably not join the industry. The person in Q2 is, however, thinking to join the industry.",
+        " although refer to the same thing, but have different topics",
+        "conceptually related, high level queries  and domain specific. Q1 inquires a lookup dictionary definition \"sunset industry\" , Q2 is a colloquial query ",
+        "The focus of the questions is completely different."
+      ]
+    }
+  },
+  "335015": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Where can one find information on projects pertaining to sustainable supply chain management for food distribution?",
+      "Question2": "How does Sustainable supply chain for Danone?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-4",
+      "Ann3": "0",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.25,
+      "-4": 0.25,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.25,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q1 is about how to find information on something. I'm not sure what Q2 is asking about.",
+        " although refer to the same thing, but have different topics",
+        "The concepts are distantly related, otherwise no similiarity",
+        "The first question emphasises \"for food distribution\", but he second question emphasises \"for Danone\"."
+      ]
+    }
+  },
+  "21202": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What are the most exciting places to see in Italy as a tourist? Why?",
+      "Question2": "What are the most exciting places to see in Singapore as a tourist? Why?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-1",
+      "Ann2": "-4",
+      "Ann3": "4",
+      "Ann4": "-3"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.25,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.25,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "The countries are different.",
+        " although both refer to the same event, but have different topics",
+        "identical phrases, only named entities differ",
+        "Different time keywords, \"Italy\" and \"Singapore\", that are asked can lead to entirely different answers."
+      ]
+    }
+  },
+  "195569": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Is long distance relationship works?",
+      "Question2": "What is the secret of keeping a successful long distance relationship?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "3",
+      "Ann2": "-4",
+      "Ann3": "5",
+      "Ann4": "4"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.25,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.25,
+      "5": 0.25
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Q2 is asking how to make a long distance relationship work. Q1 is asking if this kind relationship work.",
+        " although refer to the same thing, but have different topics",
+        "The key terms for both Qs is \"long distance relationship\". Both Qs contain grammatical errors and spelling mistakes",
+        "They have a similar meaning."
+      ]
+    }
+  },
+  "160819": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What would the world be like today if 9/11 attackS never happened in USA?",
+      "Question2": "What would happen if 9/11 never happened?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "4",
+      "Ann3": "5",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Both questions are trying to imagine a world without 9/11",
+        " the same topic",
+        "Q1 contains redundancies, otherwise overlap; the named entity referred to is identical ",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "71188": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What is the best way of improving spoken English?",
+      "Question2": "What should I do to improve my spoken English?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "5",
+      "Ann2": "4",
+      "Ann3": "5",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.25,
+      "5": 0.75
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Both are asking for advice to improve one's spoken English.",
+        " the same topic",
+        "withouth additional context for either Q, the key terms are \"improving spoken english\" . High level question where \"best way\" and \"should I\" induce similar response",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "126943": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "What should my college major be if I am wanting to get into designing artificial intelligence?",
+      "Question2": "Is A.I. an existential threat to humanity?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-5",
+      "Ann2": "-5",
+      "Ann3": "-3",
+      "Ann4": "-5"
+    },
+    "soft_label": {
+      "-5": 0.75,
+      "-4": 0.0,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "Two questions are about two different aspects on AI. One is about job perspective, the other is philosophical.",
+        " different topics",
+        "Q2 is a shallow conversational query and does not supply any context nor uses domain-specific knowledge; Q1 is lookup query where \"college major\". The term \"articfical intelligence (AI)\" is no overlap conceptually, overlap strictly lexical ",
+        "These two sentences express very different things."
+      ]
+    }
+  },
+  "185358": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "How should I motivate myself to strive all the time?",
+      "Question2": "How do I get myself to become motivated and just study all the time?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "4",
+      "Ann2": "4",
+      "Ann3": "5",
+      "Ann4": "5"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.0,
+      "-2": 0.0,
+      "-1": 0.0,
+      "0": 0.0,
+      "1": 0.0,
+      "2": 0.0,
+      "3": 0.0,
+      "4": 0.5,
+      "5": 0.5
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "To strive' does not mean only to study. One could also strive by working very hard.",
+        " the same topic",
+        "minor differences in appearance across Qs, Q2 contains the added (redundant) specifier \"study all the time\" / \"should\" vs. \"do\" ",
+        "They have the same meaning."
+      ]
+    }
+  },
+  "183749": {
+    "annotation task": "paraphrase detection",
+    "text": {
+      "Question1": "Is there a scientist who believe that the earth is flat?",
+      "Question2": "Is there any Quoran that believes that the earth is flat?"
+    },
+    "number of annotators": 4,
+    "annotators": "Ann1,Ann2,Ann3,Ann4",
+    "number of annotations": 4,
+    "annotations": {
+      "Ann1": "-1",
+      "Ann2": "-3",
+      "Ann3": "3",
+      "Ann4": "1"
+    },
+    "soft_label": {
+      "-5": 0.0,
+      "-4": 0.0,
+      "-3": 0.25,
+      "-2": 0.0,
+      "-1": 0.25,
+      "0": 0.0,
+      "1": 0.25,
+      "2": 0.0,
+      "3": 0.25,
+      "4": 0.0,
+      "5": 0.0
+    },
+    "split": "test",
+    "lang": "en",
+    "other_info": {
+      "explanations": [
+        "A Quoran does not equal a scientist.",
+        "although  both refer to the same topic of tranlsation, but objects are different ",
+        "Q2 specifies a named entity and Q1 refers to a different concepts; match in phrase \"believe earth flat\"; \"Any\" and \"a\" can be substituted",
+        "\"Where the information is found\" in the questions varies."
+      ]
+    }
+  }
+}

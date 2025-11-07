@@ -1,0 +1,26 @@
+{
+	"Ann1":{
+		"Gender":"Male",
+		"Age":"26",
+		"Nationality":"Chinese",
+		"Education":"master student",
+	},
+	"Ann2":{
+		"Gender":"Female",
+		"Age":"30",
+		"Nationality":"Chinese",
+		"Education":"master student",
+	},
+	"Ann3":{
+		"Gender":"Male",
+		"Age":"26",
+		"Nationality":"German",
+		"Education":"master student",
+	},
+	"Ann4":{
+		"Gender":"Female",
+		"Age":"36",
+		"Nationality":"Chinese",
+		"Education":"master student",
+	}
+}
