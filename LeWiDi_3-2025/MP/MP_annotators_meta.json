@@ -1,0 +1,5062 @@
+{
+    "0": {
+        "Age": 19.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "DATA_EXPIRED",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "1": {
+        "Age": 34.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "2": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "3": {
+        "Age": 55.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "4": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "5": {
+        "Age": 57.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "6": {
+        "Age": 35.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "7": {
+        "Age": 43.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "8": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Haiti",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "9": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "10": {
+        "Age": 46.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "11": {
+        "Age": 42.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "12": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "13": {
+        "Age": 32.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "14": {
+        "Age": 43.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "15": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "16": {
+        "Age": 48.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "17": {
+        "Age": 48.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "18": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "Ireland",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "19": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "20": {
+        "Age": 60.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "21": {
+        "Age": 49.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "22": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "DATA_EXPIRED",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "23": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "New Zealand",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "24": {
+        "Age": 41.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "25": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "26": {
+        "Age": 44.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "27": {
+        "Age": 35.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "28": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "Australia",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "29": {
+        "Age": 39.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "30": {
+        "Age": 55.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "31": {
+        "Age": 36.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "32": {
+        "Age": 38.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "33": {
+        "Age": 19.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "34": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "35": {
+        "Age": 65.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "36": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "37": {
+        "Age": 44.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "38": {
+        "Age": 62.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "39": {
+        "Age": 48.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "40": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "41": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "42": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "43": {
+        "Age": 47.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "44": {
+        "Age": 52.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "DATA_EXPIRED",
+        "Country of birth": "Hong Kong",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "45": {
+        "Age": 55.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "46": {
+        "Age": 53.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "47": {
+        "Age": 45.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "48": {
+        "Age": 32.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "49": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "50": {
+        "Age": 42.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "51": {
+        "Age": 42.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "52": {
+        "Age": 41.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "53": {
+        "Age": 52.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "54": {
+        "Age": 50.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "55": {
+        "Age": 35.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "56": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "57": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "58": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Ireland",
+        "Country of residence": "Ireland",
+        "Nationality": "Ireland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "59": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "60": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "Australia",
+        "Country of residence": "Australia",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "61": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "South Africa",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "62": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "63": {
+        "Age": NaN,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "South Africa",
+        "Nationality": "India",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "64": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Poland",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "65": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Canada",
+        "Nationality": "India",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "66": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "United Arab Emirates",
+        "Country of residence": "United States",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "67": {
+        "Age": 33.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "68": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Netherlands",
+        "Nationality": "India",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Part-Time"
+    },
+    "69": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "70": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "South Africa",
+        "Country of residence": "South Africa",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "71": {
+        "Age": 36.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "India",
+        "Country of residence": "Australia",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "72": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "France",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "73": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "74": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "75": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "76": {
+        "Age": 34.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "77": {
+        "Age": 41.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "78": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "79": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "80": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "81": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "82": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "83": {
+        "Age": 34.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "84": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "85": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Dominican Republic",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "86": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "87": {
+        "Age": 50.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "88": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "89": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "90": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "91": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "92": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "93": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "94": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "95": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "96": {
+        "Age": 41.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "97": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Italy",
+        "Country of residence": "Italy",
+        "Nationality": "Italy",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "98": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "99": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "100": {
+        "Age": 46.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "101": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "102": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Martinique",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "103": {
+        "Age": 59.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "104": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "105": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "106": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "107": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "108": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "109": {
+        "Age": 54.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "110": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "111": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "112": {
+        "Age": 34.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "113": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "114": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Togo",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "115": {
+        "Age": 36.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "116": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "117": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "118": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "119": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "120": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "121": {
+        "Age": 33.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "122": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "France",
+        "Country of residence": "France",
+        "Nationality": "France",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "123": {
+        "Age": NaN,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "124": {
+        "Age": 18.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "125": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "126": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "127": {
+        "Age": 31.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "128": {
+        "Age": 54.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "129": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Part-Time"
+    },
+    "130": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "131": {
+        "Age": 58.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "132": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "133": {
+        "Age": 37.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "134": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Morocco",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "135": {
+        "Age": 45.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Togo",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Other"
+    },
+    "136": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "137": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "138": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "139": {
+        "Age": 32.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "140": {
+        "Age": 49.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "141": {
+        "Age": 35.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "142": {
+        "Age": 47.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Lebanon",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "143": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "144": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "145": {
+        "Age": 44.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "146": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "147": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Canada",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "148": {
+        "Age": 55.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "149": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "150": {
+        "Age": 35.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "151": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "152": {
+        "Age": 35.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "153": {
+        "Age": 37.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "154": {
+        "Age": 66.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "155": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "Yes",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "156": {
+        "Age": 36.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "157": {
+        "Age": 38.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "158": {
+        "Age": 43.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "159": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "160": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "161": {
+        "Age": 32.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "162": {
+        "Age": 58.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "163": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "DATA_EXPIRED",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "164": {
+        "Age": 40.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "165": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "166": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "167": {
+        "Age": NaN,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "168": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "169": {
+        "Age": 19.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "170": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "171": {
+        "Age": 51.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "172": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "173": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "174": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "175": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "176": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "177": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "178": {
+        "Age": 38.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "179": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "180": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "181": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "182": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "183": {
+        "Age": NaN,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "184": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "185": {
+        "Age": 54.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "186": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "187": {
+        "Age": 37.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Other"
+    },
+    "188": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "189": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "190": {
+        "Age": 45.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "191": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "192": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "193": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "194": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "195": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "196": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Austria",
+        "Country of residence": "Austria",
+        "Nationality": "Austria",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "197": {
+        "Age": 72.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "198": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "199": {
+        "Age": 58.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "200": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "201": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "202": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "203": {
+        "Age": 47.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "204": {
+        "Age": 38.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "205": {
+        "Age": 37.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Lebanon",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "206": {
+        "Age": 35.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Bosnia and Herzegovina",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "207": {
+        "Age": 68.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "208": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "Yes",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "209": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "210": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "211": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "212": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "213": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "214": {
+        "Age": 55.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Romania",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "215": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "China",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "216": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "217": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "218": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "219": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "220": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "Yes",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "221": {
+        "Age": 33.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "222": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "223": {
+        "Age": 19.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "224": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "225": {
+        "Age": 46.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "226": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "227": {
+        "Age": 35.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "228": {
+        "Age": 52.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "229": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "230": {
+        "Age": 44.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "231": {
+        "Age": 45.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "232": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "233": {
+        "Age": 37.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "234": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "235": {
+        "Age": 38.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "236": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "237": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "238": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "239": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Netherlands",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "240": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "241": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "242": {
+        "Age": 38.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "243": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "244": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "245": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "246": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "247": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "248": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "249": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "250": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "251": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "252": {
+        "Age": 39.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "253": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "254": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "255": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "256": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "257": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "258": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "259": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "260": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Other"
+    },
+    "261": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "262": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "263": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "264": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "265": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "266": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Portugal",
+        "Country of residence": "Portugal",
+        "Nationality": "Portugal",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "267": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "268": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Hungary",
+        "Nationality": "Brazil",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Full-Time"
+    },
+    "269": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "270": {
+        "Age": 33.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "United States",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "271": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "United States",
+        "Nationality": "Brazil",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "272": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "273": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Brazil",
+        "Country of residence": "United States",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "274": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "No",
+        "Employment status": "Other"
+    },
+    "275": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "276": {
+        "Age": 44.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "277": {
+        "Age": 35.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Germany",
+        "Nationality": "Brazil",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "278": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "279": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "United States",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "280": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "281": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "282": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Netherlands",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "283": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "United States",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "284": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "United States",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "285": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "286": {
+        "Age": 37.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Canada",
+        "Nationality": "Brazil",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "287": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Portugal",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "288": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Brazil",
+        "Country of residence": "Australia",
+        "Nationality": "Brazil",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "289": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Hungary",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "290": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Brazil",
+        "Country of residence": "Hungary",
+        "Nationality": "Brazil",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "291": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Ireland",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "292": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Ireland",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "293": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United States",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "294": {
+        "Age": 31.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "295": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Germany",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "296": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Germany",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "297": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United States",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "298": {
+        "Age": 37.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "299": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Canada",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "300": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "301": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Canada",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "302": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Netherlands",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "303": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "South Africa",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "304": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "305": {
+        "Age": 51.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "South Africa",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "306": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Germany",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "307": {
+        "Age": 42.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Netherlands",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "308": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "309": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "Germany",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "310": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "New Zealand",
+        "Nationality": "India",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "311": {
+        "Age": 33.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "India",
+        "Country of residence": "Netherlands",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "312": {
+        "Age": 44.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "313": {
+        "Age": 31.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "India",
+        "Country of residence": "United Kingdom",
+        "Nationality": "India",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "314": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "India",
+        "Country of residence": "Canada",
+        "Nationality": "India",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "315": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Switzerland",
+        "Country of residence": "Switzerland",
+        "Nationality": "Switzerland",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "316": {
+        "Age": 54.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "317": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "318": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "319": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "320": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "321": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "322": {
+        "Age": 37.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "323": {
+        "Age": 47.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "324": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "325": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "326": {
+        "Age": 64.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "327": {
+        "Age": 47.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "328": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "329": {
+        "Age": 39.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "330": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "331": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "332": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "333": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "334": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "335": {
+        "Age": 35.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "336": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "337": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "338": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Full-Time"
+    },
+    "339": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Spain",
+        "Country of residence": "Spain",
+        "Nationality": "Spain",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "340": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "341": {
+        "Age": 49.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "342": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "343": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "344": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "345": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "346": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "347": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "348": {
+        "Age": 34.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "349": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "350": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "351": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "352": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "353": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "354": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "355": {
+        "Age": 36.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "356": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "357": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "358": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "359": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "360": {
+        "Age": 39.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "361": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "362": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "363": {
+        "Age": 34.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "364": {
+        "Age": 46.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "Mexico",
+        "Nationality": "Mexico",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "365": {
+        "Age": 27.0,
+        "Gender": "DATA_EXPIRED",
+        "Ethnicity simplified": "DATA_EXPIRED",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "366": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "DATA_EXPIRED",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "367": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Spain",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "368": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "369": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Argentina",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "370": {
+        "Age": 60.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "371": {
+        "Age": 54.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Nicaragua",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "372": {
+        "Age": 37.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Argentina",
+        "Country of residence": "United States",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "373": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "374": {
+        "Age": 38.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Mexico",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "375": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "Argentina",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "376": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "377": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Spain",
+        "Nationality": "Colombia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "378": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Due to start a new job within the next month"
+    },
+    "379": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "380": {
+        "Age": 30.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Argentina",
+        "Country of residence": "Hungary",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "381": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "382": {
+        "Age": 45.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "383": {
+        "Age": 35.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Chile",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "384": {
+        "Age": 42.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Puerto Rico",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "385": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "386": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "387": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "388": {
+        "Age": 23.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "389": {
+        "Age": 38.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "390": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "391": {
+        "Age": 44.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "392": {
+        "Age": 47.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Mexico",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "393": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "394": {
+        "Age": 37.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "395": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "396": {
+        "Age": 31.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Sweden",
+        "Nationality": "Colombia",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "397": {
+        "Age": 18.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United States",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "Yes",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "398": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "United States",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "399": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "400": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "401": {
+        "Age": 32.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Colombia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "402": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Colombia",
+        "Country of residence": "Belgium",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "403": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Italy",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "404": {
+        "Age": 38.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "405": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Germany",
+        "Nationality": "Colombia",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "406": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "407": {
+        "Age": 39.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "Canada",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "408": {
+        "Age": 38.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Colombia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "409": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "410": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Italy",
+        "Nationality": "Colombia",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "411": {
+        "Age": 45.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "412": {
+        "Age": 25.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Mexico",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "413": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "Mexico",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "414": {
+        "Age": 43.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "Spain",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "415": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Netherlands",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "416": {
+        "Age": 34.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "417": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Argentina",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "418": {
+        "Age": 36.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "419": {
+        "Age": 33.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "420": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "421": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "422": {
+        "Age": 51.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "423": {
+        "Age": 32.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Colombia",
+        "Country of residence": "Australia",
+        "Nationality": "Colombia",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "424": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Colombia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Colombia",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "425": {
+        "Age": 54.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Italy",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "426": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "427": {
+        "Age": 42.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Colombia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Colombia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Part-Time"
+    },
+    "428": {
+        "Age": 39.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "429": {
+        "Age": 21.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "Germany",
+        "Nationality": "Colombia",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "430": {
+        "Age": 19.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "DATA_EXPIRED",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "431": {
+        "Age": 31.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Hungary",
+        "Nationality": "Argentina",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "432": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Colombia",
+        "Country of residence": "United States",
+        "Nationality": "Colombia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "433": {
+        "Age": 46.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Argentina",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "434": {
+        "Age": 42.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Argentina",
+        "Country of residence": "Ireland",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "435": {
+        "Age": 31.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Argentina",
+        "Country of residence": "Hungary",
+        "Nationality": "Argentina",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "436": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Argentina",
+        "Country of residence": "Spain",
+        "Nationality": "Argentina",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "437": {
+        "Age": 18.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Colombia",
+        "Country of residence": "Germany",
+        "Nationality": "Colombia",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "438": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Morocco",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "439": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Jordan",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Jordan",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "440": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United Arab Emirates",
+        "Country of residence": "Greece",
+        "Nationality": "Palestinian Territory",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "441": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Germany",
+        "Nationality": "Palestinian Territory",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "442": {
+        "Age": 31.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Egypt",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Egypt",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "443": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Asian",
+        "Country of birth": "Lebanon",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Lebanon",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "444": {
+        "Age": 48.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Algeria",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "445": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "United Kingdom",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "446": {
+        "Age": 18.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "447": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Algeria",
+        "Country of residence": "France",
+        "Nationality": "Algeria",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "448": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Lebanon",
+        "Country of residence": "France",
+        "Nationality": "Lebanon",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "449": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Kuwait",
+        "Country of residence": "Germany",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "450": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Morocco",
+        "Country of residence": "Germany",
+        "Nationality": "Morocco",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "451": {
+        "Age": 41.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "United Arab Emirates",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Slovenia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "452": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Morocco",
+        "Country of residence": "France",
+        "Nationality": "Morocco",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "453": {
+        "Age": 72.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Jordan",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "454": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Egypt",
+        "Country of residence": "Germany",
+        "Nationality": "Egypt",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "455": {
+        "Age": 48.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Lebanon",
+        "Country of residence": "Canada",
+        "Nationality": "Canada",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "456": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Saudi Arabia",
+        "Country of residence": "Italy",
+        "Nationality": "Lebanon",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "457": {
+        "Age": NaN,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Morocco",
+        "Country of residence": "Canada",
+        "Nationality": "Morocco",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "458": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Egypt",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "459": {
+        "Age": 27.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Bahrain",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Bahrain",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "460": {
+        "Age": 45.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Lebanon",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Lebanon",
+        "Student status": "No",
+        "Employment status": "Part-Time"
+    },
+    "461": {
+        "Age": 22.0,
+        "Gender": "Prefer not to say",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Egypt",
+        "Country of residence": "Germany",
+        "Nationality": "Egypt",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "462": {
+        "Age": 28.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "Hungary",
+        "Nationality": "Egypt",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "463": {
+        "Age": 31.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Egypt",
+        "Country of residence": "United States",
+        "Nationality": "Egypt",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "464": {
+        "Age": 38.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Egypt",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "465": {
+        "Age": 35.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Saudi Arabia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Saudi Arabia",
+        "Student status": "No",
+        "Employment status": "Not in paid work (e.g. homemaker', 'retired or disabled)"
+    },
+    "466": {
+        "Age": 20.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Germany",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "467": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Lebanon",
+        "Country of residence": "Italy",
+        "Nationality": "Lebanon",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "468": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Saudi Arabia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Saudi Arabia",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "469": {
+        "Age": 20.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "United States",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "470": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "DATA_EXPIRED",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Egypt",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Full-Time"
+    },
+    "471": {
+        "Age": 34.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Egypt",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "472": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Hungary",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "473": {
+        "Age": 36.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Czech Republic",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "474": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Black",
+        "Country of birth": "Somalia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "Yes",
+        "Employment status": "Full-Time"
+    },
+    "475": {
+        "Age": 38.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Tunisia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Tunisia",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "476": {
+        "Age": 23.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Sweden",
+        "Nationality": "Sweden",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "477": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Israel",
+        "Country of residence": "Israel",
+        "Nationality": "Israel",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "478": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Egypt",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "479": {
+        "Age": 21.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Lebanon",
+        "Country of residence": "Germany",
+        "Nationality": "Germany",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "480": {
+        "Age": 19.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Egypt",
+        "Country of residence": "Netherlands",
+        "Nationality": "Egypt",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "481": {
+        "Age": 41.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Saudi Arabia",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Saudi Arabia",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "482": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Egypt",
+        "Student status": "No",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "483": {
+        "Age": 26.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Morocco",
+        "Country of residence": "Canada",
+        "Nationality": "Morocco",
+        "Student status": "No",
+        "Employment status": "Other"
+    },
+    "484": {
+        "Age": 29.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Lebanon",
+        "Country of residence": "Germany",
+        "Nationality": "Lebanon",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "485": {
+        "Age": 22.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Iraq",
+        "Country of residence": "Australia",
+        "Nationality": "Iraq",
+        "Student status": "Yes",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "486": {
+        "Age": 48.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Jordan",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "487": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Israel",
+        "Country of residence": "Israel",
+        "Nationality": "Israel",
+        "Student status": "Yes",
+        "Employment status": "Unemployed (and job seeking)"
+    },
+    "488": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Palestinian Territory",
+        "Country of residence": "Italy",
+        "Nationality": "Palestinian Territory",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "489": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Jordan",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Jordan",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "490": {
+        "Age": 40.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "United Kingdom",
+        "Nationality": "United Kingdom",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "491": {
+        "Age": 24.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "DATA_EXPIRED",
+        "Country of residence": "United States",
+        "Nationality": "United States",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "492": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Jordan",
+        "Country of residence": "Hungary",
+        "Nationality": "Jordan",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "493": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "United Kingdom",
+        "Nationality": "Egypt",
+        "Student status": "Yes",
+        "Employment status": "Other"
+    },
+    "494": {
+        "Age": 26.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Saudi Arabia",
+        "Country of residence": "Hungary",
+        "Nationality": "Jordan",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "495": {
+        "Age": 27.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Yemen",
+        "Country of residence": "Germany",
+        "Nationality": "Yemen",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "496": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "497": {
+        "Age": 30.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Egypt",
+        "Country of residence": "United States",
+        "Nationality": "Egypt",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "498": {
+        "Age": 24.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Algeria",
+        "Country of residence": "France",
+        "Nationality": "Algeria",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "Part-Time"
+    },
+    "499": {
+        "Age": 29.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Germany",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "No",
+        "Employment status": "Full-Time"
+    },
+    "500": {
+        "Age": 25.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "Morocco",
+        "Country of residence": "France",
+        "Nationality": "Morocco",
+        "Student status": "No",
+        "Employment status": "Other"
+    },
+    "501": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "White",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Hungary",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "Yes",
+        "Employment status": "Part-Time"
+    },
+    "502": {
+        "Age": 28.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "DATA_EXPIRED",
+        "Country of birth": "Syrian Arab Republic",
+        "Country of residence": "Canada",
+        "Nationality": "Syrian Arab Republic",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "503": {
+        "Age": 32.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "Iraq",
+        "Country of residence": "Netherlands",
+        "Nationality": "Netherlands",
+        "Student status": "No",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "504": {
+        "Age": 39.0,
+        "Gender": "Female",
+        "Ethnicity simplified": "Other",
+        "Country of birth": "United Arab Emirates",
+        "Country of residence": "Canada",
+        "Nationality": "Palestinian Territory",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    },
+    "505": {
+        "Age": 22.0,
+        "Gender": "Male",
+        "Ethnicity simplified": "Mixed",
+        "Country of birth": "DATA_EXPIRED",
+        "Country of residence": "Hungary",
+        "Nationality": "Egypt",
+        "Student status": "DATA_EXPIRED",
+        "Employment status": "DATA_EXPIRED"
+    }
+}
