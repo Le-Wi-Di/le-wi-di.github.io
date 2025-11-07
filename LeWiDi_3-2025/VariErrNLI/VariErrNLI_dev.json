@@ -1,0 +1,1970 @@
+{
+    "49807": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "The next year, he built himself a palace, Iolani, which can still be toured in Honolulu.",
+            "statement": "Lolani was built in only 1 year."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann2,Ann3,Ann4",
+        "number of annotations": 5,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "entailment,neutral",
+            "Ann3": "neutral",
+            "Ann4": "entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.5,
+                "1": 0.5
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context makes no mention of how long it took to build lolani.",
+                "\"The next year\" can be interpreted as indicating that the building of Lolani was concluded in the same year.",
+                "\"The next year\" can be interpreted as indicating that the building of Lolani was started in the next year.",
+                "We don't know when did Lolani start to be built.",
+                "It was built \"the next year\"."
+            ]
+        }
+    },
+    "76020": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "The city was founded in the third millennium b.c. on the north shore of the bay, and reached a peak during the tenth century b.c. , when it was one of the most important cities in the Ionian Federation the poet Homer was born in S myrna during this period.",
+            "statement": "The city was founded in the third millennium"
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "entailment",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.25,
+                "1": 0.75
+            },
+            "entailment": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The  city was founded in the third millennium b.c., not in the third millennium.",
+                "The context states that the city was founded in the third millenium b.c. and we can assume that the third millenium mentioned in the statement is also b.c.",
+                "“the third millennium” is different from “the third millennium b.c.”",
+                "It should be third millennium bc."
+            ]
+        }
+    },
+    "69815": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "yeah it's a U S territory and it's just we own it or",
+            "statement": "I used to be great at remembering this type of thing, but now I don't."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The statement is irrelevant to what is discussed in the context. I think the topics are different.",
+                "The statements seem to be completely unrelated.",
+                "We can not judge “my memory” based on the context.",
+                "Not relevant"
+            ]
+        }
+    },
+    "94674": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Meanwhile, a site established for the WorldAid '96 Global Expo and Conference on Emergency Relief, which took place last fall, gives you a firsthand glimpse of the frequently crass world of the relief business (note the long list of commercial exhibitors in attendance).",
+            "statement": "WorldAid had a GLobal expo in 2002."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context mentions that WordAid had Global Expo last fall, we don't know whether last year was 2002 or not.",
+                "The context talks only about a Global expo in 1996, not in 2002.",
+                "We don't know how often is a Global expo hold.",
+                "Context and statement irrelevant to each other"
+            ]
+        }
+    },
+    "113193": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "of course you could annex Cuba but they wouldn't like that a bit",
+            "statement": "Cubans would go up in arms if we tried to annex Cuba."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The statement could be true, because if Cubans wouldn't like that, it could be possible that they would go up in arms.",
+                "The context talks only about the Cubans disliking an annexation of Cuba. That they would use armed resistance is not clear.",
+                "We don't know Cubans reaction if Cuba is annexed.",
+                "From context, it is only known that the Cubans would not be happy about this, but not known if they will arm themselves"
+            ]
+        }
+    },
+    "65879": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "After the recovery of Jerusalem in 1099, it took four hundred years of sieges and battles, treaties, betrayals, and yet more battles, before Christian kings and warlords succeeded in subduing the Moors.",
+            "statement": "The Moors were able to subdue the Christian kings after just a decade of war."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context refers to the success of the Christian kings and warlords, but the statement refers in the opposite direction",
+                "The Christian kings subdued the Moors, not the other way around.",
+                "It was Christian kings who subdued the Moors, not inverse.",
+                "The Moors were then one subdued; It took the Chrisitans four hundred years."
+            ]
+        }
+    },
+    "107468": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "You have to walk through it).",
+            "statement": "Walking is the best way to get through it."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "entailment",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "\"The best way\" is not mentioned in the context. It is unclear if walking is the best way.",
+                "Statement is a clear paraphrase of the context.",
+                "We don't know what is the best way to get through it, maybe driving is better than walking.",
+                "Walking is not meant as best way but the only way"
+            ]
+        }
+    },
+    "119768": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "I had rejected it as absurd, nevertheless it persisted.",
+            "statement": "I rejected it as absurd but it persisted out of protest."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "It is unclear if it persisted out of protest or of other reasons.",
+                "The context does not say anything about the reasons for the persistence.",
+                "We don't know the reason for persisting, maybe my rejection was overmitted.",
+                "paraphrases"
+            ]
+        }
+    },
+    "105769": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "yeah yeah i i went i went off to school wanting to either be a high school algebra teacher or high school French teacher because my two favorite people in the in high school were my algebra teacher and French teacher and uh and i was going to do that until the end of our sophomore year when we wanted uh we came time to sign up for majors and i had taken chemistry for the first time that year and surprised myself i did well in it",
+            "statement": "You are required to sign up for a major freshman year."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The speaker in the context mentions that he/she sign up for major until the end of the sophomore year, not freshman year, so the statement is false, people don't need to sign up in their freshman year.",
+                "The context states that the time for signing up for majors is sophomore year, not freshman year.",
+                "At the end of our sophomore year, you are required to sign up for majors.",
+                "No, it happens in the sophomore year"
+            ]
+        }
+    },
+    "52542": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "The long-sought, the mysterious, the elusive Jane Finn!",
+            "statement": "Jane Finn is as beautiful as she is mysterious."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The comment about Jane Finn stated both in the context and statement is mysterious. There is no mention of \"beautiful\" in the context.",
+                "It is not clear whether Jane Finn is beautiful.",
+                "We don't know whether Jane Finn is beautiful or not.",
+                "No Info: No Info about the beauty of Jane Finn"
+            ]
+        }
+    },
+    "76947": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "i think we have too thank you very much you too bye-bye",
+            "statement": "I don't think we can thank you enough for your help."
+        },
+        "number of annotators": 3,
+        "annotators": "Ann1,Ann3,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann3": "entailment,neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.667,
+                "1": 0.333
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context doesn't mention why they are thanking you, it may or may not because of the help.",
+                "Both sentences express strong gratitude.",
+                "Maybe \"I\" think oral thanks is enough.",
+                "exaggeration"
+            ]
+        }
+    },
+    "120149": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "There's a lot of villas all the way along, but by degrees they seemed to get more and more thinned out, and in the end we got to one that seemed the last of the bunch.",
+            "statement": "There were only a few villas the whole way along, until we reached a small village that seemed to be the end."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context clearly suggests that there are many villas all the way along.",
+                "In the end they reached a single villa, not a small village.",
+                "There are a lot of villas the whole way along.",
+                "There is a lot of villas all the way along."
+            ]
+        }
+    },
+    "59208": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "He's chosen Meg Ryan.",
+            "statement": "A possible selection would be Meg Ryan or Jon Doe."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "neutral",
+            "Ann3": "entailment",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.5,
+                "1": 0.5
+            },
+            "neutral": {
+                "0": 0.5,
+                "1": 0.5
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The selection is Meg Ryan. So Meg Ryan or Jon Doe is true.",
+                "It's not clear from which pool he chose Meg Ryan.",
+                "It is possible, because Meg Ryan is one of the two candidates.",
+                "No info about the other choice of person"
+            ]
+        }
+    },
+    "80630": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "The tree-lined avenue extends less than three blocks to the sea.",
+            "statement": "The sea isn't even three blocks away."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann3,Ann4,Ann4",
+        "number of annotations": 6,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "entailment",
+            "Ann3": "entailment,neutral",
+            "Ann4": "contradiction,entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "neutral": {
+                "0": 0.75,
+                "1": 0.25
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Both the context and the statement talk about the distance to the sea is lee than three blocks.",
+                "If the avenue reaches the sea after less then three blocks, it cannot be further away than three blocks.",
+                "The avenue is less than three blocks to the sea.",
+                "It is not given where is the location of the narrator.",
+                "If the statement means that the sea is more than three blocks away",
+                "If the statement means that the sea is less than three blocks away"
+            ]
+        }
+    },
+    "46003": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "trying to keep grass alive during a summer on a piece of ground that big was expensive",
+            "statement": "The watering and fertilizer, can cost a lot to keep grass alive in the summer months."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context doesn't mention the reason for the high cost.",
+                "It's not clear what exactly is expensive about keeping the grass alive.",
+                "It costs a lot to keep grass alive in the summer, but the reason can be watering and fertilizer, or something else like labor and pesticide.",
+                "Keeping grass alive on a big ground can be expensive. For that you need watering and fertilizer, which can be expensive"
+            ]
+        }
+    },
+    "58357": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "What changed?",
+            "statement": "Nothing changed."
+        },
+        "number of annotators": 2,
+        "annotators": "Ann2,Ann4",
+        "number of annotations": 2,
+        "annotations": {
+            "Ann2": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The speaker doesn't assert anything about whether something changed.",
+                "context is a questions. The statement is answer, but can not be entailed."
+            ]
+        }
+    },
+    "91601": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Even today, Yanomamo men raid villages, kill men, and abduct women for procreative purposes.",
+            "statement": "Yanomamo eats food."
+        },
+        "number of annotators": 3,
+        "annotators": "Ann1,Ann3,Ann4",
+        "number of annotations": 3,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The  context doesn't mention if Yanomamo eats food.",
+                "Raiding villages, killing men and abducting women have nothing to do with food supply.",
+                "irrelevant"
+            ]
+        }
+    },
+    "42983": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "The town is also known for its sparkling wine and for the caves where about 70 per?­cent of France's cultivated mushrooms are grown.",
+            "statement": "The town has a lot of sparkling wine."
+        },
+        "number of annotators": 3,
+        "annotators": "Ann2,Ann3,Ann4",
+        "number of annotations": 3,
+        "annotations": {
+            "Ann2": "neutral",
+            "Ann3": "entailment",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.667,
+                "1": 0.333
+            },
+            "neutral": {
+                "0": 0.33299999999999996,
+                "1": 0.667
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "It could also be a small amount of sparkling wine for which the place is famous.",
+                "The town is famous for its sparkling wine, so it should have lots of sparkling wine.",
+                "It is only known about the reputation of the town's wine, but not known about the quantity of the wine"
+            ]
+        }
+    },
+    "64123": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Per week?",
+            "statement": "Every day."
+        },
+        "number of annotators": 2,
+        "annotators": "Ann1,Ann4,Ann4",
+        "number of annotations": 3,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann4": "contradiction,neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.5,
+                "1": 0.5
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context is a question and the statement is an answer. But I don't know whether the statement is exactly the answer to the question in the context.",
+                "per week means once every seven days",
+                "From a question can not be entailed to a answer"
+            ]
+        }
+    },
+    "98944": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "evaluation questions.",
+            "statement": "Only statements of the evaluation are available."
+        },
+        "number of annotators": 2,
+        "annotators": "Ann3,Ann4",
+        "number of annotations": 2,
+        "annotations": {
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The state of statements of the evaluation is not given in the context.",
+                "irrelevant"
+            ]
+        }
+    },
+    "13911": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Changes in technology and its application to electronic commerce and expanding Internet applications will change the specific control activities that may be employed and how they are implemented, but the basic requirements of control will not have changed.",
+            "statement": "Technology will make it so we have less control of activities."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Technology will change the employment and implementierung of some control activities, but the basic requirements, which means the degree of control, will not be changed.",
+                "It doesn't say anything about whether the possibility for control will change.",
+                "Although \"the basic requirements of control will not have changed\", we don't know whether technology will bring more control of activies or less control.",
+                "It is not mentioned how the specific control activites will be changed. But it is sure that the basic requirements of controll will not change"
+            ]
+        }
+    },
+    "124839": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "(A bigger contribution may or may not mean, I really, really support Candidate X.) Freedom of association is an even bigger stretch--one that Justice Thomas would laugh out of court if some liberal proposed it.",
+            "statement": "A bigger contribution means to support candidate Y."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann3,Ann4",
+        "number of annotations": 5,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "contradiction,neutral",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.5,
+                "1": 0.5
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "They context doesn't talk about candidate Y.",
+                "Candidate Y is not mentioned at all.",
+                "No, a bigger contribution can not prove any preference.",
+                "A bigger contribution may or may not mean to support Candidate X, so the possibility of supporting Y exists, but not hundred percent.",
+                "It is to support candidate X"
+            ]
+        }
+    },
+    "107399": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Bush the elder came of age when New England Republicans led the party, and patrician manners were boons to a Republican.",
+            "statement": "New England Republicans were weak."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.5,
+                "1": 0.5
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.5,
+                "1": 0.5
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "New England Republicans had patrician manners doesn't mean that they were weak.",
+                "New England Republicans cannot have been weak because they led the party.",
+                "New England Republicans could be weak or strong.",
+                "No info about the New England Republicans being weak"
+            ]
+        }
+    },
+    "110061": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "If you have the energy to climb the 387 steps to the top of the south tower, you will be rewarded with a stunning view over the city.",
+            "statement": "The south tower has the best view in the city."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The view of the south tower may or may not be the best.",
+                "It is not clear whether the stunning view is actually the best in the city.",
+                "The context did not compare the view of the south tower with other places, so we don't know whether it has the best view.",
+                "The south tower has a stunning view but it is not known if it is the best"
+            ]
+        }
+    },
+    "23583": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "While obviously constrained by their bondage, blacks nonetheless forged a culture rich with religious observances, folk tales, family traditions, song, and so on.",
+            "statement": "Clearly are constrained by their folk tales and traditions."
+        },
+        "number of annotators": 2,
+        "annotators": "Ann1,Ann4",
+        "number of annotations": 2,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "They are constrained by their bondage, not their folk tales and traditions.",
+                "They forges a rich culture with folk tales and traditions, which are not their constrans"
+            ]
+        }
+    },
+    "63218": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Recently, however, I have settled down and become decidedly less experimental.",
+            "statement": "I have lost my experimental nature due to old age."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The reason the speaker lost the experimental nature is not mentioned.",
+                "It's not clear whether the speaker is old.",
+                "The reason for the lost of my experimental nature could be old age, or others like lack of money or poor health condition.",
+                "The reason for becoming less experimental is unknown"
+            ]
+        }
+    },
+    "45774": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "According to a 1995 Financial Executives Research Foundation report,5 transaction processing and other routine accounting activities, such as accounts payable, payroll, and external reporting, consume about 69 percent of costs within finance.",
+            "statement": "The financial world would be ok it there wasn't any 5 percent processing."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context doesn't mention how the financial would be ok.",
+                "It's not clear what 5 percent processing is or what it's impact on the financial world would be.",
+                "Eliminating 5 percent processing may make the costs with finance lower, but we don't know whether there are some bad influence about that, like workers become less active.",
+                "5% transaction processing and other routine accounting activities count up about 69% of costs within finance. So the 5% plays a big roll in the financial world"
+            ]
+        }
+    },
+    "129081": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "right oh they've really done uh good job of keeping everybody informed of what's going on sometimes i've wondered if it wasn't almost more than we needed to know",
+            "statement": "I think I have shared too much information with everyone, so next year I will share less."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context doesn't mention what the speaker will do next year.",
+                "\"They\" shared information, not \"I\".",
+                "What I want to know is whether \"they\" shared too much information, not I, and what I will next year is not given in the context.",
+                "\"I\" didn't share the information, \"they\" did"
+            ]
+        }
+    },
+    "111338": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "He threw one of them and shot the other.",
+            "statement": "He shot his gun."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "He shot, but it is not clear what did he shot, it could have been a gun or an arrow.",
+                "It's not clear whether he shot with a gun or with some other weapon.",
+                "He shot, but the objective could be his gun or something else like arrow.",
+                "He shot on of them. So he must have shot his gun"
+            ]
+        }
+    },
+    "127073": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "maybe adult literacy maybe you know composition writing maybe you know uh volunteering you know on a tutor line or though the even through the elementary schools for help with homework or the other part of me says is God i've had enough kids  do i really",
+            "statement": "maybe I could volunteer to help coach sports since I've helped all my children be successful in sports"
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context makes no mention about coaching sports mentioned in the statement, so I don't know if the statement is true.",
+                "The speaker is not talking about sports but about writing.",
+                "Helping couch sports is not mentioned in the context.",
+                "I might volunteer to help with composition writing."
+            ]
+        }
+    },
+    "95883": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Charles Geveden has introduced legislation that will increase the Access to Justice supplement on court filing fees.",
+            "statement": "Charles Geveden initiated a law that will essentially lower court filing fees."
+        },
+        "number of annotators": 3,
+        "annotators": "Ann1,Ann3,Ann4",
+        "number of annotations": 3,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Increasing supplement is not a essential way to lower the fees.",
+                "No, Charles Geveden intiated a law wikk increase the court filling fees.",
+                "The law he initiated increased the access to justice supplement on court filling fees, meaning the court would need to pay more."
+            ]
+        }
+    },
+    "10916": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "He'd gone a long way on what he'd found in one elementary book.",
+            "statement": "He learned a lot from that elementary book."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "entailment",
+            "Ann3": "entailment",
+            "Ann4": "entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Both sentences suggest that he learned a lot from the book.",
+                "The statement is a paraphrase of the context.",
+                "He spent a lot of time on what he found in the elementary book, so it must be very useful.",
+                "\"had gone a long way\" means he had made a lot progress with what he found in one elemantary book"
+            ]
+        }
+    },
+    "96946": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Once or twice, but they seem more show than battle, said Adrin.",
+            "statement": "Adrin said they liked to perform more than they did fight."
+        },
+        "number of annotators": 3,
+        "annotators": "Ann1,Ann2,Ann3",
+        "number of annotations": 3,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "entailment",
+            "Ann3": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.33299999999999996,
+                "1": 0.667
+            },
+            "neutral": {
+                "0": 0.667,
+                "1": 0.333
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The statement is true because they seem more show than battle.",
+                "The statement is a paraphrase of the context.",
+                "Their preference is not shown in the context."
+            ]
+        }
+    },
+    "31775": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "well what station plays uh that type of music",
+            "statement": "What TV station has documentaries about space travel?"
+        },
+        "number of annotators": 2,
+        "annotators": "Ann2,Ann4",
+        "number of annotations": 2,
+        "annotations": {
+            "Ann2": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "These are different questions.",
+                "irrelevant"
+            ]
+        }
+    },
+    "140782": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Generally, FGD systems tend to be constructed closer to the ground compared to SCR technology retrofits.",
+            "statement": "FGD systems tend to replicate SCR systems."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context clearly suggest the difference between FG and SCR systems, which shows that FGD is not a replication of SCR systems.",
+                "They probably do not replicate SCR systems, because they are closer to the ground.",
+                "No, FGD systems are closer to the ground.",
+                "FGD systems tend to be closer to the ground; whereas SCR system not"
+            ]
+        }
+    },
+    "32754": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "After shuttering the DOE, Clinton could depict himself as a crusader against waste and bureaucracy who succeeded where even Reagan failed.",
+            "statement": "Reagan had tried to shutter the DOE but was unable to."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "entailment",
+            "Ann3": "entailment",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 0.25,
+                "1": 0.75
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Clinton successfully shuttered the DOE while Reagan failed, as mentioned in the context. So the statement is true.",
+                "Reagan failed at shuttering the DOE, so he tried to do it.",
+                "True, Reagan failed  to shutter the DOE.",
+                "It was Clinton who successfully shuttering DOE"
+            ]
+        }
+    },
+    "11618": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Enlarging the village was not desirable and most knew that Severn only desired wealth and a seat on the council of elders.",
+            "statement": "Severn was happy being poor."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Severn desired wealth, so he was not happy beding poor.",
+                "\"Severn desired wealth\" so they were not \"happy being poor\".",
+                "No, Severn only desired wealth so he should be unhappy being poor.",
+                "Severn wants wealth"
+            ]
+        }
+    },
+    "109278": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Lawyers in their first three years of practice or who are inactive pay $90, and retired lawyers pay nothing.",
+            "statement": "Lawyers pay $90 to be included in the directory."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "neutral",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.25,
+                "1": 0.75
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.75,
+                "1": 0.25
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Not all lawyers are required to pay $90.",
+                "It's not clear for what lawyers pay $90.",
+                "No, retired lawyers pay nothing to be included in the directory.",
+                "retired laywers do not pay anything. And it is not clear what the money is for."
+            ]
+        }
+    },
+    "140005": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "3 It should be noted that the toxicity (LC50) of a sample observed in a range-finding test may be significantly different from the toxicity observed in the follow-up chronic definitive test  (1) the definitive test is longer; and (2) the test may be performed with a sample collected at a different time, and possibly differing significantly in the level of toxicity.",
+            "statement": "The toxicity of a sample in the range-finding test will be exactly the same as the toxicity in the follow-up test."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The toxicity of a sample in a range-finding test may be different from the toxicity in the follow-up test, whereas the statement says the exact opposite.",
+                "The context says it \"may be significantly different\".",
+                "No, the toxicity of a sample in the range-finding test may be significantly different from the toxicity in the follow-up test.",
+                "They are not the same due to the test time and samples collected at a different time"
+            ]
+        }
+    },
+    "24103": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "if the United States had used full conventional power.",
+            "statement": "The United States is unable to maximize their potential."
+        },
+        "number of annotators": 2,
+        "annotators": "Ann2,Ann4",
+        "number of annotations": 2,
+        "annotations": {
+            "Ann2": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Maximizing potential is not mentioned.",
+                "It it unknown if US is able to maximize the potential or not. Maybe US is able to, just will not"
+            ]
+        }
+    },
+    "15771": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "or just get out and walk uh or even jog a little although i don't do that regularly but Washington's a great place to do that",
+            "statement": "\"I regularly go for a walk or a jog at Washington's.\""
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The speaker doesn't regularly go for a walk or a jog at Washington's.",
+                "\"i don't [walk or jog] regularly\" implies that the speaker also does no do that at Washington's",
+                "No, I don't go for a walk or a jog regularly.",
+                "Context implies that \"i\" do not walk or job regularly"
+            ]
+        }
+    },
+    "49237": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "'You burned down my house.'",
+            "statement": "'Even though you tried to burn it down, my house is in perfect state.'"
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "contradiction",
+            "Ann2": "contradiction",
+            "Ann3": "contradiction",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context suggest that the speaker's house was burned down, while the statement states that the house was not burned down.",
+                "After being burned down, the house will not be in perfect state.",
+                "No, you burned down my house means it already happened.",
+                "context entails the house was burned down"
+            ]
+        }
+    },
+    "121360": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "The tip was hooked towards the edge, the same way the tips are hammered for knives used for slaughter.",
+            "statement": "They were fragile and could not leave a scratch."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "contradiction",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "It is not clear if they were fragile.",
+                "It's not clear from the context whether \"they\" are fragile or not.",
+                "No, because knives used for slaughter are usually sharp.",
+                "irrelevant"
+            ]
+        }
+    },
+    "97569": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Candle grease?",
+            "statement": "Was it candle grease?"
+        },
+        "number of annotators": 3,
+        "annotators": "Ann1,Ann2,Ann4",
+        "number of annotations": 3,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "entailment",
+            "Ann4": "entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Both the context and the statement ask if it was candle grease.",
+                "The statement is a paraphrase of the context.",
+                "paraphrases"
+            ]
+        }
+    },
+    "66225": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "uh but you could fill a whole bunch of uh holes with these things i used to i used to advertise buying wheat pennies um i'd give a dollar a roll which two cents a piece which is basically overpriced",
+            "statement": "I made a good dollar while selling them."
+        },
+        "number of annotators": 3,
+        "annotators": "Ann1,Ann2,Ann4",
+        "number of annotations": 3,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "It is not clear from the context if the speaker sold them.",
+                "It is not clear how well the selling went.",
+                "Not clear context, but seems to be irrelevant to statement"
+            ]
+        }
+    },
+    "20181": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "What the judge really wants are the facts -- he wants to make a good decision, he said.",
+            "statement": "In the end the judge made a bad decision since he imprisoned someone innocent."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context doesn't suggest what kind of decision the judge made.",
+                "The judge could have made a bad decision even if his intentions were to only rely on facts.",
+                "We only know that the judge wants to make a good decision, but the desicion could be actually good or not.",
+                "No info about what happened in the end"
+            ]
+        }
+    },
+    "11534": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "He found himself thinking in circles of worry and pulled himself back to his problem.",
+            "statement": "He could not afford to get distracted from his problem."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.0,
+                "1": 1.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Although the context mentions that he pulled himself back to his problem, it is not clear if he could afford to get distracted.",
+                "He might also focus on the problem to distract him from his worries. It is not clear whether the problem really was so important.",
+                "His problem may be related to money, also may not.",
+                "Context means his way of thinking does not help him solve his problem"
+            ]
+        }
+    },
+    "66858": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "Managing better requires that agencies have, and rely upon, sound financial and program information.",
+            "statement": "Agencies that rely on information based on unsound financial information will have management problems."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "entailment",
+            "Ann3": "neutral",
+            "Ann4": "neutral"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.5,
+                "1": 0.5
+            },
+            "neutral": {
+                "0": 0.5,
+                "1": 0.5
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context talks about the importance of sound financial information, o it is natural to deduce that if financial information is not sound, there will be problems.",
+                "If sound information is required for better managing then unsound information will lead to management problems.",
+                "Sound financial information will help manage the agencies better, but without it doesn't meant to have problems, maybe it just makes the process less efficient.",
+                "Good Management requires sound financial, but unsound financial does noch necessarily Leads to management problems"
+            ]
+        }
+    },
+    "84781": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "By coordinating policy development and awareness activities in this manner, she helps ensure that new risks and policies are communicated promptly and that employees are periodically reminded of existing policies through means such as monthly bulletins, an intranet web site, and presentations to new employees.",
+            "statement": "There new employees are a risk."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "neutral",
+            "Ann2": "neutral",
+            "Ann3": "neutral",
+            "Ann4": "contradiction"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 0.75,
+                "1": 0.25
+            },
+            "entailment": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "neutral": {
+                "0": 0.25,
+                "1": 0.75
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "The context doesn't mention whether new employees are a risk or not.",
+                "Not the employees are a risk but they should be made aware of the risks.",
+                "The situation of new employees is not given in the context.",
+                "Nothing about the new employee being a risk"
+            ]
+        }
+    },
+    "127809": {
+        "annotation task": "natural language inference",
+        "text": {
+            "context": "I'm confused.",
+            "statement": "Not all of it is very clear to me."
+        },
+        "number of annotators": 4,
+        "annotators": "Ann1,Ann2,Ann3,Ann4",
+        "number of annotations": 4,
+        "annotations": {
+            "Ann1": "entailment",
+            "Ann2": "entailment",
+            "Ann3": "entailment",
+            "Ann4": "entailment"
+        },
+        "soft_label": {
+            "contradiction": {
+                "0": 1.0,
+                "1": 0.0
+            },
+            "entailment": {
+                "0": 0.0,
+                "1": 1.0
+            },
+            "neutral": {
+                "0": 1.0,
+                "1": 0.0
+            }
+        },
+        "split": "dev",
+        "lang": "en",
+        "other_info": {
+            "explanations": [
+                "Both the context and the statement suggest that the speaker does not understand.",
+                "The statement is a paraphrase of the context.",
+                "True, because \"confused\" means, at lease one thing is not very clear to me.",
+                "When someone is confused , then not everything is clear to him"
+            ]
+        }
+    }
+}
